@@ -1,0 +1,53 @@
+<html>
+<head>
+  <title>A Leaflet map!</title>
+  <link rel="stylesheet" href="/static/css/leaflet.css"/>
+  <link rel="stylesheet" href="/static/css/map.css"/>
+  <script src="/static/js/leaflet.js"></script>
+  <script src="/static/js/jquery.js"></script>
+  <script src="/static/js/d3.js"></script>
+  <script src="/static/js/leaflet.ajax.min.js"></script>
+  <style>
+    #map{ height: 100% }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <script>
+
+/*
+  // load a tile layer
+    let map = L.map('map',{
+    center: [48.1403114185532, 11.5611056053238], // Location munich hbf
+    zoom: 15
+    });
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+    //load transit routes into map
+    let routes = new L.LayerGroup();
+    let test =  new L.GeoJSON.AJAX("/routes/test.geojson");
+    let sBahn = new L.GeoJSON.AJAX("/routes/Lines_SBahn.geojson");
+    let tram = new L.GeoJSON.AJAX("/routes/Lines_Tram.geojson"); 
+    let uBahn = new L.GeoJSON.AJAX("/routes/Lines_UBahn.geojson");  
+    //sBahn.addTo(routes);
+    test.addTo(routes);
+    routes.addTo(map);
+    //load train stations into map
+    let stations = new L.GeoJSON.AJAX("/stations/stations.geojson"); 
+    //comment out to improve performance, will later delete unuses stations
+    
+    stations.addTo(map);
+
+*/
+    
+
+  </script>
+    <script src="/static/js/map.js"></script>
+    <script type="text/javascript" src="/static/js/browserfs.js"></script>
+    <script src="/static/js/animation.js"></script>
+</body>
+</html>

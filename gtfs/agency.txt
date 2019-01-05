@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+1,Münchner Verkehrs- und Tarifverbund GmbH (MVV),http://www.mvv-muenchen.de/,Europe/Berlin,DE,89 41 42 43 44,https://ticketshop.mvv-muenchen.de/
+8001,Autobus Oberbayern,http://www.airportbus-muenchen.de,Europe/Berlin,,,

@@ -1,0 +1,16 @@
+
+svg {
+    position: relative;
+  }
+  .lineConnect {
+    fill: none;
+    stroke: black;
+    stroke-width: 4;
+    opacity: 1;
+
+}
+  
+  path:hover {
+    fill: brown;
+    fill-opacity: .7;
+  }
