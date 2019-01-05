@@ -54,12 +54,17 @@
          map.on("zoomend", reset);
          console.log(collection.features.length)
 
+         let bounds;
+         let topLeft;
+         let bottomRight;
+
          reset();
+
          // Reposition the SVG to cover the features.
          function reset() {
-             var bounds = path.bounds(collection),
-                 topLeft = bounds[0],
-                 bottomRight = bounds[1];
+                 bounds = path.bounds(collection)
+                 topLeft = bounds[0]
+                 bottomRight = bounds[1]
              svg.attr("width", bottomRight[0] - topLeft[0])
                  .attr("height", bottomRight[1] - topLeft[1])
                  .style("left", topLeft[0] + "px")
@@ -96,7 +101,7 @@
              .attr("transform", function () {
                 var p = pathNode.getPointAtLength(0)
                 console.log(p)
-                return "translate(" + [p.x, p.y] + ")";
+                return "translate(" + [p.x+-topLeft[0], p.y +-topLeft[1]] + ")";
             })
              .style("fill", "green");
 
@@ -108,7 +113,7 @@
                  return function (t) {
                      var p = pathNode.getPointAtLength(pathLength*t);
 
-                     return "translate(" + [p.x, p.y] + ")";
+                     return "translate(" + [p.x+-topLeft[0], p.y +-topLeft[1]] + ")";
                  }
              });
 
