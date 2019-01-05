@@ -1,7 +1,7 @@
  // load a tile layer
  let map = new L.map('map', {
      center: [48.1403114185532, 11.5611056053238], // Location munich hbf
-     zoom: 15
+     zoom: 10
  });
 
  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
@@ -12,6 +12,9 @@
  // Use Leaflet to implement a D3 geometric transformation.
  var svg = d3.select(map.getPanes().overlayPane).append("svg"),
      g = svg.append("g").attr("class", "leaflet-zoom-hide");
+
+ vis = d3.select("#map")
+     .append("svg:svg")
 
 
 
@@ -71,41 +74,43 @@
              this.stream.point(point.x, point.y)
 
          };
-            // Draw a red circle on the map:
+         // Draw a red circle on the map:
 
 
-var targetPath = d3.selectAll('path').node()
-console.log(targetPath)
- var   pathNode = d3.select(targetPath).selectAll('.lineConnect')
- console.log(pathNode)
-    var pathLength = targetPath.getTotalLength();
+         var targetPath = d3.selectAll('.lineConnect');
+         console.log(targetPath)
+         var pathNode = targetPath.node()
+         console.log(pathNode)
+         var pathLength = pathNode.getTotalLength();
+         var circleRadii = [10];
 
-    group = svg.append("svg:g")._groups;
-    console.log(group)
-circle = group.push("circle")
-    .attr({
-    r: 10,   
-    fill: '#f33',
-    /*transform: function () {
-        var p = targetPath.getPointAtLength(0)
-        console.log(p)
-        return "translate(" + [p.x, p.y] + ")";
-    } */
-});
-console.log(circle)
+         var circles = svg.selectAll("circle")
+             .data(circleRadii)
+             .enter()
+             .append("circle");
 
-// Animate the circle:
+         var circleAttributes = circles
+             .attr("r", function (d) {
+                 return d;
+             })
+             .attr("transform", function () {
+                var p = pathNode.getPointAtLength(0)
+                console.log(p)
+                return "translate(" + [p.x, p.y] + ")";
+            })
+             .style("fill", "green");
 
-duration = 10000;
-circle.transition()
-    .duration(duration)
-    .ease("linear")
-    .attrTween("transform", function (d, i) {
-    return function (t) {
-        var p = pathNode.getPointAtLength(pathLength*t);
-        return "translate(" + [p.x, p.y] + ")";
-    }
-});
+             duration = 10000;
+             circles.transition()
+                 .duration(duration)
+                 .ease(d3.easeLinear)
+                 .attrTween("transform", function (d, i) {
+                 return function (t) {
+                     var p = pathNode.getPointAtLength(pathLength*t);
+
+                     return "translate(" + [p.x, p.y] + ")";
+                 }
+             });
 
      })
 
