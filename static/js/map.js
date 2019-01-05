@@ -8,14 +8,32 @@
      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
  }).addTo(map);
 
+         // Use Leaflet to implement a D3 geometric transformation.
+         function projectPoint(x, y) {
+            let point = map.latLngToLayerPoint(new L.LatLng(y, x));
+            this.stream.point(point.x, point.y)
 
+        };
  // Use Leaflet to implement a D3 geometric transformation.
  let svg = d3.select(map.getPanes().overlayPane).append("svg"),
      g = svg.append("g").attr("class", "leaflet-zoom-hide");
 
  vis = d3.select("#map")
      .append("svg:svg")
+ d3.json("/stations/stations.geojson").then(function (collection){
+    let transform = d3.geoTransform({
+        point: projectPoint
+    })
 
+    let stations = d3.geoPath().projection(transform);
+
+    let feature = g.selectAll("stations")
+             .data(collection.features)
+             .attr("class", "route")
+             .enter().append("stations")
+             .attr("d", stations);
+
+ })
  d3.json("/routes/Lines_SBahn.geojson")
      .then(function (collection) {
 
@@ -60,12 +78,6 @@
              feature.attr("d", path);
          }
 
-         // Use Leaflet to implement a D3 geometric transformation.
-         function projectPoint(x, y) {
-             let point = map.latLngToLayerPoint(new L.LatLng(y, x));
-             this.stream.point(point.x, point.y)
-
-         };
          // Draw a red circle on the map:
 
 
@@ -109,7 +121,8 @@
  /* //add svgLayer to map to work with d3
     let svgLayer = L.svg();
     svgLayer.addTo(map);  */
-
+    let test =  new L.GeoJSON.AJAX("/stations/sbahnStations.json");
+    test.addTo(map)
  /*let routes = new L.LayerGroup();
  let test =  new L.GeoJSON.AJAX("/routes/test.geojson");
  let sBahn = new L.GeoJSON.AJAX("/routes/Lines_SBahn.geojson");
