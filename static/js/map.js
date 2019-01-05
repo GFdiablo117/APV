@@ -10,24 +10,11 @@
 
 
  // Use Leaflet to implement a D3 geometric transformation.
- var svg = d3.select(map.getPanes().overlayPane).append("svg"),
+ let svg = d3.select(map.getPanes().overlayPane).append("svg"),
      g = svg.append("g").attr("class", "leaflet-zoom-hide");
 
  vis = d3.select("#map")
      .append("svg:svg")
-
-
-
-
-
- var toLine = d3.line()
-     .curve(d3.curveBasis)
-     .x(function (d) {
-         return applyLatLngToLayer(d).x
-     })
-     .y(function (d) {
-         return applyLatLngToLayer(d).y
-     });
 
  d3.json("/routes/Lines_SBahn.geojson")
      .then(function (collection) {
@@ -46,7 +33,7 @@
          // our function called projectPoint 
          let path = d3.geoPath().projection(transform);
 
-         var feature = g.selectAll("path")
+         let feature = g.selectAll("path")
              .data(collection.features)
              .attr("class", "route")
              .enter().append("path")
@@ -75,32 +62,31 @@
 
          // Use Leaflet to implement a D3 geometric transformation.
          function projectPoint(x, y) {
-             var point = map.latLngToLayerPoint(new L.LatLng(y, x));
+             let point = map.latLngToLayerPoint(new L.LatLng(y, x));
              this.stream.point(point.x, point.y)
 
          };
          // Draw a red circle on the map:
 
 
-         var targetPath = d3.selectAll('.lineConnect');
+         let targetPath = d3.selectAll('.lineConnect');
          console.log(targetPath)
-         var pathNode = targetPath.node()
+         let pathNode = targetPath.node()
          console.log(pathNode)
-         var pathLength = pathNode.getTotalLength();
-         var circleRadii = [10];
+         let pathLength = pathNode.getTotalLength();
+         let circleRadii = [10];
 
-         var circles = svg.selectAll("circle")
+         let circles = svg.selectAll("circle")
              .data(circleRadii)
              .enter()
              .append("circle");
 
-         var circleAttributes = circles
+         let circleAttributes = circles
              .attr("r", function (d) {
                  return d;
              })
              .attr("transform", function () {
-                var p = pathNode.getPointAtLength(0)
-                console.log(p)
+                let p = pathNode.getPointAtLength(0)
                 return "translate(" + [p.x+-topLeft[0], p.y +-topLeft[1]] + ")";
             })
              .style("fill", "green");
@@ -111,7 +97,7 @@
                  .ease(d3.easeLinear)
                  .attrTween("transform", function (d, i) {
                  return function (t) {
-                     var p = pathNode.getPointAtLength(pathLength*t);
+                     let p = pathNode.getPointAtLength(pathLength*t);
 
                      return "translate(" + [p.x+-topLeft[0], p.y +-topLeft[1]] + ")";
                  }
@@ -121,7 +107,7 @@
 
 
  /* //add svgLayer to map to work with d3
-    var svgLayer = L.svg();
+    let svgLayer = L.svg();
     svgLayer.addTo(map);  */
 
  /*let routes = new L.LayerGroup();
