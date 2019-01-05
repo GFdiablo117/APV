@@ -34,7 +34,7 @@
              .attr("d", stations);
 
  })
- d3.json("/routes/Lines_SBahn.geojson")
+ d3.json("/routes/Lines_SBahn.json")
      .then(function (collection) {
 
          //stream transform. transforms geometry before passing it to
