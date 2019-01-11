@@ -18,9 +18,7 @@ filteredData = {
 for element in data['features']:
     if element['properties'][vehicle] == True:
         filteredData['features'].append(element)
-print(filteredData)
     
-
 output = open(out_file, 'w')
 json.dump(filteredData, output)
 

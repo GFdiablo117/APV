@@ -1,1 +1,3154 @@
-{"type": "FeatureCollection", "features": [{"geometry": {"type": "Point", "coordinates": [11.5652403434013, 48.1391669640734]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5652403434013, "locationName": "Karlsplatz (Stachus)", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1391669640734, "locationID": 1, "bahn": false, "aliases": "Stachus Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U4 U5 KA"}}, {"geometry": {"type": "Point", "coordinates": [11.5764643342958, 48.1369784517773]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5764643342958, "locationName": "Marienplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1369784517773, "locationID": 2, "bahn": false, "aliases": "Rathaus M\u00fcnchen  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U3 U6 MP"}}, {"geometry": {"type": "Point", "coordinates": [11.5828448583857, 48.1338450729453]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5828448583857, "locationName": "Isartor", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1338450729453, "locationID": 3, "bahn": false, "aliases": "Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 ITO"}}, {"geometry": {"type": "Point", "coordinates": [11.5938895812341, 48.1285874606085]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5938895812341, "locationName": "Rosenheimer Platz", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1285874606085, "locationID": 4, "bahn": false, "aliases": "Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 RPL"}}, {"geometry": {"type": "Point", "coordinates": [11.604062351127, 48.1281372572089]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.604062351127, "locationName": "Ostbahnhof M\u00fcnchen", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1281372572089, "locationID": 5, "bahn": false, "aliases": "Ostbhf M\u00fcnchen Ost Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U5 OB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5611056053238, 48.1403114185532]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5611056053238, "locationName": "Hauptbahnhof", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1403114185532, "locationID": 6, "bahn": false, "aliases": "Hbf M\u00fcnchen main station central station  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U1 U2 U4 U5 U7 U8 HU BOB Meridian ALEX"}}, {"geometry": {"type": "Point", "coordinates": [11.548769289838, 48.1435373074276]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.548769289838, "locationName": "Hackerbr\u00fccke", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1435373074276, "locationID": 7, "bahn": false, "aliases": "ZOB Zentraler Omnibusbahnhof Wiesn Oktoberfest Hackerbruecke Hackerbrucke Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 HAC"}}, {"geometry": {"type": "Point", "coordinates": [11.5346138575063, 48.1426715356568]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5346138575063, "locationName": "Donnersbergerbr\u00fccke", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1426715356568, "locationID": 8, "bahn": false, "aliases": "Donnersbergerbruecke Donnersbergerbrucke Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 DBR BOB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5031776884065, 48.1433045582327]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5031776884065, "locationName": "Laim", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1433045582327, "locationID": 9, "bahn": false, "aliases": "Muenchen Munchen S1 S2 S3 S4 S6 S8 LAI"}}, {"geometry": {"type": "Point", "coordinates": [11.4606302423126, 48.1488327948459]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4606302423126, "locationName": "Pasing", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1488327948459, "locationID": 10, "bahn": false, "aliases": "Bf Pasing Bahnhof Muenchen Munchen S3 S4 S6 S8 S20 PBF ALEX"}}, {"geometry": {"type": "Point", "coordinates": [11.5194752136466, 48.1435446356566]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5194752136466, "locationName": "Hirschgarten", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1435446356566, "locationID": 31, "bahn": false, "aliases": "Bf Hirschgarten Muenchen Munchen S1 S2 S3 S4 S6 S8 HIG"}}, {"geometry": {"type": "Point", "coordinates": [11.5073647766005, 48.1804201569616]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5073647766005, "locationName": "Moosach", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1804201569616, "locationID": 300, "bahn": false, "aliases": "Bf Moosach Bahnhof Muenchen Munchen S1 U3 MO"}}, {"geometry": {"type": "Point", "coordinates": [11.5245056801586, 48.1969050394205]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5245056801586, "locationName": "Fasanerie", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1969050394205, "locationID": 310, "bahn": false, "aliases": "Muenchen Munchen S1 FBF"}}, {"geometry": {"type": "Point", "coordinates": [11.5406197306272, 48.2135810691061]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5406197306272, "locationName": "Feldmoching", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.2135810691061, "locationID": 320, "bahn": false, "aliases": "Bf Feldmoching Bahnhof Muenchen Munchen S1 U2 FM"}}, {"geometry": {"type": "Point", "coordinates": [11.6493531542647, 48.1489688777622]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.6493531542647, "locationName": "Daglfing", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1489688777622, "locationID": 700, "bahn": false, "aliases": "Muenchen Munchen S8 MDGF"}}, {"geometry": {"type": "Point", "coordinates": [11.648374120244, 48.1565562828095]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.648374120244, "locationName": "Englschalking", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1565562828095, "locationID": 710, "bahn": false, "aliases": "Muenchen Munchen S8 ESK"}}, {"geometry": {"type": "Point", "coordinates": [11.6466060472856, 48.1693843634722]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6466060472856, "locationName": "Johanneskirchen", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1693843634722, "locationID": 720, "bahn": false, "aliases": "Muenchen Munchen S8 JOH"}}, {"geometry": {"type": "Point", "coordinates": [11.678980644286, 48.1433804707853]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.678980644286, "locationName": "Riem", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1433804707853, "locationID": 800, "bahn": false, "aliases": "Bf Riem Bahnhof Muenchen Munchen S2 RIB"}}, {"geometry": {"type": "Point", "coordinates": [11.6159589868961, 48.1342930665336]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.6159589868961, "locationName": "Leuchtenbergring", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1342930665336, "locationID": 900, "bahn": false, "aliases": "Muenchen Munchen S2 S4 S6 S8 LRI"}}, {"geometry": {"type": "Point", "coordinates": [11.6328805371767, 48.1333589981527]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6328805371767, "locationName": "Berg am Laim", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1333589981527, "locationID": 910, "bahn": false, "aliases": "Berg am Laim Bf S\u00fcd Muenchen Munchen S2 S4 S6 BAL"}}, {"geometry": {"type": "Point", "coordinates": [11.6633349555096, 48.12551990564]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6633349555096, "locationName": "Trudering", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.12551990564, "locationID": 920, "bahn": false, "aliases": "Muenchen Munchen S4 S6 U2 TR"}}, {"geometry": {"type": "Point", "coordinates": [11.6305710535399, 48.0937625889992]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6305710535399, "locationName": "Perlach", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.0937625889992, "locationID": 1000, "bahn": false, "aliases": "Bf Perlach Bahnhof Perlach Muenchen Munchen S7 PER"}}, {"geometry": {"type": "Point", "coordinates": [11.6444143407104, 48.0894983204634]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6444143407104, "locationName": "Neuperlach S\u00fcd", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0894983204634, "locationID": 1010, "bahn": false, "aliases": "Sued Sid Muenchen Munchen S7 U5 NS"}}, {"geometry": {"type": "Point", "coordinates": [11.5964923451239, 48.1187128616896]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5964923451239, "locationName": "St.-Martin-Stra\u00dfe", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1187128616896, "locationID": 1100, "bahn": false, "aliases": "St-Martin St Martin Muenchen Munchen S3 S7 STS"}}, {"geometry": {"type": "Point", "coordinates": [11.594633763658, 48.1108101092335]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.594633763658, "locationName": "Giesing", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1108101092335, "locationID": 1110, "bahn": false, "aliases": "Muenchen Munchen S3 S7 U2 U7 GG"}}, {"geometry": {"type": "Point", "coordinates": [11.6039931046132, 48.0933954207924]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6039931046132, "locationName": "Fasangarten", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.0933954207924, "locationID": 1120, "bahn": false, "aliases": "Muenchen Munchen S3 FSG"}}, {"geometry": {"type": "Point", "coordinates": [11.5362030538436, 48.1168758769274]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5362030538436, "locationName": "Harras", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1168758769274, "locationID": 1130, "bahn": false, "aliases": "Bf Harras Bahnhof Harras Muenchen Munchen S7 U6 HS BOB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5334615631696, 48.133394684595]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5334615631696, "locationName": "Heimeranplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.133394684595, "locationID": 1150, "bahn": false, "aliases": "Bf Heimeranplatz Bahnhof Heimeranplatz Muenchen Munchen S7 S20 U4 U5 HP Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5363440576281, 48.1086564503319]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5363440576281, "locationName": "Mittersendling", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1086564503319, "locationID": 1300, "bahn": false, "aliases": "Bf Mittersendling Bahnhof Muenchen Munchen S7 S20 MMMT Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5316427696161, 48.0954799990719]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5316427696161, "locationName": "Siemenswerke", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.0954799990719, "locationID": 1310, "bahn": false, "aliases": "Bf Siemenswerke Bahnhof Muenchen Munchen S7 S20 SIW BOB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5274563051725, 48.0791037597174]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5274563051725, "locationName": "Solln", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.0791037597174, "locationID": 1320, "bahn": false, "aliases": "Bf Solln Bahnhof Muenchen Munchen S7 S20 SOL BOB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.4271238853001, 48.152717882555]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.4271238853001, "locationName": "Leienfelsstra\u00dfe", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.152717882555, "locationID": 1700, "bahn": false, "aliases": "Muenchen Munchen S4 MLEF"}}, {"geometry": {"type": "Point", "coordinates": [11.4137519465967, 48.1538196698947]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4137519465967, "locationName": "Aubing", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1538196698947, "locationID": 1710, "bahn": false, "aliases": "Muenchen Munchen S4 AUB"}}, {"geometry": {"type": "Point", "coordinates": [11.4410180698915, 48.1492608109698]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4410180698915, "locationName": "Westkreuz", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1492608109698, "locationID": 1720, "bahn": false, "aliases": "Muenchen Munchen S6 S8 WKZ"}}, {"geometry": {"type": "Point", "coordinates": [11.4237667753851, 48.1428443612894]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4237667753851, "locationName": "Neuaubing", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1428443612894, "locationID": 1730, "bahn": false, "aliases": "Muenchen Munchen S8 NEB"}}, {"geometry": {"type": "Point", "coordinates": [11.4114771815214, 48.1388160647647]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4114771815214, "locationName": "Freiham", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1388160647647, "locationID": 1740, "bahn": false, "aliases": "Bf Freiham Bahnhof Muenchen Munchen S8 FRB"}}, {"geometry": {"type": "Point", "coordinates": [11.4322791186541, 48.1629958812194]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4322791186541, "locationName": "Langwied", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1629958812194, "locationID": 1800, "bahn": false, "aliases": "Muenchen Munchen S3 LAW"}}, {"geometry": {"type": "Point", "coordinates": [11.4074895709943, 48.1771163885496]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4074895709943, "locationName": "Lochhausen", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1771163885496, "locationID": 1810, "bahn": false, "aliases": "Muenchen Munchen S3 LOB"}}, {"geometry": {"type": "Point", "coordinates": [11.4789001223052, 48.1641607399937]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4789001223052, "locationName": "Obermenzing", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1641607399937, "locationID": 1900, "bahn": false, "aliases": "Muenchen Munchen S2 OBE"}}, {"geometry": {"type": "Point", "coordinates": [11.4669370512363, 48.1900157606185]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4669370512363, "locationName": "Allach", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1900157606185, "locationID": 1910, "bahn": false, "aliases": "Muenchen Munchen S2 ALL"}}, {"geometry": {"type": "Point", "coordinates": [11.4606631243843, 48.211147775955]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4606631243843, "locationName": "Karlsfeld", "place": "Karlsfeld (Obb.)", "ubahn": false, "latitude": 48.211147775955, "locationID": 1920, "bahn": false, "aliases": "Muenchen Munchen DAH S2 MMKF"}}, {"geometry": {"type": "Point", "coordinates": [11.4743116215841, 48.1777647941201]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4743116215841, "locationName": "Untermenzing", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1777647941201, "locationID": 1930, "bahn": false, "aliases": "Muenchen Munchen S2 UMZ"}}, {"geometry": {"type": "Point", "coordinates": [11.557753437947, 48.2584434609525]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.557753437947, "locationName": "Oberschlei\u00dfheim", "place": "Oberschlei\u00dfheim", "ubahn": false, "latitude": 48.2584434609525, "locationID": 2000, "bahn": false, "aliases": "Oberschleissheim S1 MOSM"}}, {"geometry": {"type": "Point", "coordinates": [11.5682157412968, 48.2731060869682]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.5682157412968, "locationName": "Unterschlei\u00dfheim", "place": "Unterschlei\u00dfheim", "ubahn": false, "latitude": 48.2731060869682, "locationID": 2010, "bahn": false, "aliases": "Unterschleissheim S1 MUSM"}}, {"geometry": {"type": "Point", "coordinates": [11.5818699641898, 48.288714638826]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.5818699641898, "locationName": "Lohhof", "place": "Lohhof (Kr M\u00fcnchen)", "ubahn": false, "latitude": 48.288714638826, "locationID": 2020, "bahn": false, "aliases": "Muenchen Munchen S1 MMLH"}}, {"geometry": {"type": "Point", "coordinates": [11.6473292694096, 48.1913932119262]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6473292694096, "locationName": "Unterf\u00f6hring", "place": "Unterf\u00f6hring", "ubahn": false, "latitude": 48.1913932119262, "locationID": 2030, "bahn": false, "aliases": "Unterfoehring Unterfohring S8 UBH"}}, {"geometry": {"type": "Point", "coordinates": [11.6790714780264, 48.2259212388405]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.6790714780264, "locationName": "Ismaning", "place": "Ismaning", "ubahn": false, "latitude": 48.2259212388405, "locationID": 2040, "bahn": false, "aliases": " S8 MMIS"}}, {"geometry": {"type": "Point", "coordinates": [11.73144070951, 48.1511500898383]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.73144070951, "locationName": "Feldkirchen", "place": "Feldkirchen (b M\u00fcnchen)", "ubahn": false, "latitude": 48.1511500898383, "locationID": 2110, "bahn": false, "aliases": "Muenchen Munchen S2 MMFK"}}, {"geometry": {"type": "Point", "coordinates": [11.760420497957, 48.1589572547135]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.760420497957, "locationName": "Heimstetten", "place": "Heimstetten", "ubahn": false, "latitude": 48.1589572547135, "locationID": 2120, "bahn": false, "aliases": " S2 MHEM"}}, {"geometry": {"type": "Point", "coordinates": [11.6994975601981, 48.1183802655869]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6994975601981, "locationName": "Gronsdorf", "place": "Gronsdorf (b M\u00fcnchen)", "ubahn": false, "latitude": 48.1183802655869, "locationID": 2130, "bahn": false, "aliases": "Muenchen Munchen S4 S6 MGDF"}}, {"geometry": {"type": "Point", "coordinates": [11.7304812412996, 48.1109834133301]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.7304812412996, "locationName": "Haar", "place": "Haar (b M\u00fcnchen)", "ubahn": false, "latitude": 48.1109834133301, "locationID": 2140, "bahn": false, "aliases": "Muenchen Munchen S4 S6 MMHR"}}, {"geometry": {"type": "Point", "coordinates": [11.6606782756665, 48.076003253633]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6606782756665, "locationName": "Neubiberg", "place": "Neubiberg", "ubahn": false, "latitude": 48.076003253633, "locationID": 2200, "bahn": false, "aliases": " S7 NBB"}}, {"geometry": {"type": "Point", "coordinates": [11.6802577628994, 48.0630277429352]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6802577628994, "locationName": "Ottobrunn", "place": "Ottobrunn", "ubahn": false, "latitude": 48.0630277429352, "locationID": 2210, "bahn": false, "aliases": " S7 MOBR"}}, {"geometry": {"type": "Point", "coordinates": [11.698880348152, 48.0468356891646]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.698880348152, "locationName": "Hohenbrunn", "place": "Hohenbrunn (Obb.)", "ubahn": false, "latitude": 48.0468356891646, "locationID": 2220, "bahn": false, "aliases": " S7 MHOB"}}, {"geometry": {"type": "Point", "coordinates": [11.7133659225221, 48.0371146905964]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.7133659225221, "locationName": "W\u00e4chterhof", "place": "W\u00e4chterhof", "ubahn": false, "latitude": 48.0371146905964, "locationID": 2230, "bahn": false, "aliases": "Waechterhof Wachterhof S7 MWAE"}}, {"geometry": {"type": "Point", "coordinates": [11.7191791884923, 48.0185483554217]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.7191791884923, "locationName": "H\u00f6henkirchen-Siegertsbrunn", "place": "H\u00f6henkirchen-Siegertsbrunn", "ubahn": false, "latitude": 48.0185483554217, "locationID": 2240, "bahn": false, "aliases": "Hoehenkirchen-Siegertsbrunn Hohenkirchen-Siegertsbrunn S7 MHSB"}}, {"geometry": {"type": "Point", "coordinates": [11.734432375706, 47.9927280123446]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.734432375706, "locationName": "D\u00fcrrnhaar", "place": "D\u00fcrrnhaar", "ubahn": false, "latitude": 47.9927280123446, "locationID": 2250, "bahn": false, "aliases": "Duerrnhaar Durrnhaar S7 MDHR"}}, {"geometry": {"type": "Point", "coordinates": [11.769747427128, 47.9692587567163]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.769747427128, "locationName": "Aying", "place": "Aying", "ubahn": false, "latitude": 47.9692587567163, "locationID": 2260, "bahn": false, "aliases": " S7 MMAY"}}, {"geometry": {"type": "Point", "coordinates": [11.7767777629376, 47.9600541174488]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.7767777629376, "locationName": "Pei\u00df", "place": "Pei\u00df", "ubahn": false, "latitude": 47.9600541174488, "locationID": 2270, "bahn": false, "aliases": "Peiss S7 MPEI"}}, {"geometry": {"type": "Point", "coordinates": [11.782573657719, 47.9445151709568]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.782573657719, "locationName": "Gro\u00dfhelfendorf", "place": "Gro\u00dfhelfendorf", "ubahn": false, "latitude": 47.9445151709568, "locationID": 2280, "bahn": false, "aliases": "Grosshelfendorf S7 MGHD"}}, {"geometry": {"type": "Point", "coordinates": [11.6074282263322, 48.0794673223936]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6074282263322, "locationName": "Fasanenpark", "place": "Fasanenpark (b M\u00fcnchen)", "ubahn": false, "latitude": 48.0794673223936, "locationID": 2300, "bahn": false, "aliases": "Muenchen Munchen S3 MMFP"}}, {"geometry": {"type": "Point", "coordinates": [11.6132386932482, 48.0652233299945]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6132386932482, "locationName": "Unterhaching", "place": "Unterhaching", "ubahn": false, "latitude": 48.0652233299945, "locationID": 2310, "bahn": false, "aliases": " S3 MMUH"}}, {"geometry": {"type": "Point", "coordinates": [11.6084867778791, 48.0513392766669]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6084867778791, "locationName": "Taufkirchen", "place": "Taufkirchen (b M\u00fcnchen)", "ubahn": false, "latitude": 48.0513392766669, "locationID": 2320, "bahn": false, "aliases": "Muenchen Munchen S3 MMTU"}}, {"geometry": {"type": "Point", "coordinates": [11.5917435094117, 48.0347329964341]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.5917435094117, "locationName": "Furth", "place": "Furth (b M\u00fcnchen)", "ubahn": false, "latitude": 48.0347329964341, "locationID": 2330, "bahn": false, "aliases": "Muenchen Munchen S3 MMFU"}}, {"geometry": {"type": "Point", "coordinates": [11.5839086313927, 48.0201983235556]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.5839086313927, "locationName": "Deisenhofen", "place": "Deisenhofen (b M\u00fcnchen)", "ubahn": false, "latitude": 48.0201983235556, "locationID": 2340, "bahn": false, "aliases": "Bahnhof Bf Muenchen Munchen S3 MMDS Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.6546901879656, 47.9738636513769]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.6546901879656, "locationName": "Sauerlach", "place": "Sauerlach", "ubahn": false, "latitude": 47.9738636513769, "locationID": 2350, "bahn": false, "aliases": " S3 MMSR"}}, {"geometry": {"type": "Point", "coordinates": [11.5311479315847, 48.0716092985053]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5311479315847, "locationName": "Gro\u00dfhesselohe Isartalbahnhof", "place": "Gro\u00dfhesselohe", "ubahn": false, "latitude": 48.0716092985053, "locationID": 2500, "bahn": false, "aliases": "Grosshesselohe S7 S20 MGOI"}}, {"geometry": {"type": "Point", "coordinates": [11.5215076539193, 48.0577106167178]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5215076539193, "locationName": "Pullach", "place": "Pullach (im Isartal)", "ubahn": false, "latitude": 48.0577106167178, "locationID": 2520, "bahn": false, "aliases": " S7 S20 MPUL"}}, {"geometry": {"type": "Point", "coordinates": [11.5100270888377, 48.0432456654663]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5100270888377, "locationName": "H\u00f6llriegelskreuth", "place": "H\u00f6llriegelskreuth", "ubahn": false, "latitude": 48.0432456654663, "locationID": 2530, "bahn": false, "aliases": "Hoellriegelskreuth Hollriegelskreuth S7 S20 MHRK"}}, {"geometry": {"type": "Point", "coordinates": [11.4979390794968, 48.0326261208057]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.4979390794968, "locationName": "Buchenhain", "place": "Buchenhain (Obb.)", "ubahn": false, "latitude": 48.0326261208057, "locationID": 2540, "bahn": false, "aliases": " S7 MBHA"}}, {"geometry": {"type": "Point", "coordinates": [11.4852413648969, 48.0191066205766]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.4852413648969, "locationName": "Baierbrunn", "place": "Baierbrunn", "ubahn": false, "latitude": 48.0191066205766, "locationID": 2550, "bahn": false, "aliases": " S7 MBAB"}}, {"geometry": {"type": "Point", "coordinates": [11.4563984565769, 47.9905181360316]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.4563984565769, "locationName": "Hohensch\u00e4ftlarn", "place": "Hohensch\u00e4ftlarn", "ubahn": false, "latitude": 47.9905181360316, "locationID": 2560, "bahn": false, "aliases": "Hohenschaeftlarn Hohenschaftlarn S7 MHSL"}}, {"geometry": {"type": "Point", "coordinates": [11.4561423434367, 47.9791759441804]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.4561423434367, "locationName": "Ebenhausen-Sch\u00e4ftlarn", "place": "Ebenhausen-Sch\u00e4ftlarn", "ubahn": false, "latitude": 47.9791759441804, "locationID": 2570, "bahn": false, "aliases": "Ebenhausen-Schaeftlarn Schaftlarn S7 MEBS"}}, {"geometry": {"type": "Point", "coordinates": [11.4328699882768, 48.1288598718796]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4328699882768, "locationName": "Lochham", "place": "Lochham", "ubahn": false, "latitude": 48.1288598718796, "locationID": 2580, "bahn": false, "aliases": " S6 LBF"}}, {"geometry": {"type": "Point", "coordinates": [11.4273533281455, 48.1199740201043]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4273533281455, "locationName": "Gr\u00e4felfing", "place": "Gr\u00e4felfing", "ubahn": false, "latitude": 48.1199740201043, "locationID": 2590, "bahn": false, "aliases": "Graefelfing Grafelfing S6 MGFL"}}, {"geometry": {"type": "Point", "coordinates": [11.4146153902661, 48.1050167614908]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4146153902661, "locationName": "Planegg", "place": "Planegg", "ubahn": false, "latitude": 48.1050167614908, "locationID": 2600, "bahn": false, "aliases": " S6 PLA"}}, {"geometry": {"type": "Point", "coordinates": [11.6177270485615, 48.3033991033442]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.6177270485615, "locationName": "Eching", "place": "Eching (Kr Freising)", "ubahn": false, "latitude": 48.3033991033442, "locationID": 2650, "bahn": false, "aliases": "FS S1"}}, {"geometry": {"type": "Point", "coordinates": [11.6607596036603, 48.3208365781373]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.6607596036603, "locationName": "Neufahrn", "place": "Neufahrn (b Freising)", "ubahn": false, "latitude": 48.3208365781373, "locationID": 2660, "bahn": false, "aliases": "FS S1 MMNF"}}, {"geometry": {"type": "Point", "coordinates": [11.7034524711721, 48.3647325111572]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.7034524711721, "locationName": "Pulling", "place": "Pulling (Freising)", "ubahn": false, "latitude": 48.3647325111572, "locationID": 2670, "bahn": false, "aliases": "Bf Pulling FS S1 MMPU"}}, {"geometry": {"type": "Point", "coordinates": [11.7440424675005, 48.3954239071955]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.7440424675005, "locationName": "Freising", "place": "Freising", "ubahn": false, "latitude": 48.3954239071955, "locationID": 2680, "bahn": false, "aliases": "Bf Freising Bahnhof FS S1 MMFR ALEX"}}, {"geometry": {"type": "Point", "coordinates": [11.7139673859655, 48.3088312407899]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.7139673859655, "locationName": "Hallbergmoos", "place": "Hallbergmoos", "ubahn": false, "latitude": 48.3088312407899, "locationID": 2850, "bahn": false, "aliases": "FS S8 MHMO"}}, {"geometry": {"type": "Point", "coordinates": [11.7640628242596, 48.3527318717135]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.7640628242596, "locationName": "Flughafen, Besucherpark", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.3527318717135, "locationID": 2860, "bahn": false, "aliases": "MUC Besucherpark S1 S8 MFHB"}}, {"geometry": {"type": "Point", "coordinates": [11.7860917649159, 48.3537640557388]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.7860917649159, "locationName": "Flughafen M\u00fcnchen", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.3537640557388, "locationID": 3240, "bahn": false, "aliases": "Munich Airport MUC S1 S8 MFHF"}}, {"geometry": {"type": "Point", "coordinates": [11.8784867836618, 48.2181739545004]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.8784867836618, "locationName": "Ottenhofen", "place": "Ottenhofen (Kr Erding)", "ubahn": false, "latitude": 48.2181739545004, "locationID": 3250, "bahn": false, "aliases": "ED S2 MONH"}}, {"geometry": {"type": "Point", "coordinates": [11.8833527440457, 48.2444301598991]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.8833527440457, "locationName": "St. Koloman", "place": "Sankt Koloman (Kr Erding)", "ubahn": false, "latitude": 48.2444301598991, "locationID": 3260, "bahn": false, "aliases": "St Koloman ED S2 MMKL"}}, {"geometry": {"type": "Point", "coordinates": [11.8936171426989, 48.2747290531239]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.8936171426989, "locationName": "Aufhausen", "place": "Aufhausen (Erding)", "ubahn": false, "latitude": 48.2747290531239, "locationID": 3270, "bahn": false, "aliases": "Bf Aufhausen Bahnhof ED S2 MAFE"}}, {"geometry": {"type": "Point", "coordinates": [11.9012875294153, 48.2933066662848]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.9012875294153, "locationName": "Altenerding", "place": "Altenerding", "ubahn": false, "latitude": 48.2933066662848, "locationID": 3280, "bahn": false, "aliases": "ED S2 MANE"}}, {"geometry": {"type": "Point", "coordinates": [11.9114860322129, 48.3031713583543]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.9114860322129, "locationName": "Erding", "place": "Erding", "ubahn": false, "latitude": 48.3031713583543, "locationID": 3290, "bahn": false, "aliases": "ED S2 MMER"}}, {"geometry": {"type": "Point", "coordinates": [11.7820921718049, 48.1644232401862]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.7820921718049, "locationName": "Grub", "place": "Grub (Poing)", "ubahn": false, "latitude": 48.1644232401862, "locationID": 3950, "bahn": false, "aliases": "EBE S2 MGRB"}}, {"geometry": {"type": "Point", "coordinates": [11.8107398602218, 48.1715965280172]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.8107398602218, "locationName": "Poing", "place": "Poing (Kr EBE)", "ubahn": false, "latitude": 48.1715965280172, "locationID": 3960, "bahn": false, "aliases": " S2 MMPO"}}, {"geometry": {"type": "Point", "coordinates": [11.8618679111768, 48.1928032928453]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.8618679111768, "locationName": "Markt Schwaben", "place": "Markt Schwaben", "ubahn": false, "latitude": 48.1928032928453, "locationID": 3970, "bahn": false, "aliases": "Bf Markt Schwaben Bahnhof EBE S2 MMSB"}}, {"geometry": {"type": "Point", "coordinates": [11.7656006888364, 48.1045399920045]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.7656006888364, "locationName": "Vaterstetten", "place": "Vaterstetten", "ubahn": false, "latitude": 48.1045399920045, "locationID": 4000, "bahn": false, "aliases": "EBE S4 S6 MMVS"}}, {"geometry": {"type": "Point", "coordinates": [11.7869856873766, 48.0992034370324]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.7869856873766, "locationName": "Baldham", "place": "Baldham", "ubahn": false, "latitude": 48.0992034370324, "locationID": 4010, "bahn": false, "aliases": " S4 S6 MBDH"}}, {"geometry": {"type": "Point", "coordinates": [11.8324258743381, 48.0888910192765]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.8324258743381, "locationName": "Zorneding", "place": "Zorneding", "ubahn": false, "latitude": 48.0888910192765, "locationID": 4020, "bahn": false, "aliases": "EBE S4 S6 MMZO"}}, {"geometry": {"type": "Point", "coordinates": [11.8634535712146, 48.0813774135602]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.8634535712146, "locationName": "Eglharting", "place": "Eglharting", "ubahn": false, "latitude": 48.0813774135602, "locationID": 4030, "bahn": false, "aliases": " S4 S6 MEGL"}}, {"geometry": {"type": "Point", "coordinates": [11.8877544955387, 48.0713668890053]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.8877544955387, "locationName": "Kirchseeon", "place": "Kirchseeon", "ubahn": false, "latitude": 48.0713668890053, "locationID": 4040, "bahn": false, "aliases": "EBE S4 S6 MMKO"}}, {"geometry": {"type": "Point", "coordinates": [11.9406692758487, 48.0437511370652]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.9406692758487, "locationName": "Grafing Bahnhof", "place": "Grafing (b M\u00fcnchen)", "ubahn": false, "latitude": 48.0437511370652, "locationID": 4050, "bahn": false, "aliases": "Bf Grafing Muenchen Munchen S4 S6 MMGB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.9616159225337, 48.0468536950206]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.9616159225337, "locationName": "Grafing Stadt", "place": "Grafing (b M\u00fcnchen)", "ubahn": false, "latitude": 48.0468536950206, "locationID": 4060, "bahn": false, "aliases": "Muenchen Munchen S4 S6 MGRS"}}, {"geometry": {"type": "Point", "coordinates": [11.9700496466237, 48.0751946109939]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.9700496466237, "locationName": "Ebersberg", "place": "Ebersberg (Obb.)", "ubahn": false, "latitude": 48.0751946109939, "locationID": 4070, "bahn": false, "aliases": "Bf Ebersberg EBE S4 S6 MMEG"}}, {"geometry": {"type": "Point", "coordinates": [11.7590878049576, 47.9171276127689]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.7590878049576, "locationName": "Kreuzstra\u00dfe", "place": "Kreuzstra\u00dfe (b Holzkirchen)", "ubahn": false, "latitude": 47.9171276127689, "locationID": 4350, "bahn": false, "aliases": "Bf Kreuzstra\u00dfe Bahnhof Kreuzstrasse MB S7 Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.6818625986889, 47.9109682311695]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.6818625986889, "locationName": "Otterfing", "place": "Otterfing (Obb.)", "ubahn": false, "latitude": 47.9109682311695, "locationID": 4360, "bahn": false, "aliases": "Bahnhof Bf MB S3 MOTF BOB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.6966808987078, 47.8840719683053]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.6966808987078, "locationName": "Holzkirchen", "place": "Holzkirchen (Kr Miesbach)", "ubahn": false, "latitude": 47.8840719683053, "locationID": 4370, "bahn": false, "aliases": "Bf Holzkirchen Bahnhof MB S3 MMHO BOB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.4376956641033, 47.9534102862191]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.4376956641033, "locationName": "Icking", "place": "Icking", "ubahn": false, "latitude": 47.9534102862191, "locationID": 4750, "bahn": false, "aliases": "T\u00d6L S7 MMIC"}}, {"geometry": {"type": "Point", "coordinates": [11.4266200332651, 47.9137382278274]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.4266200332651, "locationName": "Wolfratshausen", "place": "Wolfratshausen", "ubahn": false, "latitude": 47.9137382278274, "locationID": 4760, "bahn": false, "aliases": "T\u00d6L S7 MMWO"}}, {"geometry": {"type": "Point", "coordinates": [11.3249843028351, 48.1082310280126]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.3249843028351, "locationName": "Geisenbrunn", "place": "Geisenbrunn", "ubahn": false, "latitude": 48.1082310280126, "locationID": 5350, "bahn": false, "aliases": " S8 MGIB"}}, {"geometry": {"type": "Point", "coordinates": [11.3009137387869, 48.1067472215991]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3009137387869, "locationName": "Gilching-Argelsried", "place": "Gilching", "ubahn": false, "latitude": 48.1067472215991, "locationID": 5360, "bahn": false, "aliases": "Gilching Argelsried STA S8 MGCH"}}, {"geometry": {"type": "Point", "coordinates": [11.2884654129583, 48.0980191507206]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2884654129583, "locationName": "Neugilching", "place": "Neugilching", "ubahn": false, "latitude": 48.0980191507206, "locationID": 5370, "bahn": false, "aliases": "STA S8 MNGH"}}, {"geometry": {"type": "Point", "coordinates": [11.2505081701822, 48.0769220853332]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2505081701822, "locationName": "We\u00dfling", "place": "We\u00dfling", "ubahn": false, "latitude": 48.0769220853332, "locationID": 5380, "bahn": false, "aliases": "Wessling STA S8 MMWS"}}, {"geometry": {"type": "Point", "coordinates": [11.2069402429398, 48.0615476780244]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2069402429398, "locationName": "Steinebach", "place": "Steinebach (W\u00f6rthsee)", "ubahn": false, "latitude": 48.0615476780244, "locationID": 5390, "bahn": false, "aliases": "Woerthsee Worthsee STA S8 MMSA"}}, {"geometry": {"type": "Point", "coordinates": [11.1976537768876, 48.0409598870656]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.1976537768876, "locationName": "Seefeld-Hechendorf", "place": "Seefeld (Obb.)", "ubahn": false, "latitude": 48.0409598870656, "locationID": 5400, "bahn": false, "aliases": "STA S8 MMSH"}}, {"geometry": {"type": "Point", "coordinates": [11.1708186749575, 47.9982745249532]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.1708186749575, "locationName": "Herrsching", "place": "Herrsching (Ammersee)", "ubahn": false, "latitude": 47.9982745249532, "locationID": 5410, "bahn": false, "aliases": "STA S8 MMHI"}}, {"geometry": {"type": "Point", "coordinates": [11.4012390691519, 48.0936521171101]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.4012390691519, "locationName": "Stockdorf", "place": "Stockdorf", "ubahn": false, "latitude": 48.0936521171101, "locationID": 5420, "bahn": false, "aliases": " S6 MMSD"}}, {"geometry": {"type": "Point", "coordinates": [11.3762592578576, 48.070028347693]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3762592578576, "locationName": "Gauting", "place": "Gauting", "ubahn": false, "latitude": 48.070028347693, "locationID": 5430, "bahn": false, "aliases": "STA S6 MMGT"}}, {"geometry": {"type": "Point", "coordinates": [11.3444498434723, 47.9965537264081]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3444498434723, "locationName": "Starnberg", "place": "Starnberg", "ubahn": false, "latitude": 47.9965537264081, "locationID": 5450, "bahn": false, "aliases": "STA S6 MMST"}}, {"geometry": {"type": "Point", "coordinates": [11.3062318354121, 47.9627380916719]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3062318354121, "locationName": "Possenhofen", "place": "Possenhofen", "ubahn": false, "latitude": 47.9627380916719, "locationID": 5460, "bahn": false, "aliases": " S6 MMPH"}}, {"geometry": {"type": "Point", "coordinates": [11.2899198719654, 47.9472412479807]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.2899198719654, "locationName": "Feldafing", "place": "Feldafing", "ubahn": false, "latitude": 47.9472412479807, "locationID": 5470, "bahn": false, "aliases": "STA S6 MMFA"}}, {"geometry": {"type": "Point", "coordinates": [11.2736116753896, 47.9072969800565]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2736116753896, "locationName": "Tutzing", "place": "Tutzing", "ubahn": false, "latitude": 47.9072969800565, "locationID": 5480, "bahn": true, "aliases": "Bf Tuzing Bahnhof STA S6 MMTZ"}}, {"geometry": {"type": "Point", "coordinates": [11.3479564875699, 48.0053874272176]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3479564875699, "locationName": "Starnberg Nord", "place": "Starnberg", "ubahn": false, "latitude": 48.0053874272176, "locationID": 5490, "bahn": false, "aliases": "STA S6 MSNO"}}, {"geometry": {"type": "Point", "coordinates": [11.036507075083, 48.1063918169544]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.036507075083, "locationName": "Geltendorf", "place": "Geltendorf", "ubahn": false, "latitude": 48.1063918169544, "locationID": 5950, "bahn": false, "aliases": "Bf Geltendorf Bahnhof S4 MMGE BRB ALEX"}}, {"geometry": {"type": "Point", "coordinates": [11.3733021487191, 48.1953266563292]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3733021487191, "locationName": "Gr\u00f6benzell", "place": "Gr\u00f6benzell", "ubahn": false, "latitude": 48.1953266563292, "locationID": 6100, "bahn": false, "aliases": "Groebenzell Grobenzell FFB S3 MGRZ"}}, {"geometry": {"type": "Point", "coordinates": [11.3343068958161, 48.209892695799]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3343068958161, "locationName": "Olching", "place": "Olching (Obb.)", "ubahn": false, "latitude": 48.209892695799, "locationID": 6110, "bahn": false, "aliases": "FFB S3 MMOL"}}, {"geometry": {"type": "Point", "coordinates": [11.3190655422523, 48.2126993615211]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3190655422523, "locationName": "Esting", "place": "Esting", "ubahn": false, "latitude": 48.2126993615211, "locationID": 6120, "bahn": false, "aliases": " S3 MESG"}}, {"geometry": {"type": "Point", "coordinates": [11.2994618254572, 48.2135889362462]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2994618254572, "locationName": "Gernlinden", "place": "Gernlinden", "ubahn": false, "latitude": 48.2135889362462, "locationID": 6130, "bahn": false, "aliases": " S3 MGLD"}}, {"geometry": {"type": "Point", "coordinates": [11.2573548480639, 48.2147368281152]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2573548480639, "locationName": "Maisach", "place": "Maisach", "ubahn": false, "latitude": 48.2147368281152, "locationID": 6140, "bahn": false, "aliases": "FFB S3 MMMA"}}, {"geometry": {"type": "Point", "coordinates": [11.2194546629102, 48.2160957675232]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2194546629102, "locationName": "Malching", "place": "Malching (Obb.)", "ubahn": false, "latitude": 48.2160957675232, "locationID": 6150, "bahn": false, "aliases": " S3 MMAG"}}, {"geometry": {"type": "Point", "coordinates": [11.1745268135895, 48.216681532841]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.1745268135895, "locationName": "Mammendorf", "place": "Mammendorf (Obb.)", "ubahn": false, "latitude": 48.216681532841, "locationID": 6160, "bahn": false, "aliases": "Bf Mammendorf Bahnhof FFB S3 MMAM"}}, {"geometry": {"type": "Point", "coordinates": [11.3526357581619, 48.172234239336]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.3526357581619, "locationName": "Puchheim", "place": "Puchheim Bahnhof", "ubahn": false, "latitude": 48.172234239336, "locationID": 6170, "bahn": false, "aliases": "FFB S4 MMPM"}}, {"geometry": {"type": "Point", "coordinates": [11.3284204960085, 48.1794879915208]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.3284204960085, "locationName": "Eichenau", "place": "Eichenau (b M\u00fcnchen)", "ubahn": false, "latitude": 48.1794879915208, "locationID": 6180, "bahn": false, "aliases": "Muenchen Munchen FFB S4 MEIC"}}, {"geometry": {"type": "Point", "coordinates": [11.2627678484405, 48.1722600568355]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2627678484405, "locationName": "F\u00fcrstenfeldbruck", "place": "F\u00fcrstenfeldbruck", "ubahn": false, "latitude": 48.1722600568355, "locationID": 6190, "bahn": false, "aliases": "Fuerstenfeldbruck Furstenfeldbruck FFB S4 MMFB ALEX"}}, {"geometry": {"type": "Point", "coordinates": [11.225404193427, 48.1615012581665]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.225404193427, "locationName": "Buchenau", "place": "Buchenau (FFB)", "ubahn": false, "latitude": 48.1615012581665, "locationID": 6200, "bahn": false, "aliases": " S4 MBAU"}}, {"geometry": {"type": "Point", "coordinates": [11.1915115736099, 48.1463659235331]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.1915115736099, "locationName": "Sch\u00f6ngeising", "place": "Sch\u00f6ngeising", "ubahn": false, "latitude": 48.1463659235331, "locationID": 6210, "bahn": false, "aliases": "Schoengeising Schongeising FFB S4 MSNG"}}, {"geometry": {"type": "Point", "coordinates": [11.1528912162098, 48.1323639466117]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.1528912162098, "locationName": "Grafrath", "place": "Grafrath", "ubahn": false, "latitude": 48.1323639466117, "locationID": 6220, "bahn": false, "aliases": "FFB S4 MMGF"}}, {"geometry": {"type": "Point", "coordinates": [11.0780636112885, 48.1050777024841]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.0780636112885, "locationName": "T\u00fcrkenfeld", "place": "T\u00fcrkenfeld (Obb.)", "ubahn": false, "latitude": 48.1050777024841, "locationID": 6230, "bahn": false, "aliases": "Tuerkenfeld Turkenfeld FFB S4"}}, {"geometry": {"type": "Point", "coordinates": [11.3884397715194, 48.1337765175936]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.3884397715194, "locationName": "Harthaus", "place": "Harthaus", "ubahn": false, "latitude": 48.1337765175936, "locationID": 6240, "bahn": false, "aliases": " S8 MHHS"}}, {"geometry": {"type": "Point", "coordinates": [11.3648456105618, 48.1284954414819]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3648456105618, "locationName": "Germering-Unterpfaffenhofen", "place": "Germering", "ubahn": false, "latitude": 48.1284954414819, "locationID": 6250, "bahn": false, "aliases": "Germering Unterpfaffenhofen FFB S8 MMUG"}}, {"geometry": {"type": "Point", "coordinates": [11.4432399084155, 48.2544932524593]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4432399084155, "locationName": "Dachau", "place": "Dachau", "ubahn": false, "latitude": 48.2544932524593, "locationID": 6800, "bahn": false, "aliases": "Bf Dachau Bahnhof DAH S2 DBFD"}}, {"geometry": {"type": "Point", "coordinates": [11.4544677593717, 48.2902859587004]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.4544677593717, "locationName": "Hebertshausen", "place": "Hebertshausen", "ubahn": false, "latitude": 48.2902859587004, "locationID": 6810, "bahn": false, "aliases": "DAH S2 MHSN"}}, {"geometry": {"type": "Point", "coordinates": [11.4453481585945, 48.3322852917931]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.4453481585945, "locationName": "R\u00f6hrmoos", "place": "R\u00f6hrmoos (Kr Dachau)", "ubahn": false, "latitude": 48.3322852917931, "locationID": 6820, "bahn": false, "aliases": "Roehrmoos Rohrmoos DAH S2 MMRM"}}, {"geometry": {"type": "Point", "coordinates": [11.4445214410293, 48.3612390233697]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.4445214410293, "locationName": "Vierkirchen-Esterhofen", "place": "Vierkirchen-Esterhofen", "ubahn": false, "latitude": 48.3612390233697, "locationID": 6830, "bahn": false, "aliases": "DAH S2 MESH"}}, {"geometry": {"type": "Point", "coordinates": [11.4699124493782, 48.4126008736516]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.4699124493782, "locationName": "Petershausen", "place": "Petershausen", "ubahn": false, "latitude": 48.4126008736516, "locationID": 6840, "bahn": false, "aliases": "DAH S2 MMPE"}}, {"geometry": {"type": "Point", "coordinates": [11.4404712894146, 48.2663418787402]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.4404712894146, "locationName": "Dachau Stadt", "place": "Dachau", "ubahn": false, "latitude": 48.2663418787402, "locationID": 6850, "bahn": false, "aliases": "Bf Dachau Stadt Bahnhof DAH S2 DSTD"}}, {"geometry": {"type": "Point", "coordinates": [11.3804391159569, 48.2794972607574]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3804391159569, "locationName": "Bachern", "place": "Bachern (Kr Dachau)", "ubahn": false, "latitude": 48.2794972607574, "locationID": 6870, "bahn": false, "aliases": "Bf Bachern (Kr Dachau) Bahnhof DAH S2 MBCN"}}, {"geometry": {"type": "Point", "coordinates": [11.3645800170388, 48.3013271959771]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3645800170388, "locationName": "Schwabhausen", "place": "Schwabhausen (b DAH)", "ubahn": false, "latitude": 48.3013271959771, "locationID": 6880, "bahn": false, "aliases": "Bf Schwabhausen Bahnhof S2 MSHH"}}, {"geometry": {"type": "Point", "coordinates": [11.3874651854138, 48.3229358553426]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.3874651854138, "locationName": "Niederroth", "place": "Niederroth", "ubahn": false, "latitude": 48.3229358553426, "locationID": 6890, "bahn": false, "aliases": "Bf Niederroth Bahnhof S2 MNRO"}}, {"geometry": {"type": "Point", "coordinates": [11.3795280589549, 48.3525346319187]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3795280589549, "locationName": "Markt Indersdorf", "place": "Markt Indersdorf", "ubahn": false, "latitude": 48.3525346319187, "locationID": 6900, "bahn": false, "aliases": "Bf Markt Indersdorf Bahnhof DAH S2 MIDR"}}, {"geometry": {"type": "Point", "coordinates": [11.344509709725, 48.3413600343353]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.344509709725, "locationName": "Arnbach", "place": "Arnbach (Kr Dachau)", "ubahn": false, "latitude": 48.3413600343353, "locationID": 6910, "bahn": false, "aliases": "Bahnhof Arnbach Bf DAH S2 MANB"}}, {"geometry": {"type": "Point", "coordinates": [11.3023882495946, 48.3339539930612]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.3023882495946, "locationName": "Erdweg", "place": "Erdweg", "ubahn": false, "latitude": 48.3339539930612, "locationID": 6920, "bahn": false, "aliases": "Bf Erdweg Bahnhof DAH S2 MEWG"}}, {"geometry": {"type": "Point", "coordinates": [11.2742373270721, 48.355030703159]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2742373270721, "locationName": "Kleinberghofen", "place": "Kleinberghofen (Kr Dachau)", "ubahn": false, "latitude": 48.355030703159, "locationID": 6930, "bahn": false, "aliases": "Bf Kleinberghofen Bahnhof DAH S2 MKHN"}}, {"geometry": {"type": "Point", "coordinates": [11.2542794063218, 48.3856595037663]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": false, "boot": false, "longitude": 11.2542794063218, "locationName": "Altom\u00fcnster", "place": "Altom\u00fcnster", "ubahn": false, "latitude": 48.3856595037663, "locationID": 6950, "bahn": false, "aliases": "Bf Altom\u00fcnster Bahnhof Altomuenster Altomunster DAH S2 MAMT"}}, {"geometry": {"type": "Point", "coordinates": [11.5582965647371, 48.1403996001314]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": false, "liveDataAvailable": false, "boot": false, "longitude": 11.5582965647371, "locationName": "Hauptbahnhof Haupthalle", "place": "M\u00fcnchen", "ubahn": false, "latitude": 48.1403996001314, "locationID": 8803, "bahn": false, "aliases": "Hbf main station central Muenchen Munchen"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5652403434013, 48.1391669640734]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5652403434013,
+            "locationName": "Karlsplatz (Stachus)",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.1391669640734,
+            "locationID": 1,
+            "bahn": false,
+            "aliases": "Stachus Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U4 U5 KA"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5764643342958, 48.1369784517773]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5764643342958,
+            "locationName": "Marienplatz",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.1369784517773,
+            "locationID": 2,
+            "bahn": false,
+            "aliases": "Rathaus M\u00fcnchen  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U3 U6 MP"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5828448583857, 48.1338450729453]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5828448583857,
+            "locationName": "Isartor",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1338450729453,
+            "locationID": 3,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 ITO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5938895812341, 48.1285874606085]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5938895812341,
+            "locationName": "Rosenheimer Platz",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1285874606085,
+            "locationID": 4,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 RPL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.604062351127, 48.1281372572089]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.604062351127,
+            "locationName": "Ostbahnhof M\u00fcnchen",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.1281372572089,
+            "locationID": 5,
+            "bahn": false,
+            "aliases": "Ostbhf M\u00fcnchen Ost Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U5 OB Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5611056053238, 48.1403114185532]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5611056053238,
+            "locationName": "Hauptbahnhof",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.1403114185532,
+            "locationID": 6,
+            "bahn": false,
+            "aliases": "Hbf M\u00fcnchen main station central station  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U1 U2 U4 U5 U7 U8 HU BOB Meridian ALEX"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.548769289838, 48.1435373074276]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.548769289838,
+            "locationName": "Hackerbr\u00fccke",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1435373074276,
+            "locationID": 7,
+            "bahn": false,
+            "aliases": "ZOB Zentraler Omnibusbahnhof Wiesn Oktoberfest Hackerbruecke Hackerbrucke Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 HAC"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5346138575063, 48.1426715356568]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5346138575063,
+            "locationName": "Donnersbergerbr\u00fccke",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1426715356568,
+            "locationID": 8,
+            "bahn": false,
+            "aliases": "Donnersbergerbruecke Donnersbergerbrucke Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 DBR BOB Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5031776884065, 48.1433045582327]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5031776884065,
+            "locationName": "Laim",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1433045582327,
+            "locationID": 9,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S1 S2 S3 S4 S6 S8 LAI"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4606302423126, 48.1488327948459]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4606302423126,
+            "locationName": "Pasing",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1488327948459,
+            "locationID": 10,
+            "bahn": false,
+            "aliases": "Bf Pasing Bahnhof Muenchen Munchen S3 S4 S6 S8 S20 PBF ALEX"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5194752136466, 48.1435446356566]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5194752136466,
+            "locationName": "Hirschgarten",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1435446356566,
+            "locationID": 31,
+            "bahn": false,
+            "aliases": "Bf Hirschgarten Muenchen Munchen S1 S2 S3 S4 S6 S8 HIG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5073647766005, 48.1804201569616]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5073647766005,
+            "locationName": "Moosach",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.1804201569616,
+            "locationID": 300,
+            "bahn": false,
+            "aliases": "Bf Moosach Bahnhof Muenchen Munchen S1 U3 MO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5245056801586, 48.1969050394205]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5245056801586,
+            "locationName": "Fasanerie",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1969050394205,
+            "locationID": 310,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S1 FBF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5406197306272, 48.2135810691061]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5406197306272,
+            "locationName": "Feldmoching",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.2135810691061,
+            "locationID": 320,
+            "bahn": false,
+            "aliases": "Bf Feldmoching Bahnhof Muenchen Munchen S1 U2 FM"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6493531542647, 48.1489688777622]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6493531542647,
+            "locationName": "Daglfing",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1489688777622,
+            "locationID": 700,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S8 MDGF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.648374120244, 48.1565562828095]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.648374120244,
+            "locationName": "Englschalking",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1565562828095,
+            "locationID": 710,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S8 ESK"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6466060472856, 48.1693843634722]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6466060472856,
+            "locationName": "Johanneskirchen",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1693843634722,
+            "locationID": 720,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S8 JOH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.678980644286, 48.1433804707853]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.678980644286,
+            "locationName": "Riem",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1433804707853,
+            "locationID": 800,
+            "bahn": false,
+            "aliases": "Bf Riem Bahnhof Muenchen Munchen S2 RIB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6159589868961, 48.1342930665336]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6159589868961,
+            "locationName": "Leuchtenbergring",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1342930665336,
+            "locationID": 900,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S2 S4 S6 S8 LRI"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6328805371767, 48.1333589981527]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6328805371767,
+            "locationName": "Berg am Laim",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1333589981527,
+            "locationID": 910,
+            "bahn": false,
+            "aliases": "Berg am Laim Bf S\u00fcd Muenchen Munchen S2 S4 S6 BAL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6633349555096, 48.12551990564]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6633349555096,
+            "locationName": "Trudering",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.12551990564,
+            "locationID": 920,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S4 S6 U2 TR"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6305710535399, 48.0937625889992]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6305710535399,
+            "locationName": "Perlach",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.0937625889992,
+            "locationID": 1000,
+            "bahn": false,
+            "aliases": "Bf Perlach Bahnhof Perlach Muenchen Munchen S7 PER"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6444143407104, 48.0894983204634]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6444143407104,
+            "locationName": "Neuperlach S\u00fcd",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.0894983204634,
+            "locationID": 1010,
+            "bahn": false,
+            "aliases": "Sued Sid Muenchen Munchen S7 U5 NS"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5964923451239, 48.1187128616896]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5964923451239,
+            "locationName": "St.-Martin-Stra\u00dfe",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1187128616896,
+            "locationID": 1100,
+            "bahn": false,
+            "aliases": "St-Martin St Martin Muenchen Munchen S3 S7 STS"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.594633763658, 48.1108101092335]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": true,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.594633763658,
+            "locationName": "Giesing",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.1108101092335,
+            "locationID": 1110,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S3 S7 U2 U7 GG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6039931046132, 48.0933954207924]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6039931046132,
+            "locationName": "Fasangarten",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.0933954207924,
+            "locationID": 1120,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S3 FSG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5362030538436, 48.1168758769274]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5362030538436,
+            "locationName": "Harras",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.1168758769274,
+            "locationID": 1130,
+            "bahn": false,
+            "aliases": "Bf Harras Bahnhof Harras Muenchen Munchen S7 U6 HS BOB Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5334615631696, 48.133394684595]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5334615631696,
+            "locationName": "Heimeranplatz",
+            "place": "M\u00fcnchen",
+            "ubahn": true,
+            "latitude": 48.133394684595,
+            "locationID": 1150,
+            "bahn": false,
+            "aliases": "Bf Heimeranplatz Bahnhof Heimeranplatz Muenchen Munchen S7 S20 U4 U5 HP Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5363440576281, 48.1086564503319]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5363440576281,
+            "locationName": "Mittersendling",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1086564503319,
+            "locationID": 1300,
+            "bahn": false,
+            "aliases": "Bf Mittersendling Bahnhof Muenchen Munchen S7 S20 MMMT Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5316427696161, 48.0954799990719]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5316427696161,
+            "locationName": "Siemenswerke",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.0954799990719,
+            "locationID": 1310,
+            "bahn": false,
+            "aliases": "Bf Siemenswerke Bahnhof Muenchen Munchen S7 S20 SIW BOB Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5274563051725, 48.0791037597174]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5274563051725,
+            "locationName": "Solln",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.0791037597174,
+            "locationID": 1320,
+            "bahn": false,
+            "aliases": "Bf Solln Bahnhof Muenchen Munchen S7 S20 SOL BOB Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4271238853001, 48.152717882555]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4271238853001,
+            "locationName": "Leienfelsstra\u00dfe",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.152717882555,
+            "locationID": 1700,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S4 MLEF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4137519465967, 48.1538196698947]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4137519465967,
+            "locationName": "Aubing",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1538196698947,
+            "locationID": 1710,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S4 AUB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4410180698915, 48.1492608109698]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4410180698915,
+            "locationName": "Westkreuz",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1492608109698,
+            "locationID": 1720,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S6 S8 WKZ"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4237667753851, 48.1428443612894]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4237667753851,
+            "locationName": "Neuaubing",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1428443612894,
+            "locationID": 1730,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S8 NEB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4114771815214, 48.1388160647647]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4114771815214,
+            "locationName": "Freiham",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1388160647647,
+            "locationID": 1740,
+            "bahn": false,
+            "aliases": "Bf Freiham Bahnhof Muenchen Munchen S8 FRB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4322791186541, 48.1629958812194]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4322791186541,
+            "locationName": "Langwied",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1629958812194,
+            "locationID": 1800,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S3 LAW"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4074895709943, 48.1771163885496]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4074895709943,
+            "locationName": "Lochhausen",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1771163885496,
+            "locationID": 1810,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S3 LOB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4789001223052, 48.1641607399937]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4789001223052,
+            "locationName": "Obermenzing",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1641607399937,
+            "locationID": 1900,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S2 OBE"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4669370512363, 48.1900157606185]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4669370512363,
+            "locationName": "Allach",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1900157606185,
+            "locationID": 1910,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S2 ALL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4606631243843, 48.211147775955]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4606631243843,
+            "locationName": "Karlsfeld",
+            "place": "Karlsfeld (Obb.)",
+            "ubahn": false,
+            "latitude": 48.211147775955,
+            "locationID": 1920,
+            "bahn": false,
+            "aliases": "Muenchen Munchen DAH S2 MMKF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4743116215841, 48.1777647941201]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4743116215841,
+            "locationName": "Untermenzing",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1777647941201,
+            "locationID": 1930,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S2 UMZ"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.557753437947, 48.2584434609525]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.557753437947,
+            "locationName": "Oberschlei\u00dfheim",
+            "place": "Oberschlei\u00dfheim",
+            "ubahn": false,
+            "latitude": 48.2584434609525,
+            "locationID": 2000,
+            "bahn": false,
+            "aliases": "Oberschleissheim S1 MOSM"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5682157412968, 48.2731060869682]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.5682157412968,
+            "locationName": "Unterschlei\u00dfheim",
+            "place": "Unterschlei\u00dfheim",
+            "ubahn": false,
+            "latitude": 48.2731060869682,
+            "locationID": 2010,
+            "bahn": false,
+            "aliases": "Unterschleissheim S1 MUSM"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5818699641898, 48.288714638826]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.5818699641898,
+            "locationName": "Lohhof",
+            "place": "Lohhof (Kr M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.288714638826,
+            "locationID": 2020,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S1 MMLH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6473292694096, 48.1913932119262]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6473292694096,
+            "locationName": "Unterf\u00f6hring",
+            "place": "Unterf\u00f6hring",
+            "ubahn": false,
+            "latitude": 48.1913932119262,
+            "locationID": 2030,
+            "bahn": false,
+            "aliases": "Unterfoehring Unterfohring S8 UBH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6790714780264, 48.2259212388405]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.6790714780264,
+            "locationName": "Ismaning",
+            "place": "Ismaning",
+            "ubahn": false,
+            "latitude": 48.2259212388405,
+            "locationID": 2040,
+            "bahn": false,
+            "aliases": " S8 MMIS"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.73144070951, 48.1511500898383]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.73144070951,
+            "locationName": "Feldkirchen",
+            "place": "Feldkirchen (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.1511500898383,
+            "locationID": 2110,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S2 MMFK"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.760420497957, 48.1589572547135]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.760420497957,
+            "locationName": "Heimstetten",
+            "place": "Heimstetten",
+            "ubahn": false,
+            "latitude": 48.1589572547135,
+            "locationID": 2120,
+            "bahn": false,
+            "aliases": " S2 MHEM"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6994975601981, 48.1183802655869]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6994975601981,
+            "locationName": "Gronsdorf",
+            "place": "Gronsdorf (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.1183802655869,
+            "locationID": 2130,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S4 S6 MGDF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7304812412996, 48.1109834133301]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.7304812412996,
+            "locationName": "Haar",
+            "place": "Haar (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.1109834133301,
+            "locationID": 2140,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S4 S6 MMHR"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6606782756665, 48.076003253633]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6606782756665,
+            "locationName": "Neubiberg",
+            "place": "Neubiberg",
+            "ubahn": false,
+            "latitude": 48.076003253633,
+            "locationID": 2200,
+            "bahn": false,
+            "aliases": " S7 NBB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6802577628994, 48.0630277429352]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6802577628994,
+            "locationName": "Ottobrunn",
+            "place": "Ottobrunn",
+            "ubahn": false,
+            "latitude": 48.0630277429352,
+            "locationID": 2210,
+            "bahn": false,
+            "aliases": " S7 MOBR"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.698880348152, 48.0468356891646]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.698880348152,
+            "locationName": "Hohenbrunn",
+            "place": "Hohenbrunn (Obb.)",
+            "ubahn": false,
+            "latitude": 48.0468356891646,
+            "locationID": 2220,
+            "bahn": false,
+            "aliases": " S7 MHOB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7133659225221, 48.0371146905964]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7133659225221,
+            "locationName": "W\u00e4chterhof",
+            "place": "W\u00e4chterhof",
+            "ubahn": false,
+            "latitude": 48.0371146905964,
+            "locationID": 2230,
+            "bahn": false,
+            "aliases": "Waechterhof Wachterhof S7 MWAE"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7191791884923, 48.0185483554217]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7191791884923,
+            "locationName": "H\u00f6henkirchen-Siegertsbrunn",
+            "place": "H\u00f6henkirchen-Siegertsbrunn",
+            "ubahn": false,
+            "latitude": 48.0185483554217,
+            "locationID": 2240,
+            "bahn": false,
+            "aliases": "Hoehenkirchen-Siegertsbrunn Hohenkirchen-Siegertsbrunn S7 MHSB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.734432375706, 47.9927280123446]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.734432375706,
+            "locationName": "D\u00fcrrnhaar",
+            "place": "D\u00fcrrnhaar",
+            "ubahn": false,
+            "latitude": 47.9927280123446,
+            "locationID": 2250,
+            "bahn": false,
+            "aliases": "Duerrnhaar Durrnhaar S7 MDHR"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.769747427128, 47.9692587567163]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.769747427128,
+            "locationName": "Aying",
+            "place": "Aying",
+            "ubahn": false,
+            "latitude": 47.9692587567163,
+            "locationID": 2260,
+            "bahn": false,
+            "aliases": " S7 MMAY"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7767777629376, 47.9600541174488]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7767777629376,
+            "locationName": "Pei\u00df",
+            "place": "Pei\u00df",
+            "ubahn": false,
+            "latitude": 47.9600541174488,
+            "locationID": 2270,
+            "bahn": false,
+            "aliases": "Peiss S7 MPEI"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.782573657719, 47.9445151709568]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.782573657719,
+            "locationName": "Gro\u00dfhelfendorf",
+            "place": "Gro\u00dfhelfendorf",
+            "ubahn": false,
+            "latitude": 47.9445151709568,
+            "locationID": 2280,
+            "bahn": false,
+            "aliases": "Grosshelfendorf S7 MGHD"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6074282263322, 48.0794673223936]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6074282263322,
+            "locationName": "Fasanenpark",
+            "place": "Fasanenpark (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.0794673223936,
+            "locationID": 2300,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S3 MMFP"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6132386932482, 48.0652233299945]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6132386932482,
+            "locationName": "Unterhaching",
+            "place": "Unterhaching",
+            "ubahn": false,
+            "latitude": 48.0652233299945,
+            "locationID": 2310,
+            "bahn": false,
+            "aliases": " S3 MMUH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6084867778791, 48.0513392766669]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.6084867778791,
+            "locationName": "Taufkirchen",
+            "place": "Taufkirchen (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.0513392766669,
+            "locationID": 2320,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S3 MMTU"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5917435094117, 48.0347329964341]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.5917435094117,
+            "locationName": "Furth",
+            "place": "Furth (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.0347329964341,
+            "locationID": 2330,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S3 MMFU"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5839086313927, 48.0201983235556]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.5839086313927,
+            "locationName": "Deisenhofen",
+            "place": "Deisenhofen (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.0201983235556,
+            "locationID": 2340,
+            "bahn": false,
+            "aliases": "Bahnhof Bf Muenchen Munchen S3 MMDS Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6546901879656, 47.9738636513769]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.6546901879656,
+            "locationName": "Sauerlach",
+            "place": "Sauerlach",
+            "ubahn": false,
+            "latitude": 47.9738636513769,
+            "locationID": 2350,
+            "bahn": false,
+            "aliases": " S3 MMSR"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5311479315847, 48.0716092985053]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5311479315847,
+            "locationName": "Gro\u00dfhesselohe Isartalbahnhof",
+            "place": "Gro\u00dfhesselohe",
+            "ubahn": false,
+            "latitude": 48.0716092985053,
+            "locationID": 2500,
+            "bahn": false,
+            "aliases": "Grosshesselohe S7 S20 MGOI"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5215076539193, 48.0577106167178]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5215076539193,
+            "locationName": "Pullach",
+            "place": "Pullach (im Isartal)",
+            "ubahn": false,
+            "latitude": 48.0577106167178,
+            "locationID": 2520,
+            "bahn": false,
+            "aliases": " S7 S20 MPUL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5100270888377, 48.0432456654663]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.5100270888377,
+            "locationName": "H\u00f6llriegelskreuth",
+            "place": "H\u00f6llriegelskreuth",
+            "ubahn": false,
+            "latitude": 48.0432456654663,
+            "locationID": 2530,
+            "bahn": false,
+            "aliases": "Hoellriegelskreuth Hollriegelskreuth S7 S20 MHRK"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4979390794968, 48.0326261208057]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4979390794968,
+            "locationName": "Buchenhain",
+            "place": "Buchenhain (Obb.)",
+            "ubahn": false,
+            "latitude": 48.0326261208057,
+            "locationID": 2540,
+            "bahn": false,
+            "aliases": " S7 MBHA"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4852413648969, 48.0191066205766]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4852413648969,
+            "locationName": "Baierbrunn",
+            "place": "Baierbrunn",
+            "ubahn": false,
+            "latitude": 48.0191066205766,
+            "locationID": 2550,
+            "bahn": false,
+            "aliases": " S7 MBAB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4563984565769, 47.9905181360316]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4563984565769,
+            "locationName": "Hohensch\u00e4ftlarn",
+            "place": "Hohensch\u00e4ftlarn",
+            "ubahn": false,
+            "latitude": 47.9905181360316,
+            "locationID": 2560,
+            "bahn": false,
+            "aliases": "Hohenschaeftlarn Hohenschaftlarn S7 MHSL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4561423434367, 47.9791759441804]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4561423434367,
+            "locationName": "Ebenhausen-Sch\u00e4ftlarn",
+            "place": "Ebenhausen-Sch\u00e4ftlarn",
+            "ubahn": false,
+            "latitude": 47.9791759441804,
+            "locationID": 2570,
+            "bahn": false,
+            "aliases": "Ebenhausen-Schaeftlarn Schaftlarn S7 MEBS"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4328699882768, 48.1288598718796]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4328699882768,
+            "locationName": "Lochham",
+            "place": "Lochham",
+            "ubahn": false,
+            "latitude": 48.1288598718796,
+            "locationID": 2580,
+            "bahn": false,
+            "aliases": " S6 LBF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4273533281455, 48.1199740201043]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4273533281455,
+            "locationName": "Gr\u00e4felfing",
+            "place": "Gr\u00e4felfing",
+            "ubahn": false,
+            "latitude": 48.1199740201043,
+            "locationID": 2590,
+            "bahn": false,
+            "aliases": "Graefelfing Grafelfing S6 MGFL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4146153902661, 48.1050167614908]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4146153902661,
+            "locationName": "Planegg",
+            "place": "Planegg",
+            "ubahn": false,
+            "latitude": 48.1050167614908,
+            "locationID": 2600,
+            "bahn": false,
+            "aliases": " S6 PLA"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6177270485615, 48.3033991033442]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.6177270485615,
+            "locationName": "Eching",
+            "place": "Eching (Kr Freising)",
+            "ubahn": false,
+            "latitude": 48.3033991033442,
+            "locationID": 2650,
+            "bahn": false,
+            "aliases": "FS S1"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6607596036603, 48.3208365781373]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.6607596036603,
+            "locationName": "Neufahrn",
+            "place": "Neufahrn (b Freising)",
+            "ubahn": false,
+            "latitude": 48.3208365781373,
+            "locationID": 2660,
+            "bahn": false,
+            "aliases": "FS S1 MMNF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7034524711721, 48.3647325111572]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7034524711721,
+            "locationName": "Pulling",
+            "place": "Pulling (Freising)",
+            "ubahn": false,
+            "latitude": 48.3647325111572,
+            "locationID": 2670,
+            "bahn": false,
+            "aliases": "Bf Pulling FS S1 MMPU"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7440424675005, 48.3954239071955]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7440424675005,
+            "locationName": "Freising",
+            "place": "Freising",
+            "ubahn": false,
+            "latitude": 48.3954239071955,
+            "locationID": 2680,
+            "bahn": false,
+            "aliases": "Bf Freising Bahnhof FS S1 MMFR ALEX"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7139673859655, 48.3088312407899]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7139673859655,
+            "locationName": "Hallbergmoos",
+            "place": "Hallbergmoos",
+            "ubahn": false,
+            "latitude": 48.3088312407899,
+            "locationID": 2850,
+            "bahn": false,
+            "aliases": "FS S8 MHMO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7640628242596, 48.3527318717135]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7640628242596,
+            "locationName": "Flughafen, Besucherpark",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.3527318717135,
+            "locationID": 2860,
+            "bahn": false,
+            "aliases": "MUC Besucherpark S1 S8 MFHB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7860917649159, 48.3537640557388]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7860917649159,
+            "locationName": "Flughafen M\u00fcnchen",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.3537640557388,
+            "locationID": 3240,
+            "bahn": false,
+            "aliases": "Munich Airport MUC S1 S8 MFHF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.8784867836618, 48.2181739545004]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.8784867836618,
+            "locationName": "Ottenhofen",
+            "place": "Ottenhofen (Kr Erding)",
+            "ubahn": false,
+            "latitude": 48.2181739545004,
+            "locationID": 3250,
+            "bahn": false,
+            "aliases": "ED S2 MONH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.8833527440457, 48.2444301598991]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.8833527440457,
+            "locationName": "St. Koloman",
+            "place": "Sankt Koloman (Kr Erding)",
+            "ubahn": false,
+            "latitude": 48.2444301598991,
+            "locationID": 3260,
+            "bahn": false,
+            "aliases": "St Koloman ED S2 MMKL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.8936171426989, 48.2747290531239]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.8936171426989,
+            "locationName": "Aufhausen",
+            "place": "Aufhausen (Erding)",
+            "ubahn": false,
+            "latitude": 48.2747290531239,
+            "locationID": 3270,
+            "bahn": false,
+            "aliases": "Bf Aufhausen Bahnhof ED S2 MAFE"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.9012875294153, 48.2933066662848]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.9012875294153,
+            "locationName": "Altenerding",
+            "place": "Altenerding",
+            "ubahn": false,
+            "latitude": 48.2933066662848,
+            "locationID": 3280,
+            "bahn": false,
+            "aliases": "ED S2 MANE"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.9114860322129, 48.3031713583543]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.9114860322129,
+            "locationName": "Erding",
+            "place": "Erding",
+            "ubahn": false,
+            "latitude": 48.3031713583543,
+            "locationID": 3290,
+            "bahn": false,
+            "aliases": "ED S2 MMER"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7820921718049, 48.1644232401862]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7820921718049,
+            "locationName": "Grub",
+            "place": "Grub (Poing)",
+            "ubahn": false,
+            "latitude": 48.1644232401862,
+            "locationID": 3950,
+            "bahn": false,
+            "aliases": "EBE S2 MGRB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.8107398602218, 48.1715965280172]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.8107398602218,
+            "locationName": "Poing",
+            "place": "Poing (Kr EBE)",
+            "ubahn": false,
+            "latitude": 48.1715965280172,
+            "locationID": 3960,
+            "bahn": false,
+            "aliases": " S2 MMPO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.8618679111768, 48.1928032928453]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.8618679111768,
+            "locationName": "Markt Schwaben",
+            "place": "Markt Schwaben",
+            "ubahn": false,
+            "latitude": 48.1928032928453,
+            "locationID": 3970,
+            "bahn": false,
+            "aliases": "Bf Markt Schwaben Bahnhof EBE S2 MMSB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7656006888364, 48.1045399920045]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7656006888364,
+            "locationName": "Vaterstetten",
+            "place": "Vaterstetten",
+            "ubahn": false,
+            "latitude": 48.1045399920045,
+            "locationID": 4000,
+            "bahn": false,
+            "aliases": "EBE S4 S6 MMVS"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7869856873766, 48.0992034370324]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7869856873766,
+            "locationName": "Baldham",
+            "place": "Baldham",
+            "ubahn": false,
+            "latitude": 48.0992034370324,
+            "locationID": 4010,
+            "bahn": false,
+            "aliases": " S4 S6 MBDH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.8324258743381, 48.0888910192765]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.8324258743381,
+            "locationName": "Zorneding",
+            "place": "Zorneding",
+            "ubahn": false,
+            "latitude": 48.0888910192765,
+            "locationID": 4020,
+            "bahn": false,
+            "aliases": "EBE S4 S6 MMZO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.8634535712146, 48.0813774135602]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.8634535712146,
+            "locationName": "Eglharting",
+            "place": "Eglharting",
+            "ubahn": false,
+            "latitude": 48.0813774135602,
+            "locationID": 4030,
+            "bahn": false,
+            "aliases": " S4 S6 MEGL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.8877544955387, 48.0713668890053]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.8877544955387,
+            "locationName": "Kirchseeon",
+            "place": "Kirchseeon",
+            "ubahn": false,
+            "latitude": 48.0713668890053,
+            "locationID": 4040,
+            "bahn": false,
+            "aliases": "EBE S4 S6 MMKO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.9406692758487, 48.0437511370652]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.9406692758487,
+            "locationName": "Grafing Bahnhof",
+            "place": "Grafing (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.0437511370652,
+            "locationID": 4050,
+            "bahn": false,
+            "aliases": "Bf Grafing Muenchen Munchen S4 S6 MMGB Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.9616159225337, 48.0468536950206]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.9616159225337,
+            "locationName": "Grafing Stadt",
+            "place": "Grafing (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.0468536950206,
+            "locationID": 4060,
+            "bahn": false,
+            "aliases": "Muenchen Munchen S4 S6 MGRS"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.9700496466237, 48.0751946109939]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.9700496466237,
+            "locationName": "Ebersberg",
+            "place": "Ebersberg (Obb.)",
+            "ubahn": false,
+            "latitude": 48.0751946109939,
+            "locationID": 4070,
+            "bahn": false,
+            "aliases": "Bf Ebersberg EBE S4 S6 MMEG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.7590878049576, 47.9171276127689]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.7590878049576,
+            "locationName": "Kreuzstra\u00dfe",
+            "place": "Kreuzstra\u00dfe (b Holzkirchen)",
+            "ubahn": false,
+            "latitude": 47.9171276127689,
+            "locationID": 4350,
+            "bahn": false,
+            "aliases": "Bf Kreuzstra\u00dfe Bahnhof Kreuzstrasse MB S7 Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6818625986889, 47.9109682311695]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.6818625986889,
+            "locationName": "Otterfing",
+            "place": "Otterfing (Obb.)",
+            "ubahn": false,
+            "latitude": 47.9109682311695,
+            "locationID": 4360,
+            "bahn": false,
+            "aliases": "Bahnhof Bf MB S3 MOTF BOB Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.6966808987078, 47.8840719683053]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.6966808987078,
+            "locationName": "Holzkirchen",
+            "place": "Holzkirchen (Kr Miesbach)",
+            "ubahn": false,
+            "latitude": 47.8840719683053,
+            "locationID": 4370,
+            "bahn": false,
+            "aliases": "Bf Holzkirchen Bahnhof MB S3 MMHO BOB Meridian"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4376956641033, 47.9534102862191]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4376956641033,
+            "locationName": "Icking",
+            "place": "Icking",
+            "ubahn": false,
+            "latitude": 47.9534102862191,
+            "locationID": 4750,
+            "bahn": false,
+            "aliases": "T\u00d6L S7 MMIC"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4266200332651, 47.9137382278274]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4266200332651,
+            "locationName": "Wolfratshausen",
+            "place": "Wolfratshausen",
+            "ubahn": false,
+            "latitude": 47.9137382278274,
+            "locationID": 4760,
+            "bahn": false,
+            "aliases": "T\u00d6L S7 MMWO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3249843028351, 48.1082310280126]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3249843028351,
+            "locationName": "Geisenbrunn",
+            "place": "Geisenbrunn",
+            "ubahn": false,
+            "latitude": 48.1082310280126,
+            "locationID": 5350,
+            "bahn": false,
+            "aliases": " S8 MGIB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3009137387869, 48.1067472215991]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3009137387869,
+            "locationName": "Gilching-Argelsried",
+            "place": "Gilching",
+            "ubahn": false,
+            "latitude": 48.1067472215991,
+            "locationID": 5360,
+            "bahn": false,
+            "aliases": "Gilching Argelsried STA S8 MGCH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2884654129583, 48.0980191507206]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2884654129583,
+            "locationName": "Neugilching",
+            "place": "Neugilching",
+            "ubahn": false,
+            "latitude": 48.0980191507206,
+            "locationID": 5370,
+            "bahn": false,
+            "aliases": "STA S8 MNGH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2505081701822, 48.0769220853332]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2505081701822,
+            "locationName": "We\u00dfling",
+            "place": "We\u00dfling",
+            "ubahn": false,
+            "latitude": 48.0769220853332,
+            "locationID": 5380,
+            "bahn": false,
+            "aliases": "Wessling STA S8 MMWS"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2069402429398, 48.0615476780244]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2069402429398,
+            "locationName": "Steinebach",
+            "place": "Steinebach (W\u00f6rthsee)",
+            "ubahn": false,
+            "latitude": 48.0615476780244,
+            "locationID": 5390,
+            "bahn": false,
+            "aliases": "Woerthsee Worthsee STA S8 MMSA"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.1976537768876, 48.0409598870656]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.1976537768876,
+            "locationName": "Seefeld-Hechendorf",
+            "place": "Seefeld (Obb.)",
+            "ubahn": false,
+            "latitude": 48.0409598870656,
+            "locationID": 5400,
+            "bahn": false,
+            "aliases": "STA S8 MMSH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.1708186749575, 47.9982745249532]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.1708186749575,
+            "locationName": "Herrsching",
+            "place": "Herrsching (Ammersee)",
+            "ubahn": false,
+            "latitude": 47.9982745249532,
+            "locationID": 5410,
+            "bahn": false,
+            "aliases": "STA S8 MMHI"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4012390691519, 48.0936521171101]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4012390691519,
+            "locationName": "Stockdorf",
+            "place": "Stockdorf",
+            "ubahn": false,
+            "latitude": 48.0936521171101,
+            "locationID": 5420,
+            "bahn": false,
+            "aliases": " S6 MMSD"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3762592578576, 48.070028347693]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3762592578576,
+            "locationName": "Gauting",
+            "place": "Gauting",
+            "ubahn": false,
+            "latitude": 48.070028347693,
+            "locationID": 5430,
+            "bahn": false,
+            "aliases": "STA S6 MMGT"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3444498434723, 47.9965537264081]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3444498434723,
+            "locationName": "Starnberg",
+            "place": "Starnberg",
+            "ubahn": false,
+            "latitude": 47.9965537264081,
+            "locationID": 5450,
+            "bahn": false,
+            "aliases": "STA S6 MMST"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3062318354121, 47.9627380916719]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3062318354121,
+            "locationName": "Possenhofen",
+            "place": "Possenhofen",
+            "ubahn": false,
+            "latitude": 47.9627380916719,
+            "locationID": 5460,
+            "bahn": false,
+            "aliases": " S6 MMPH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2899198719654, 47.9472412479807]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2899198719654,
+            "locationName": "Feldafing",
+            "place": "Feldafing",
+            "ubahn": false,
+            "latitude": 47.9472412479807,
+            "locationID": 5470,
+            "bahn": false,
+            "aliases": "STA S6 MMFA"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2736116753896, 47.9072969800565]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2736116753896,
+            "locationName": "Tutzing",
+            "place": "Tutzing",
+            "ubahn": false,
+            "latitude": 47.9072969800565,
+            "locationID": 5480,
+            "bahn": true,
+            "aliases": "Bf Tuzing Bahnhof STA S6 MMTZ"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3479564875699, 48.0053874272176]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3479564875699,
+            "locationName": "Starnberg Nord",
+            "place": "Starnberg",
+            "ubahn": false,
+            "latitude": 48.0053874272176,
+            "locationID": 5490,
+            "bahn": false,
+            "aliases": "STA S6 MSNO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.036507075083, 48.1063918169544]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.036507075083,
+            "locationName": "Geltendorf",
+            "place": "Geltendorf",
+            "ubahn": false,
+            "latitude": 48.1063918169544,
+            "locationID": 5950,
+            "bahn": false,
+            "aliases": "Bf Geltendorf Bahnhof S4 MMGE BRB ALEX"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3733021487191, 48.1953266563292]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3733021487191,
+            "locationName": "Gr\u00f6benzell",
+            "place": "Gr\u00f6benzell",
+            "ubahn": false,
+            "latitude": 48.1953266563292,
+            "locationID": 6100,
+            "bahn": false,
+            "aliases": "Groebenzell Grobenzell FFB S3 MGRZ"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3343068958161, 48.209892695799]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3343068958161,
+            "locationName": "Olching",
+            "place": "Olching (Obb.)",
+            "ubahn": false,
+            "latitude": 48.209892695799,
+            "locationID": 6110,
+            "bahn": false,
+            "aliases": "FFB S3 MMOL"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3190655422523, 48.2126993615211]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3190655422523,
+            "locationName": "Esting",
+            "place": "Esting",
+            "ubahn": false,
+            "latitude": 48.2126993615211,
+            "locationID": 6120,
+            "bahn": false,
+            "aliases": " S3 MESG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2994618254572, 48.2135889362462]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2994618254572,
+            "locationName": "Gernlinden",
+            "place": "Gernlinden",
+            "ubahn": false,
+            "latitude": 48.2135889362462,
+            "locationID": 6130,
+            "bahn": false,
+            "aliases": " S3 MGLD"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2573548480639, 48.2147368281152]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2573548480639,
+            "locationName": "Maisach",
+            "place": "Maisach",
+            "ubahn": false,
+            "latitude": 48.2147368281152,
+            "locationID": 6140,
+            "bahn": false,
+            "aliases": "FFB S3 MMMA"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2194546629102, 48.2160957675232]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2194546629102,
+            "locationName": "Malching",
+            "place": "Malching (Obb.)",
+            "ubahn": false,
+            "latitude": 48.2160957675232,
+            "locationID": 6150,
+            "bahn": false,
+            "aliases": " S3 MMAG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.1745268135895, 48.216681532841]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.1745268135895,
+            "locationName": "Mammendorf",
+            "place": "Mammendorf (Obb.)",
+            "ubahn": false,
+            "latitude": 48.216681532841,
+            "locationID": 6160,
+            "bahn": false,
+            "aliases": "Bf Mammendorf Bahnhof FFB S3 MMAM"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3526357581619, 48.172234239336]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3526357581619,
+            "locationName": "Puchheim",
+            "place": "Puchheim Bahnhof",
+            "ubahn": false,
+            "latitude": 48.172234239336,
+            "locationID": 6170,
+            "bahn": false,
+            "aliases": "FFB S4 MMPM"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3284204960085, 48.1794879915208]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3284204960085,
+            "locationName": "Eichenau",
+            "place": "Eichenau (b M\u00fcnchen)",
+            "ubahn": false,
+            "latitude": 48.1794879915208,
+            "locationID": 6180,
+            "bahn": false,
+            "aliases": "Muenchen Munchen FFB S4 MEIC"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2627678484405, 48.1722600568355]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2627678484405,
+            "locationName": "F\u00fcrstenfeldbruck",
+            "place": "F\u00fcrstenfeldbruck",
+            "ubahn": false,
+            "latitude": 48.1722600568355,
+            "locationID": 6190,
+            "bahn": false,
+            "aliases": "Fuerstenfeldbruck Furstenfeldbruck FFB S4 MMFB ALEX"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.225404193427, 48.1615012581665]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.225404193427,
+            "locationName": "Buchenau",
+            "place": "Buchenau (FFB)",
+            "ubahn": false,
+            "latitude": 48.1615012581665,
+            "locationID": 6200,
+            "bahn": false,
+            "aliases": " S4 MBAU"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.1915115736099, 48.1463659235331]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.1915115736099,
+            "locationName": "Sch\u00f6ngeising",
+            "place": "Sch\u00f6ngeising",
+            "ubahn": false,
+            "latitude": 48.1463659235331,
+            "locationID": 6210,
+            "bahn": false,
+            "aliases": "Schoengeising Schongeising FFB S4 MSNG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.1528912162098, 48.1323639466117]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.1528912162098,
+            "locationName": "Grafrath",
+            "place": "Grafrath",
+            "ubahn": false,
+            "latitude": 48.1323639466117,
+            "locationID": 6220,
+            "bahn": false,
+            "aliases": "FFB S4 MMGF"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.0780636112885, 48.1050777024841]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.0780636112885,
+            "locationName": "T\u00fcrkenfeld",
+            "place": "T\u00fcrkenfeld (Obb.)",
+            "ubahn": false,
+            "latitude": 48.1050777024841,
+            "locationID": 6230,
+            "bahn": false,
+            "aliases": "Tuerkenfeld Turkenfeld FFB S4"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3884397715194, 48.1337765175936]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.3884397715194,
+            "locationName": "Harthaus",
+            "place": "Harthaus",
+            "ubahn": false,
+            "latitude": 48.1337765175936,
+            "locationID": 6240,
+            "bahn": false,
+            "aliases": " S8 MHHS"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3648456105618, 48.1284954414819]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3648456105618,
+            "locationName": "Germering-Unterpfaffenhofen",
+            "place": "Germering",
+            "ubahn": false,
+            "latitude": 48.1284954414819,
+            "locationID": 6250,
+            "bahn": false,
+            "aliases": "Germering Unterpfaffenhofen FFB S8 MMUG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4432399084155, 48.2544932524593]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": true,
+            "boot": false,
+            "longitude": 11.4432399084155,
+            "locationName": "Dachau",
+            "place": "Dachau",
+            "ubahn": false,
+            "latitude": 48.2544932524593,
+            "locationID": 6800,
+            "bahn": false,
+            "aliases": "Bf Dachau Bahnhof DAH S2 DBFD"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4544677593717, 48.2902859587004]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4544677593717,
+            "locationName": "Hebertshausen",
+            "place": "Hebertshausen",
+            "ubahn": false,
+            "latitude": 48.2902859587004,
+            "locationID": 6810,
+            "bahn": false,
+            "aliases": "DAH S2 MHSN"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4453481585945, 48.3322852917931]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4453481585945,
+            "locationName": "R\u00f6hrmoos",
+            "place": "R\u00f6hrmoos (Kr Dachau)",
+            "ubahn": false,
+            "latitude": 48.3322852917931,
+            "locationID": 6820,
+            "bahn": false,
+            "aliases": "Roehrmoos Rohrmoos DAH S2 MMRM"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4445214410293, 48.3612390233697]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4445214410293,
+            "locationName": "Vierkirchen-Esterhofen",
+            "place": "Vierkirchen-Esterhofen",
+            "ubahn": false,
+            "latitude": 48.3612390233697,
+            "locationID": 6830,
+            "bahn": false,
+            "aliases": "DAH S2 MESH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4699124493782, 48.4126008736516]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4699124493782,
+            "locationName": "Petershausen",
+            "place": "Petershausen",
+            "ubahn": false,
+            "latitude": 48.4126008736516,
+            "locationID": 6840,
+            "bahn": false,
+            "aliases": "DAH S2 MMPE"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.4404712894146, 48.2663418787402]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.4404712894146,
+            "locationName": "Dachau Stadt",
+            "place": "Dachau",
+            "ubahn": false,
+            "latitude": 48.2663418787402,
+            "locationID": 6850,
+            "bahn": false,
+            "aliases": "Bf Dachau Stadt Bahnhof DAH S2 DSTD"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3804391159569, 48.2794972607574]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3804391159569,
+            "locationName": "Bachern",
+            "place": "Bachern (Kr Dachau)",
+            "ubahn": false,
+            "latitude": 48.2794972607574,
+            "locationID": 6870,
+            "bahn": false,
+            "aliases": "Bf Bachern (Kr Dachau) Bahnhof DAH S2 MBCN"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3645800170388, 48.3013271959771]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3645800170388,
+            "locationName": "Schwabhausen",
+            "place": "Schwabhausen (b DAH)",
+            "ubahn": false,
+            "latitude": 48.3013271959771,
+            "locationID": 6880,
+            "bahn": false,
+            "aliases": "Bf Schwabhausen Bahnhof S2 MSHH"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3874651854138, 48.3229358553426]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3874651854138,
+            "locationName": "Niederroth",
+            "place": "Niederroth",
+            "ubahn": false,
+            "latitude": 48.3229358553426,
+            "locationID": 6890,
+            "bahn": false,
+            "aliases": "Bf Niederroth Bahnhof S2 MNRO"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3795280589549, 48.3525346319187]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3795280589549,
+            "locationName": "Markt Indersdorf",
+            "place": "Markt Indersdorf",
+            "ubahn": false,
+            "latitude": 48.3525346319187,
+            "locationID": 6900,
+            "bahn": false,
+            "aliases": "Bf Markt Indersdorf Bahnhof DAH S2 MIDR"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.344509709725, 48.3413600343353]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.344509709725,
+            "locationName": "Arnbach",
+            "place": "Arnbach (Kr Dachau)",
+            "ubahn": false,
+            "latitude": 48.3413600343353,
+            "locationID": 6910,
+            "bahn": false,
+            "aliases": "Bahnhof Arnbach Bf DAH S2 MANB"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.3023882495946, 48.3339539930612]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.3023882495946,
+            "locationName": "Erdweg",
+            "place": "Erdweg",
+            "ubahn": false,
+            "latitude": 48.3339539930612,
+            "locationID": 6920,
+            "bahn": false,
+            "aliases": "Bf Erdweg Bahnhof DAH S2 MEWG"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2742373270721, 48.355030703159]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2742373270721,
+            "locationName": "Kleinberghofen",
+            "place": "Kleinberghofen (Kr Dachau)",
+            "ubahn": false,
+            "latitude": 48.355030703159,
+            "locationID": 6930,
+            "bahn": false,
+            "aliases": "Bf Kleinberghofen Bahnhof DAH S2 MKHN"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2542794063218, 48.3856595037663]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": true,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.2542794063218,
+            "locationName": "Altom\u00fcnster",
+            "place": "Altom\u00fcnster",
+            "ubahn": false,
+            "latitude": 48.3856595037663,
+            "locationID": 6950,
+            "bahn": false,
+            "aliases": "Bf Altom\u00fcnster Bahnhof Altomuenster Altomunster DAH S2 MAMT"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.5582965647371, 48.1403996001314]
+        },
+        "type": "Feature",
+        "properties": {
+            "sbahn": true,
+            "tram": false,
+            "bus": false,
+            "liveDataAvailable": false,
+            "boot": false,
+            "longitude": 11.5582965647371,
+            "locationName": "Hauptbahnhof Haupthalle",
+            "place": "M\u00fcnchen",
+            "ubahn": false,
+            "latitude": 48.1403996001314,
+            "locationID": 8803,
+            "bahn": false,
+            "aliases": "Hbf main station central Muenchen Munchen"
+        }
+    }]
+}

@@ -1,10 +1,11 @@
 
+
 svg {
     position: relative;
   }
   .lineConnect {
     fill: none;
-    stroke: black;
+    stroke: grey;
     stroke-width: 4;
     opacity: 1;
 

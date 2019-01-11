@@ -1,1 +1,2114 @@
-{"type": "FeatureCollection", "features": [{"geometry": {"type": "Point", "coordinates": [11.5652403434013, 48.1391669640734]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5652403434013, "locationName": "Karlsplatz (Stachus)", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1391669640734, "locationID": 1, "bahn": false, "aliases": "Stachus Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U4 U5 KA"}}, {"geometry": {"type": "Point", "coordinates": [11.5764643342958, 48.1369784517773]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5764643342958, "locationName": "Marienplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1369784517773, "locationID": 2, "bahn": false, "aliases": "Rathaus M\u00fcnchen  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U3 U6 MP"}}, {"geometry": {"type": "Point", "coordinates": [11.604062351127, 48.1281372572089]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.604062351127, "locationName": "Ostbahnhof M\u00fcnchen", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1281372572089, "locationID": 5, "bahn": false, "aliases": "Ostbhf M\u00fcnchen Ost Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U5 OB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5611056053238, 48.1403114185532]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5611056053238, "locationName": "Hauptbahnhof", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1403114185532, "locationID": 6, "bahn": false, "aliases": "Hbf M\u00fcnchen main station central station  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U1 U2 U4 U5 U7 U8 HU BOB Meridian ALEX"}}, {"geometry": {"type": "Point", "coordinates": [11.5496157754975, 48.1250861777289]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5496157754975, "locationName": "Poccistra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1250861777289, "locationID": 30, "bahn": false, "aliases": "Wiesn Oktoberfest Poccistrasse Muenchen Munchen U3 U6 PC"}}, {"geometry": {"type": "Point", "coordinates": [11.5583493773539, 48.1295267916554]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5583493773539, "locationName": "Goetheplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1295267916554, "locationID": 40, "bahn": false, "aliases": "Wiesn Oktoberfest Muenchen Munchen U3 U6 GO"}}, {"geometry": {"type": "Point", "coordinates": [11.5666456005857, 48.1334344812302]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5666456005857, "locationName": "Sendlinger Tor", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1334344812302, "locationID": 50, "bahn": false, "aliases": "Muenchen Munchen U1 U2 U3 U6 U7 U8 SE"}}, {"geometry": {"type": "Point", "coordinates": [11.5773987695871, 48.1426387236862]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5773987695871, "locationName": "Odeonsplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1426387236862, "locationID": 60, "bahn": false, "aliases": "Muenchen Munchen U3 U4 U5 U6 OD"}}, {"geometry": {"type": "Point", "coordinates": [11.5805047275461, 48.1490083990794]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5805047275461, "locationName": "Universit\u00e4t", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1490083990794, "locationID": 70, "bahn": false, "aliases": "LMU Ludwig-Maximilians-Universit\u00e4t Uni Universitaet Universitat Muenchen Munchen U3 U6 UN"}}, {"geometry": {"type": "Point", "coordinates": [11.584995120894, 48.1571366866166]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.584995120894, "locationName": "Giselastra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1571366866166, "locationID": 80, "bahn": false, "aliases": "Muenchen Munchen U3 U6 GI"}}, {"geometry": {"type": "Point", "coordinates": [11.5639986570548, 48.1461771032104]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5639986570548, "locationName": "K\u00f6nigsplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1461771032104, "locationID": 110, "bahn": false, "aliases": "Lenbachhaus Glyptothek Koenigsplatz Kunstareal konigsplatz Muenchen Munchen U2 U8 KN"}}, {"geometry": {"type": "Point", "coordinates": [11.5642650834448, 48.1512233926465]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5642650834448, "locationName": "Theresienstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1512233926465, "locationID": 120, "bahn": false, "aliases": "Muenchen Munchen U2 U8 TH"}}, {"geometry": {"type": "Point", "coordinates": [11.5662645840089, 48.1547743293879]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5662645840089, "locationName": "Josephsplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1547743293879, "locationID": 130, "bahn": false, "aliases": "Muenchen Munchen U2 U8 JO"}}, {"geometry": {"type": "Point", "coordinates": [11.5682537637022, 48.1611940695903]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5682537637022, "locationName": "Hohenzollernplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1611940695903, "locationID": 140, "bahn": false, "aliases": "Muenchen Munchen U2 U8 HZ"}}, {"geometry": {"type": "Point", "coordinates": [11.574308, 48.129265]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.574308, "locationName": "Fraunhoferstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.129265, "locationID": 150, "bahn": false, "aliases": "Muenchen Munchen U1 U2 U7 FH"}}, {"geometry": {"type": "Point", "coordinates": [11.5763153916467, 48.1191260033075]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5763153916467, "locationName": "Kolumbusplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1191260033075, "locationID": 160, "bahn": false, "aliases": "Muenchen Munchen U1 U2 U7 KO"}}, {"geometry": {"type": "Point", "coordinates": [11.5588417194893, 48.1473535722684]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5588417194893, "locationName": "Stiglmaierplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1473535722684, "locationID": 170, "bahn": false, "aliases": "Stiegelmayerplatz Muenchen Munchen U1 U7 SM"}}, {"geometry": {"type": "Point", "coordinates": [11.5461602567454, 48.1498853656954]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5461602567454, "locationName": "Maillingerstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1498853656954, "locationID": 180, "bahn": false, "aliases": "Muenchen Munchen U1 U7 MA"}}, {"geometry": {"type": "Point", "coordinates": [11.5334993060882, 48.1529824250642]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5334993060882, "locationName": "Rotkreuzplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1529824250642, "locationID": 190, "bahn": false, "aliases": "Muenchen Munchen U1 U7 RO"}}, {"geometry": {"type": "Point", "coordinates": [11.5284442360651, 48.1693117450165]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5284442360651, "locationName": "Westfriedhof", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1693117450165, "locationID": 200, "bahn": false, "aliases": "SWM MVG Muenchen Munchen U1 U7 WF"}}, {"geometry": {"type": "Point", "coordinates": [11.5521971589653, 48.1356545024004]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5521971589653, "locationName": "Theresienwiese", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1356545024004, "locationID": 240, "bahn": false, "aliases": "Wiesn Oktoberfest Muenchen Munchen U4 U5 TW"}}, {"geometry": {"type": "Point", "coordinates": [11.5398129464798, 48.1337709987928]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5398129464798, "locationName": "Schwanthalerh\u00f6he", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1337709987928, "locationID": 250, "bahn": false, "aliases": "Schwanthalerhoehe Wiesn Oktoberfest Schwanthalerhohe Muenchen Munchen U4 U5 SH"}}, {"geometry": {"type": "Point", "coordinates": [11.5226100446444, 48.1344203968562]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5226100446444, "locationName": "Westendstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1344203968562, "locationID": 260, "bahn": false, "aliases": "Muenchen Munchen U4 U5 WS"}}, {"geometry": {"type": "Point", "coordinates": [11.5094605509261, 48.1354532990874]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5094605509261, "locationName": "Friedenheimer Stra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1354532990874, "locationID": 270, "bahn": false, "aliases": "Muenchen Munchen U5 FI"}}, {"geometry": {"type": "Point", "coordinates": [11.5029575974053, 48.1354703625896]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5029575974053, "locationName": "Laimer Platz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1354703625896, "locationID": 280, "bahn": false, "aliases": "Muenchen Munchen U5 LP"}}, {"geometry": {"type": "Point", "coordinates": [11.5073647766005, 48.1804201569616]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5073647766005, "locationName": "Moosach", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1804201569616, "locationID": 300, "bahn": false, "aliases": "Bf Moosach Bahnhof Muenchen Munchen S1 U3 MO"}}, {"geometry": {"type": "Point", "coordinates": [11.5290786007512, 48.176392098422]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5290786007512, "locationName": "Georg-Brauchle-Ring", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.176392098422, "locationID": 312, "bahn": false, "aliases": "SWM MVG Muenchen Munchen U1 GB"}}, {"geometry": {"type": "Point", "coordinates": [11.5406197306272, 48.2135810691061]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5406197306272, "locationName": "Feldmoching", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.2135810691061, "locationID": 320, "bahn": false, "aliases": "Bf Feldmoching Bahnhof Muenchen Munchen S1 U2 FM"}}, {"geometry": {"type": "Point", "coordinates": [11.5665744471365, 48.1754601878386]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5665744471365, "locationName": "Petuelring", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1754601878386, "locationID": 340, "bahn": false, "aliases": "Muenchen Munchen U3 U8 PR"}}, {"geometry": {"type": "Point", "coordinates": [11.5559229465168, 48.1788460483948]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5559229465168, "locationName": "Olympiazentrum", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1788460483948, "locationID": 350, "bahn": false, "aliases": "Muenchen Munchen U3 U8 OZ"}}, {"geometry": {"type": "Point", "coordinates": [11.5295384278841, 48.1819878282118]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5295384278841, "locationName": "Olympia-Einkaufszentrum", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1819878282118, "locationID": 360, "bahn": false, "aliases": "OEZ Muenchen Munchen U1 U3 OE"}}, {"geometry": {"type": "Point", "coordinates": [11.5173027902344, 48.1818022683154]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5173027902344, "locationName": "Moosacher St.-Martins-Platz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1818022683154, "locationID": 370, "bahn": false, "aliases": "St Martins Muenchen Munchen U3 MM"}}, {"geometry": {"type": "Point", "coordinates": [11.5457058646701, 48.1861807024493]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5457058646701, "locationName": "Oberwiesenfeld", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1861807024493, "locationID": 380, "bahn": false, "aliases": "Muenchen Munchen U3 ON"}}, {"geometry": {"type": "Point", "coordinates": [11.5726851071247, 48.1714720070624]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5726851071247, "locationName": "Scheidplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1714720070624, "locationID": 400, "bahn": false, "aliases": "Muenchen Munchen U2 U3 U8 SP"}}, {"geometry": {"type": "Point", "coordinates": [11.5786508398434, 48.1670063220324]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5786508398434, "locationName": "Bonner Platz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1670063220324, "locationID": 410, "bahn": false, "aliases": "Muenchen Munchen U3 BP"}}, {"geometry": {"type": "Point", "coordinates": [11.6145304102879, 48.1923942679041]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.6145304102879, "locationName": "Freimann", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1923942679041, "locationID": 420, "bahn": false, "aliases": "Muenchen Munchen U6 FR"}}, {"geometry": {"type": "Point", "coordinates": [11.6125027738153, 48.2026667901908]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6125027738153, "locationName": "Kieferngarten", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.2026667901908, "locationID": 430, "bahn": false, "aliases": "Muenchen Munchen U6 KG"}}, {"geometry": {"type": "Point", "coordinates": [11.6712180818262, 48.2648576635194]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6712180818262, "locationName": "Garching, Forschungszentrum", "place": "Garching (b M\u00fcnchen)", "ubahn": true, "latitude": 48.2648576635194, "locationID": 460, "bahn": false, "aliases": "Muenchen Munchen U6 GF"}}, {"geometry": {"type": "Point", "coordinates": [11.6182147436346, 48.2106718959902]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.6182147436346, "locationName": "Fr\u00f6ttmaning", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.2106718959902, "locationID": 470, "bahn": false, "aliases": "Allianz Arena Froettmaning Frottmaning Fr\u00f6ttmanning Muenchen Munchen U6 FT"}}, {"geometry": {"type": "Point", "coordinates": [11.6307617049503, 48.2472163557128]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6307617049503, "locationName": "Garching-Hochbr\u00fcck", "place": "Garching (b M\u00fcnchen)", "ubahn": true, "latitude": 48.2472163557128, "locationID": 480, "bahn": false, "aliases": "Garching-Hochbrueck Hochbruck Muenchen Munchen U6 GK"}}, {"geometry": {"type": "Point", "coordinates": [11.6524923854475, 48.2494153537924]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6524923854475, "locationName": "Garching", "place": "Garching (b M\u00fcnchen)", "ubahn": true, "latitude": 48.2494153537924, "locationID": 490, "bahn": false, "aliases": "Muenchen Munchen U6 GR"}}, {"geometry": {"type": "Point", "coordinates": [11.5862878545643, 48.1618628486411]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5862878545643, "locationName": "M\u00fcnchner Freiheit", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1618628486411, "locationID": 500, "bahn": false, "aliases": "Muenchner Freiheit M\u00fcnchener Muenchener Munchner Munchener Muenchen Munchen U3 U6 MU"}}, {"geometry": {"type": "Point", "coordinates": [11.5903100881879, 48.1665627645506]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5903100881879, "locationName": "Dietlindenstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1665627645506, "locationID": 510, "bahn": false, "aliases": "Muenchen Munchen U6 DI"}}, {"geometry": {"type": "Point", "coordinates": [11.5973952530208, 48.1733957127856]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5973952530208, "locationName": "Nordfriedhof", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1733957127856, "locationID": 520, "bahn": false, "aliases": "Muenchen Munchen U6 NF"}}, {"geometry": {"type": "Point", "coordinates": [11.6038157675767, 48.179470491181]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.6038157675767, "locationName": "Alte Heide", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.179470491181, "locationID": 530, "bahn": false, "aliases": "Muenchen Munchen U6 AH"}}, {"geometry": {"type": "Point", "coordinates": [11.6080225056935, 48.1832890612251]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6080225056935, "locationName": "Studentenstadt", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1832890612251, "locationID": 540, "bahn": false, "aliases": "Muenchen Munchen U6 ST"}}, {"geometry": {"type": "Point", "coordinates": [11.6153844884593, 48.1428708326892]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6153844884593, "locationName": "B\u00f6hmerwaldplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1428708326892, "locationID": 560, "bahn": false, "aliases": "Boehmerwaldplatz Bohmerwaldplatz Muenchen Munchen U4 BO"}}, {"geometry": {"type": "Point", "coordinates": [11.6068513943123, 48.1393885515276]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6068513943123, "locationName": "Prinzregentenplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1393885515276, "locationID": 570, "bahn": false, "aliases": "Muenchen Munchen U4 PZ"}}, {"geometry": {"type": "Point", "coordinates": [11.597877986728, 48.1356612752412]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.597877986728, "locationName": "Max-Weber-Platz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1356612752412, "locationID": 580, "bahn": false, "aliases": "Muenchen Munchen U4 U5 MW"}}, {"geometry": {"type": "Point", "coordinates": [11.5885625717243, 48.1396034322874]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5885625717243, "locationName": "Lehel", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1396034322874, "locationID": 590, "bahn": false, "aliases": "Muenchen Munchen U4 U5 LH"}}, {"geometry": {"type": "Point", "coordinates": [11.6204556356075, 48.1531131179185]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6204556356075, "locationName": "Arabellapark", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1531131179185, "locationID": 670, "bahn": false, "aliases": "Muenchen Munchen U4 AR"}}, {"geometry": {"type": "Point", "coordinates": [11.6162939544806, 48.1488634506107]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6162939544806, "locationName": "Richard-Strauss-Stra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1488634506107, "locationID": 680, "bahn": false, "aliases": "Strau\u00df Muenchen Munchen U4 RS"}}, {"geometry": {"type": "Point", "coordinates": [11.573115720534, 48.1811594164649]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.573115720534, "locationName": "Milbertshofen", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1811594164649, "locationID": 740, "bahn": false, "aliases": "Muenchen Munchen U2 MI"}}, {"geometry": {"type": "Point", "coordinates": [11.5726732110935, 48.1874890673079]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5726732110935, "locationName": "Frankfurter Ring", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1874890673079, "locationID": 750, "bahn": false, "aliases": "Muenchen Munchen U2 FF"}}, {"geometry": {"type": "Point", "coordinates": [11.5718005152825, 48.197009730489]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5718005152825, "locationName": "Am Hart", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.197009730489, "locationID": 760, "bahn": false, "aliases": "Muenchen Munchen U2 HA"}}, {"geometry": {"type": "Point", "coordinates": [11.5686273298927, 48.2048670116806]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5686273298927, "locationName": "Harthof", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.2048670116806, "locationID": 770, "bahn": false, "aliases": "Muenchen Munchen U2 HF"}}, {"geometry": {"type": "Point", "coordinates": [11.5625055435481, 48.2128209480348]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5625055435481, "locationName": "D\u00fclferstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.2128209480348, "locationID": 780, "bahn": false, "aliases": "Duelferstr Dulferstr Muenchen Munchen U2 DF"}}, {"geometry": {"type": "Point", "coordinates": [11.55629900932, 48.2132198801763]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.55629900932, "locationName": "Hasenbergl", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.2132198801763, "locationID": 790, "bahn": false, "aliases": "Muenchen Munchen U2 HL"}}, {"geometry": {"type": "Point", "coordinates": [11.6633349555096, 48.12551990564]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6633349555096, "locationName": "Trudering", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.12551990564, "locationID": 920, "bahn": false, "aliases": "Muenchen Munchen S4 S6 U2 TR"}}, {"geometry": {"type": "Point", "coordinates": [11.528967981083, 48.163495193962]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.528967981083, "locationName": "Gern", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.163495193962, "locationID": 990, "bahn": false, "aliases": "Muenchen Munchen U1 U7 GE"}}, {"geometry": {"type": "Point", "coordinates": [11.6444143407104, 48.0894983204634]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6444143407104, "locationName": "Neuperlach S\u00fcd", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0894983204634, "locationID": 1010, "bahn": false, "aliases": "Sued Sid Muenchen Munchen S7 U5 NS"}}, {"geometry": {"type": "Point", "coordinates": [11.6429257264282, 48.0951236116327]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.6429257264282, "locationName": "Therese-Giehse-Allee", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0951236116327, "locationID": 1020, "bahn": false, "aliases": "Muenchen Munchen U5 TG"}}, {"geometry": {"type": "Point", "coordinates": [11.6474234393449, 48.1009742168455]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6474234393449, "locationName": "Neuperlach Zentrum", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1009742168455, "locationID": 1030, "bahn": false, "aliases": "PEP Muenchen Munchen U5 U7 NZ"}}, {"geometry": {"type": "Point", "coordinates": [11.6464145207943, 48.109101182]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6464145207943, "locationName": "Quiddestra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.109101182, "locationID": 1040, "bahn": false, "aliases": "Muenchen Munchen U5 U7 QI"}}, {"geometry": {"type": "Point", "coordinates": [11.6305934817095, 48.1187823787328]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6305934817095, "locationName": "Michaelibad", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1187823787328, "locationID": 1050, "bahn": false, "aliases": "Muenchen Munchen U5 U7 MC"}}, {"geometry": {"type": "Point", "coordinates": [11.619138144743, 48.1204088302519]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.619138144743, "locationName": "Innsbrucker Ring", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1204088302519, "locationID": 1060, "bahn": false, "aliases": "Muenchen Munchen U2 U5 U7 IR"}}, {"geometry": {"type": "Point", "coordinates": [11.6095090157429, 48.11846097266]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6095090157429, "locationName": "Karl-Preis-Platz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.11846097266, "locationID": 1070, "bahn": false, "aliases": "Muenchen Munchen U2 U7 KP"}}, {"geometry": {"type": "Point", "coordinates": [11.594633763658, 48.1108101092335]}, "type": "Feature", "properties": {"sbahn": true, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.594633763658, "locationName": "Giesing", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1108101092335, "locationID": 1110, "bahn": false, "aliases": "Muenchen Munchen S3 S7 U2 U7 GG"}}, {"geometry": {"type": "Point", "coordinates": [11.5362030538436, 48.1168758769274]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5362030538436, "locationName": "Harras", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1168758769274, "locationID": 1130, "bahn": false, "aliases": "Bf Harras Bahnhof Harras Muenchen Munchen S7 U6 HS BOB Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5483497939348, 48.1193254319289]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5483497939348, "locationName": "Implerstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1193254319289, "locationID": 1140, "bahn": false, "aliases": "Muenchen Munchen U3 U6 IP"}}, {"geometry": {"type": "Point", "coordinates": [11.5334615631696, 48.133394684595]}, "type": "Feature", "properties": {"sbahn": true, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5334615631696, "locationName": "Heimeranplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.133394684595, "locationID": 1150, "bahn": false, "aliases": "Bf Heimeranplatz Bahnhof Heimeranplatz Muenchen Munchen S7 S20 U4 U5 HP Meridian"}}, {"geometry": {"type": "Point", "coordinates": [11.5870575835111, 48.1127617308333]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5870575835111, "locationName": "Untersbergstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1127617308333, "locationID": 1160, "bahn": false, "aliases": "Muenchen Munchen U2 U7 UB"}}, {"geometry": {"type": "Point", "coordinates": [11.5794503090446, 48.1151624101274]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5794503090446, "locationName": "Silberhornstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1151624101274, "locationID": 1170, "bahn": false, "aliases": "Muenchen Munchen U2 U7 SI"}}, {"geometry": {"type": "Point", "coordinates": [11.5697706284374, 48.1115202706143]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5697706284374, "locationName": "Candidplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1115202706143, "locationID": 1180, "bahn": false, "aliases": "Muenchen Munchen U1 CP"}}, {"geometry": {"type": "Point", "coordinates": [11.5747451374276, 48.1092004671938]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.5747451374276, "locationName": "Wettersteinplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1092004671938, "locationID": 1190, "bahn": false, "aliases": "Muenchen Munchen U1 WT"}}, {"geometry": {"type": "Point", "coordinates": [11.5817839518877, 48.1039561075445]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5817839518877, "locationName": "St.-Quirin-Platz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1039561075445, "locationID": 1200, "bahn": false, "aliases": "St-Quirin-Platz St Quirin Platz Muenchen Munchen U1 SQ"}}, {"geometry": {"type": "Point", "coordinates": [11.580960395271, 48.0978915317674]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.580960395271, "locationName": "Mangfallplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0978915317674, "locationID": 1210, "bahn": false, "aliases": "Muenchen Munchen U1 ML"}}, {"geometry": {"type": "Point", "coordinates": [11.6345762487326, 48.1272578807747]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6345762487326, "locationName": "Josephsburg", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1272578807747, "locationID": 1220, "bahn": false, "aliases": "Muenchen Munchen U2 JB"}}, {"geometry": {"type": "Point", "coordinates": [11.644581100497, 48.1257423373493]}, "type": "Feature", "properties": {"sbahn": false, "tram": true, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.644581100497, "locationName": "Kreillerstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1257423373493, "locationID": 1230, "bahn": false, "aliases": "Muenchen Munchen U2 KR"}}, {"geometry": {"type": "Point", "coordinates": [11.6707449726552, 48.1305056839334]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.6707449726552, "locationName": "Moosfeld", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1305056839334, "locationID": 1240, "bahn": false, "aliases": "Am Moosfeld Muenchen Munchen U2 MF"}}, {"geometry": {"type": "Point", "coordinates": [11.6897502261166, 48.1334273434832]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.6897502261166, "locationName": "Messestadt West", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1334273434832, "locationID": 1250, "bahn": false, "aliases": "Messe West Muenchen Munchen U2 ME"}}, {"geometry": {"type": "Point", "coordinates": [11.7036691944366, 48.1333650700511]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.7036691944366, "locationName": "Messestadt Ost", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1333650700511, "locationID": 1260, "bahn": false, "aliases": "Messe Ost Muenchen Munchen U2 MS"}}, {"geometry": {"type": "Point", "coordinates": [11.5262949789535, 48.1164667877783]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5262949789535, "locationName": "Partnachplatz", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1164667877783, "locationID": 1330, "bahn": false, "aliases": "Muenchen Munchen U6 PA"}}, {"geometry": {"type": "Point", "coordinates": [11.517109217926, 48.1178225890661]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.517109217926, "locationName": "Westpark", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1178225890661, "locationID": 1340, "bahn": false, "aliases": "Muenchen Munchen U6 WP"}}, {"geometry": {"type": "Point", "coordinates": [11.5486944501836, 48.1121680189536]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5486944501836, "locationName": "Bruderm\u00fchlstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1121680189536, "locationID": 1430, "bahn": false, "aliases": "Brudermuehlstr Brudermuhlstr Muenchen Munchen U3 BL"}}, {"geometry": {"type": "Point", "coordinates": [11.5466133562025, 48.1014126808878]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5466133562025, "locationName": "Thalkirchen (Tierpark)", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1014126808878, "locationID": 1440, "bahn": false, "aliases": "Zoo Hellabrunn Muenchen Munchen U3 TK"}}, {"geometry": {"type": "Point", "coordinates": [11.53803422702, 48.0983567610108]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.53803422702, "locationName": "Obersendling", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0983567610108, "locationID": 1450, "bahn": false, "aliases": "Muenchen Munchen U3 OS"}}, {"geometry": {"type": "Point", "coordinates": [11.5237136249955, 48.0978397115139]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5237136249955, "locationName": "Aidenbachstra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0978397115139, "locationID": 1460, "bahn": false, "aliases": "Muenchen Munchen U3 AB"}}, {"geometry": {"type": "Point", "coordinates": [11.5134537375022, 48.0981205502032]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5134537375022, "locationName": "Machtlfinger Stra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0981205502032, "locationID": 1470, "bahn": false, "aliases": "Muenchen Munchen U3 MR"}}, {"geometry": {"type": "Point", "coordinates": [11.4984495479206, 48.0947555256853]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4984495479206, "locationName": "Forstenrieder Allee", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0947555256853, "locationID": 1480, "bahn": false, "aliases": "Muenchen Munchen U3 FO"}}, {"geometry": {"type": "Point", "coordinates": [11.4902886515406, 48.0905287056932]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": false, "liveDataAvailable": true, "boot": false, "longitude": 11.4902886515406, "locationName": "Basler Stra\u00dfe", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0905287056932, "locationID": 1490, "bahn": false, "aliases": "Muenchen Munchen U3 BA"}}, {"geometry": {"type": "Point", "coordinates": [11.4803877222176, 48.0886137734006]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4803877222176, "locationName": "F\u00fcrstenried West", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.0886137734006, "locationID": 1500, "bahn": false, "aliases": "Fuerstenried Furstenried Muenchen Munchen U3 FW"}}, {"geometry": {"type": "Point", "coordinates": [11.5022824595627, 48.1163294593985]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.5022824595627, "locationName": "Holzapfelkreuth", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1163294593985, "locationID": 1510, "bahn": false, "aliases": "Muenchen Munchen U6 HK"}}, {"geometry": {"type": "Point", "coordinates": [11.4901206341172, 48.1184166473833]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4901206341172, "locationName": "Haderner Stern", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1184166473833, "locationID": 1520, "bahn": false, "aliases": "Muenchen Munchen U6 HD"}}, {"geometry": {"type": "Point", "coordinates": [11.4772424782384, 48.1155439161805]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4772424782384, "locationName": "Gro\u00dfhadern", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1155439161805, "locationID": 1530, "bahn": false, "aliases": "Grosshadern Muenchen Munchen U6 GH"}}, {"geometry": {"type": "Point", "coordinates": [11.4738453842123, 48.1088822800273]}, "type": "Feature", "properties": {"sbahn": false, "tram": false, "bus": true, "liveDataAvailable": true, "boot": false, "longitude": 11.4738453842123, "locationName": "Klinikum Gro\u00dfhadern", "place": "M\u00fcnchen", "ubahn": true, "latitude": 48.1088822800273, "locationID": 1540, "bahn": false, "aliases": "Klinikum Grosshadern Muenchen Munchen U6 KL"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5652403434013, 48.1391669640734]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5652403434013,
+        "locationName": "Karlsplatz (Stachus)",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1391669640734,
+        "locationID": 1,
+        "bahn": false,
+        "aliases": "Stachus Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U4 U5 KA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5764643342958, 48.1369784517773]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5764643342958,
+        "locationName": "Marienplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1369784517773,
+        "locationID": 2,
+        "bahn": false,
+        "aliases": "Rathaus M\u00fcnchen  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U3 U6 MP"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.604062351127, 48.1281372572089]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.604062351127,
+        "locationName": "Ostbahnhof M\u00fcnchen",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1281372572089,
+        "locationID": 5,
+        "bahn": false,
+        "aliases": "Ostbhf M\u00fcnchen Ost Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U5 OB Meridian"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5611056053238, 48.1403114185532]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5611056053238,
+        "locationName": "Hauptbahnhof",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1403114185532,
+        "locationID": 6,
+        "bahn": false,
+        "aliases": "Hbf M\u00fcnchen main station central station  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U1 U2 U4 U5 U7 U8 HU BOB Meridian ALEX"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5496157754975, 48.1250861777289]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5496157754975,
+        "locationName": "Poccistra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1250861777289,
+        "locationID": 30,
+        "bahn": false,
+        "aliases": "Wiesn Oktoberfest Poccistrasse Muenchen Munchen U3 U6 PC"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5583493773539, 48.1295267916554]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5583493773539,
+        "locationName": "Goetheplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1295267916554,
+        "locationID": 40,
+        "bahn": false,
+        "aliases": "Wiesn Oktoberfest Muenchen Munchen U3 U6 GO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5666456005857, 48.1334344812302]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5666456005857,
+        "locationName": "Sendlinger Tor",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1334344812302,
+        "locationID": 50,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 U2 U3 U6 U7 U8 SE"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5773987695871, 48.1426387236862]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5773987695871,
+        "locationName": "Odeonsplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1426387236862,
+        "locationID": 60,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 U4 U5 U6 OD"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5805047275461, 48.1490083990794]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5805047275461,
+        "locationName": "Universit\u00e4t",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1490083990794,
+        "locationID": 70,
+        "bahn": false,
+        "aliases": "LMU Ludwig-Maximilians-Universit\u00e4t Uni Universitaet Universitat Muenchen Munchen U3 U6 UN"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.584995120894, 48.1571366866166]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.584995120894,
+        "locationName": "Giselastra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1571366866166,
+        "locationID": 80,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 U6 GI"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5639986570548, 48.1461771032104]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5639986570548,
+        "locationName": "K\u00f6nigsplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1461771032104,
+        "locationID": 110,
+        "bahn": false,
+        "aliases": "Lenbachhaus Glyptothek Koenigsplatz Kunstareal konigsplatz Muenchen Munchen U2 U8 KN"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5642650834448, 48.1512233926465]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5642650834448,
+        "locationName": "Theresienstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1512233926465,
+        "locationID": 120,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 U8 TH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5662645840089, 48.1547743293879]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5662645840089,
+        "locationName": "Josephsplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1547743293879,
+        "locationID": 130,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 U8 JO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5682537637022, 48.1611940695903]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5682537637022,
+        "locationName": "Hohenzollernplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1611940695903,
+        "locationID": 140,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 U8 HZ"
+      }
+    },
+    {
+      "geometry": { "type": "Point", "coordinates": [11.574308, 48.129265] },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.574308,
+        "locationName": "Fraunhoferstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.129265,
+        "locationID": 150,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 U2 U7 FH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5763153916467, 48.1191260033075]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5763153916467,
+        "locationName": "Kolumbusplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1191260033075,
+        "locationID": 160,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 U2 U7 KO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5588417194893, 48.1473535722684]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5588417194893,
+        "locationName": "Stiglmaierplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1473535722684,
+        "locationID": 170,
+        "bahn": false,
+        "aliases": "Stiegelmayerplatz Muenchen Munchen U1 U7 SM"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5461602567454, 48.1498853656954]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5461602567454,
+        "locationName": "Maillingerstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1498853656954,
+        "locationID": 180,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 U7 MA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5334993060882, 48.1529824250642]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5334993060882,
+        "locationName": "Rotkreuzplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1529824250642,
+        "locationID": 190,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 U7 RO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5284442360651, 48.1693117450165]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5284442360651,
+        "locationName": "Westfriedhof",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1693117450165,
+        "locationID": 200,
+        "bahn": false,
+        "aliases": "SWM MVG Muenchen Munchen U1 U7 WF"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5521971589653, 48.1356545024004]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5521971589653,
+        "locationName": "Theresienwiese",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1356545024004,
+        "locationID": 240,
+        "bahn": false,
+        "aliases": "Wiesn Oktoberfest Muenchen Munchen U4 U5 TW"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5398129464798, 48.1337709987928]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5398129464798,
+        "locationName": "Schwanthalerh\u00f6he",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1337709987928,
+        "locationID": 250,
+        "bahn": false,
+        "aliases": "Schwanthalerhoehe Wiesn Oktoberfest Schwanthalerhohe Muenchen Munchen U4 U5 SH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5226100446444, 48.1344203968562]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5226100446444,
+        "locationName": "Westendstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1344203968562,
+        "locationID": 260,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U4 U5 WS"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5094605509261, 48.1354532990874]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5094605509261,
+        "locationName": "Friedenheimer Stra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1354532990874,
+        "locationID": 270,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U5 FI"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5029575974053, 48.1354703625896]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5029575974053,
+        "locationName": "Laimer Platz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1354703625896,
+        "locationID": 280,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U5 LP"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5073647766005, 48.1804201569616]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5073647766005,
+        "locationName": "Moosach",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1804201569616,
+        "locationID": 300,
+        "bahn": false,
+        "aliases": "Bf Moosach Bahnhof Muenchen Munchen S1 U3 MO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5290786007512, 48.176392098422]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5290786007512,
+        "locationName": "Georg-Brauchle-Ring",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.176392098422,
+        "locationID": 312,
+        "bahn": false,
+        "aliases": "SWM MVG Muenchen Munchen U1 GB"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5406197306272, 48.2135810691061]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5406197306272,
+        "locationName": "Feldmoching",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.2135810691061,
+        "locationID": 320,
+        "bahn": false,
+        "aliases": "Bf Feldmoching Bahnhof Muenchen Munchen S1 U2 FM"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5665744471365, 48.1754601878386]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5665744471365,
+        "locationName": "Petuelring",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1754601878386,
+        "locationID": 340,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 U8 PR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5559229465168, 48.1788460483948]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5559229465168,
+        "locationName": "Olympiazentrum",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1788460483948,
+        "locationID": 350,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 U8 OZ"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5295384278841, 48.1819878282118]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5295384278841,
+        "locationName": "Olympia-Einkaufszentrum",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1819878282118,
+        "locationID": 360,
+        "bahn": false,
+        "aliases": "OEZ Muenchen Munchen U1 U3 OE"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5173027902344, 48.1818022683154]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5173027902344,
+        "locationName": "Moosacher St.-Martins-Platz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1818022683154,
+        "locationID": 370,
+        "bahn": false,
+        "aliases": "St Martins Muenchen Munchen U3 MM"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5457058646701, 48.1861807024493]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5457058646701,
+        "locationName": "Oberwiesenfeld",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1861807024493,
+        "locationID": 380,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 ON"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5726851071247, 48.1714720070624]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5726851071247,
+        "locationName": "Scheidplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1714720070624,
+        "locationID": 400,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 U3 U8 SP"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5786508398434, 48.1670063220324]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5786508398434,
+        "locationName": "Bonner Platz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1670063220324,
+        "locationID": 410,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 BP"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6145304102879, 48.1923942679041]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6145304102879,
+        "locationName": "Freimann",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1923942679041,
+        "locationID": 420,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 FR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6125027738153, 48.2026667901908]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6125027738153,
+        "locationName": "Kieferngarten",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.2026667901908,
+        "locationID": 430,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 KG"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6712180818262, 48.2648576635194]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6712180818262,
+        "locationName": "Garching, Forschungszentrum",
+        "place": "Garching (b M\u00fcnchen)",
+        "ubahn": true,
+        "latitude": 48.2648576635194,
+        "locationID": 460,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 GF"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6182147436346, 48.2106718959902]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6182147436346,
+        "locationName": "Fr\u00f6ttmaning",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.2106718959902,
+        "locationID": 470,
+        "bahn": false,
+        "aliases": "Allianz Arena Froettmaning Frottmaning Fr\u00f6ttmanning Muenchen Munchen U6 FT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6307617049503, 48.2472163557128]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6307617049503,
+        "locationName": "Garching-Hochbr\u00fcck",
+        "place": "Garching (b M\u00fcnchen)",
+        "ubahn": true,
+        "latitude": 48.2472163557128,
+        "locationID": 480,
+        "bahn": false,
+        "aliases": "Garching-Hochbrueck Hochbruck Muenchen Munchen U6 GK"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6524923854475, 48.2494153537924]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6524923854475,
+        "locationName": "Garching",
+        "place": "Garching (b M\u00fcnchen)",
+        "ubahn": true,
+        "latitude": 48.2494153537924,
+        "locationID": 490,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 GR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5862878545643, 48.1618628486411]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5862878545643,
+        "locationName": "M\u00fcnchner Freiheit",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1618628486411,
+        "locationID": 500,
+        "bahn": false,
+        "aliases": "Muenchner Freiheit M\u00fcnchener Muenchener Munchner Munchener Muenchen Munchen U3 U6 MU"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5903100881879, 48.1665627645506]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5903100881879,
+        "locationName": "Dietlindenstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1665627645506,
+        "locationID": 510,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 DI"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5973952530208, 48.1733957127856]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5973952530208,
+        "locationName": "Nordfriedhof",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1733957127856,
+        "locationID": 520,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 NF"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6038157675767, 48.179470491181]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6038157675767,
+        "locationName": "Alte Heide",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.179470491181,
+        "locationID": 530,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 AH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6080225056935, 48.1832890612251]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6080225056935,
+        "locationName": "Studentenstadt",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1832890612251,
+        "locationID": 540,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 ST"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6153844884593, 48.1428708326892]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6153844884593,
+        "locationName": "B\u00f6hmerwaldplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1428708326892,
+        "locationID": 560,
+        "bahn": false,
+        "aliases": "Boehmerwaldplatz Bohmerwaldplatz Muenchen Munchen U4 BO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6068513943123, 48.1393885515276]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6068513943123,
+        "locationName": "Prinzregentenplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1393885515276,
+        "locationID": 570,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U4 PZ"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.597877986728, 48.1356612752412]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.597877986728,
+        "locationName": "Max-Weber-Platz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1356612752412,
+        "locationID": 580,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U4 U5 MW"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5885625717243, 48.1396034322874]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5885625717243,
+        "locationName": "Lehel",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1396034322874,
+        "locationID": 590,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U4 U5 LH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6204556356075, 48.1531131179185]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6204556356075,
+        "locationName": "Arabellapark",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1531131179185,
+        "locationID": 670,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U4 AR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6162939544806, 48.1488634506107]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6162939544806,
+        "locationName": "Richard-Strauss-Stra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1488634506107,
+        "locationID": 680,
+        "bahn": false,
+        "aliases": "Strau\u00df Muenchen Munchen U4 RS"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.573115720534, 48.1811594164649]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.573115720534,
+        "locationName": "Milbertshofen",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1811594164649,
+        "locationID": 740,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 MI"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5726732110935, 48.1874890673079]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5726732110935,
+        "locationName": "Frankfurter Ring",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1874890673079,
+        "locationID": 750,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 FF"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5718005152825, 48.197009730489]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5718005152825,
+        "locationName": "Am Hart",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.197009730489,
+        "locationID": 760,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 HA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5686273298927, 48.2048670116806]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5686273298927,
+        "locationName": "Harthof",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.2048670116806,
+        "locationID": 770,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 HF"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5625055435481, 48.2128209480348]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5625055435481,
+        "locationName": "D\u00fclferstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.2128209480348,
+        "locationID": 780,
+        "bahn": false,
+        "aliases": "Duelferstr Dulferstr Muenchen Munchen U2 DF"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.55629900932, 48.2132198801763]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.55629900932,
+        "locationName": "Hasenbergl",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.2132198801763,
+        "locationID": 790,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 HL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6633349555096, 48.12551990564]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6633349555096,
+        "locationName": "Trudering",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.12551990564,
+        "locationID": 920,
+        "bahn": false,
+        "aliases": "Muenchen Munchen S4 S6 U2 TR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.528967981083, 48.163495193962]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.528967981083,
+        "locationName": "Gern",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.163495193962,
+        "locationID": 990,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 U7 GE"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6444143407104, 48.0894983204634]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6444143407104,
+        "locationName": "Neuperlach S\u00fcd",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0894983204634,
+        "locationID": 1010,
+        "bahn": false,
+        "aliases": "Sued Sid Muenchen Munchen S7 U5 NS"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6429257264282, 48.0951236116327]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6429257264282,
+        "locationName": "Therese-Giehse-Allee",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0951236116327,
+        "locationID": 1020,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U5 TG"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6474234393449, 48.1009742168455]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6474234393449,
+        "locationName": "Neuperlach Zentrum",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1009742168455,
+        "locationID": 1030,
+        "bahn": false,
+        "aliases": "PEP Muenchen Munchen U5 U7 NZ"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6464145207943, 48.109101182]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6464145207943,
+        "locationName": "Quiddestra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.109101182,
+        "locationID": 1040,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U5 U7 QI"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6305934817095, 48.1187823787328]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6305934817095,
+        "locationName": "Michaelibad",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1187823787328,
+        "locationID": 1050,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U5 U7 MC"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.619138144743, 48.1204088302519]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.619138144743,
+        "locationName": "Innsbrucker Ring",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1204088302519,
+        "locationID": 1060,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 U5 U7 IR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6095090157429, 48.11846097266]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6095090157429,
+        "locationName": "Karl-Preis-Platz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.11846097266,
+        "locationID": 1070,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 U7 KP"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.594633763658, 48.1108101092335]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.594633763658,
+        "locationName": "Giesing",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1108101092335,
+        "locationID": 1110,
+        "bahn": false,
+        "aliases": "Muenchen Munchen S3 S7 U2 U7 GG"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5362030538436, 48.1168758769274]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5362030538436,
+        "locationName": "Harras",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1168758769274,
+        "locationID": 1130,
+        "bahn": false,
+        "aliases": "Bf Harras Bahnhof Harras Muenchen Munchen S7 U6 HS BOB Meridian"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5483497939348, 48.1193254319289]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5483497939348,
+        "locationName": "Implerstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1193254319289,
+        "locationID": 1140,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 U6 IP"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5334615631696, 48.133394684595]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": true,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5334615631696,
+        "locationName": "Heimeranplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.133394684595,
+        "locationID": 1150,
+        "bahn": false,
+        "aliases": "Bf Heimeranplatz Bahnhof Heimeranplatz Muenchen Munchen S7 S20 U4 U5 HP Meridian"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5870575835111, 48.1127617308333]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5870575835111,
+        "locationName": "Untersbergstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1127617308333,
+        "locationID": 1160,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 U7 UB"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5794503090446, 48.1151624101274]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5794503090446,
+        "locationName": "Silberhornstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1151624101274,
+        "locationID": 1170,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 U7 SI"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5697706284374, 48.1115202706143]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5697706284374,
+        "locationName": "Candidplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1115202706143,
+        "locationID": 1180,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 CP"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5747451374276, 48.1092004671938]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5747451374276,
+        "locationName": "Wettersteinplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1092004671938,
+        "locationID": 1190,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 WT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5817839518877, 48.1039561075445]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5817839518877,
+        "locationName": "St.-Quirin-Platz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1039561075445,
+        "locationID": 1200,
+        "bahn": false,
+        "aliases": "St-Quirin-Platz St Quirin Platz Muenchen Munchen U1 SQ"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.580960395271, 48.0978915317674]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.580960395271,
+        "locationName": "Mangfallplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0978915317674,
+        "locationID": 1210,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U1 ML"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6345762487326, 48.1272578807747]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6345762487326,
+        "locationName": "Josephsburg",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1272578807747,
+        "locationID": 1220,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 JB"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.644581100497, 48.1257423373493]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": true,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.644581100497,
+        "locationName": "Kreillerstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1257423373493,
+        "locationID": 1230,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U2 KR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6707449726552, 48.1305056839334]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6707449726552,
+        "locationName": "Moosfeld",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1305056839334,
+        "locationID": 1240,
+        "bahn": false,
+        "aliases": "Am Moosfeld Muenchen Munchen U2 MF"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.6897502261166, 48.1334273434832]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.6897502261166,
+        "locationName": "Messestadt West",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1334273434832,
+        "locationID": 1250,
+        "bahn": false,
+        "aliases": "Messe West Muenchen Munchen U2 ME"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.7036691944366, 48.1333650700511]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.7036691944366,
+        "locationName": "Messestadt Ost",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1333650700511,
+        "locationID": 1260,
+        "bahn": false,
+        "aliases": "Messe Ost Muenchen Munchen U2 MS"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5262949789535, 48.1164667877783]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5262949789535,
+        "locationName": "Partnachplatz",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1164667877783,
+        "locationID": 1330,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 PA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.517109217926, 48.1178225890661]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.517109217926,
+        "locationName": "Westpark",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1178225890661,
+        "locationID": 1340,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 WP"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5486944501836, 48.1121680189536]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5486944501836,
+        "locationName": "Bruderm\u00fchlstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1121680189536,
+        "locationID": 1430,
+        "bahn": false,
+        "aliases": "Brudermuehlstr Brudermuhlstr Muenchen Munchen U3 BL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5466133562025, 48.1014126808878]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5466133562025,
+        "locationName": "Thalkirchen (Tierpark)",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1014126808878,
+        "locationID": 1440,
+        "bahn": false,
+        "aliases": "Zoo Hellabrunn Muenchen Munchen U3 TK"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.53803422702, 48.0983567610108]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.53803422702,
+        "locationName": "Obersendling",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0983567610108,
+        "locationID": 1450,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 OS"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5237136249955, 48.0978397115139]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5237136249955,
+        "locationName": "Aidenbachstra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0978397115139,
+        "locationID": 1460,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 AB"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5134537375022, 48.0981205502032]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5134537375022,
+        "locationName": "Machtlfinger Stra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0981205502032,
+        "locationID": 1470,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 MR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.4984495479206, 48.0947555256853]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.4984495479206,
+        "locationName": "Forstenrieder Allee",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0947555256853,
+        "locationID": 1480,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 FO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.4902886515406, 48.0905287056932]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": false,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.4902886515406,
+        "locationName": "Basler Stra\u00dfe",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0905287056932,
+        "locationID": 1490,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U3 BA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.4803877222176, 48.0886137734006]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.4803877222176,
+        "locationName": "F\u00fcrstenried West",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.0886137734006,
+        "locationID": 1500,
+        "bahn": false,
+        "aliases": "Fuerstenried Furstenried Muenchen Munchen U3 FW"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5022824595627, 48.1163294593985]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.5022824595627,
+        "locationName": "Holzapfelkreuth",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1163294593985,
+        "locationID": 1510,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 HK"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.4901206341172, 48.1184166473833]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.4901206341172,
+        "locationName": "Haderner Stern",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1184166473833,
+        "locationID": 1520,
+        "bahn": false,
+        "aliases": "Muenchen Munchen U6 HD"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.4772424782384, 48.1155439161805]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.4772424782384,
+        "locationName": "Gro\u00dfhadern",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1155439161805,
+        "locationID": 1530,
+        "bahn": false,
+        "aliases": "Grosshadern Muenchen Munchen U6 GH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.4738453842123, 48.1088822800273]
+      },
+      "type": "Feature",
+      "properties": {
+        "sbahn": false,
+        "tram": false,
+        "bus": true,
+        "liveDataAvailable": true,
+        "boot": false,
+        "longitude": 11.4738453842123,
+        "locationName": "Klinikum Gro\u00dfhadern",
+        "place": "M\u00fcnchen",
+        "ubahn": true,
+        "latitude": 48.1088822800273,
+        "locationID": 1540,
+        "bahn": false,
+        "aliases": "Klinikum Grosshadern Muenchen Munchen U6 KL"
+      }
+    }
+  ]
+}

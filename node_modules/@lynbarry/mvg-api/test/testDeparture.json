@@ -1,0 +1,304 @@
+{
+    "departures": [
+        {
+            "departureTime": 1538025210000,
+            "product": "BUS",
+            "label": "68",
+            "destination": "Silberhornstraße",
+            "live": true,
+            "lineBackgroundColor": "#0d5c70",
+            "departureId": 2109853955,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025240000,
+            "product": "SBAHN",
+            "label": "S7",
+            "destination": "Wolfratshausen",
+            "live": true,
+            "lineBackgroundColor": "#964438",
+            "departureId": -1353591487,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025240000,
+            "product": "SBAHN",
+            "label": "S3",
+            "destination": "Deisenhofen",
+            "live": true,
+            "lineBackgroundColor": "#942d8d",
+            "departureId": 1969101013,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025240000,
+            "product": "SBAHN",
+            "label": "S6",
+            "destination": "Tutzing",
+            "live": true,
+            "lineBackgroundColor": "#03a074",
+            "departureId": -1765642180,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025250000,
+            "product": "UBAHN",
+            "label": "U4",
+            "destination": "Westendstraße",
+            "live": true,
+            "lineBackgroundColor": "#04af90",
+            "departureId": -1100818605,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025270000,
+            "product": "UBAHN",
+            "label": "U5",
+            "destination": "Neuperlach Süd",
+            "live": true,
+            "lineBackgroundColor": "#b78730",
+            "departureId": 555931429,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025287000,
+            "product": "UBAHN",
+            "label": "U2",
+            "destination": "Feldmoching",
+            "live": true,
+            "lineBackgroundColor": "#dd3d4d",
+            "departureId": 850602269,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025299000,
+            "product": "UBAHN",
+            "label": "U1",
+            "destination": "Mangfallplatz",
+            "live": true,
+            "lineBackgroundColor": "#468447",
+            "departureId": 779662588,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025300000,
+            "product": "SBAHN",
+            "label": "S8",
+            "destination": "Germering-Unterpfaffenhofen",
+            "live": true,
+            "lineBackgroundColor": "#000000",
+            "departureId": -747002484,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025300000,
+            "product": "SBAHN",
+            "label": "S6",
+            "destination": "Zorneding",
+            "live": true,
+            "lineBackgroundColor": "#03a074",
+            "departureId": 1068414707,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025305000,
+            "product": "TRAM",
+            "label": "19",
+            "destination": "Pasing Bf.",
+            "live": true,
+            "lineBackgroundColor": "#ea4029",
+            "departureId": 1852873651,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025328000,
+            "product": "TRAM",
+            "label": "19",
+            "destination": "Berg am Laim Bf.",
+            "live": true,
+            "lineBackgroundColor": "#ea4029",
+            "departureId": -1682310096,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025357000,
+            "product": "UBAHN",
+            "label": "U5",
+            "destination": "Laimer Platz",
+            "live": true,
+            "lineBackgroundColor": "#b78730",
+            "departureId": -469660134,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025360000,
+            "product": "TRAM",
+            "label": "20",
+            "destination": "Moosach Bf.",
+            "live": true,
+            "lineBackgroundColor": "#ea4029",
+            "departureId": 2126413483,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025390000,
+            "product": "UBAHN",
+            "label": "U4",
+            "destination": "Arabellapark",
+            "live": true,
+            "lineBackgroundColor": "#04af90",
+            "departureId": -438211063,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025410000,
+            "product": "UBAHN",
+            "label": "U1",
+            "destination": "Olympia - Einkaufszentrum",
+            "live": true,
+            "lineBackgroundColor": "#468447",
+            "departureId": -2116493652,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025413000,
+            "product": "TRAM",
+            "label": "17",
+            "destination": "Amalienburgstraße",
+            "live": true,
+            "lineBackgroundColor": "#ea4029",
+            "departureId": -1194568254,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025419000,
+            "product": "UBAHN",
+            "label": "U2",
+            "destination": "Messestadt Ost",
+            "live": true,
+            "lineBackgroundColor": "#dd3d4d",
+            "departureId": -1663738804,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025420000,
+            "product": "SBAHN",
+            "label": "S1",
+            "destination": "München Ost",
+            "live": true,
+            "lineBackgroundColor": "#79c6e7",
+            "departureId": -975833186,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025420000,
+            "product": "SBAHN",
+            "label": "S1",
+            "destination": "München Ost",
+            "live": true,
+            "lineBackgroundColor": "#79c6e7",
+            "departureId": -975833186,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025441000,
+            "product": "TRAM",
+            "label": "17",
+            "destination": "St.-Veit-Straße",
+            "live": true,
+            "lineBackgroundColor": "#ea4029",
+            "departureId": 1791932402,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025480000,
+            "product": "SBAHN",
+            "label": "S3",
+            "destination": "Mammendorf",
+            "live": true,
+            "lineBackgroundColor": "#942d8d",
+            "departureId": -447047267,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025506000,
+            "product": "UBAHN",
+            "label": "U5",
+            "destination": "Neuperlach Süd",
+            "live": true,
+            "lineBackgroundColor": "#b78730",
+            "departureId": 2018329029,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025510000,
+            "product": "BUS",
+            "label": "68",
+            "destination": "CityRing via Silberhornstraße - Ostbahnhof",
+            "live": true,
+            "lineBackgroundColor": "#0d5c70",
+            "departureId": 703619781,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025528000,
+            "product": "UBAHN",
+            "label": "U4",
+            "destination": "Theresienwiese",
+            "live": true,
+            "lineBackgroundColor": "#04af90",
+            "departureId": -1582874845,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025530000,
+            "product": "UBAHN",
+            "label": "U2",
+            "destination": "Feldmoching",
+            "live": true,
+            "lineBackgroundColor": "#dd3d4d",
+            "departureId": -1797196363,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025540000,
+            "product": "SBAHN",
+            "label": "S8",
+            "destination": "München Flughafen Terminal",
+            "live": true,
+            "lineBackgroundColor": "#000000",
+            "departureId": -650220174,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025540000,
+            "product": "SBAHN",
+            "label": "S4",
+            "destination": "Ebersberg(Oberbay)",
+            "live": true,
+            "lineBackgroundColor": "#d4214d",
+            "departureId": -1859772169,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025547000,
+            "product": "UBAHN",
+            "label": "U7",
+            "destination": "Neuperlach Zentrum",
+            "live": true,
+            "lineBackgroundColor": "#468447,#dd3d4d",
+            "departureId": 1130341099,
+            "sev": false
+        },
+        {
+            "departureTime": 1538025600000,
+            "product": "SBAHN",
+            "label": "S2",
+            "destination": "Dachau Bahnhof",
+            "live": true,
+            "lineBackgroundColor": "#9bc04c",
+            "departureId": -328169935,
+            "sev": false
+        }
+    ]
+}
