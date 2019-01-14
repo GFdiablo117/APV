@@ -37,7 +37,7 @@
 
  var HBFIcon = L.icon({
     iconUrl: '/svg/HBF.svg',
-
+    id: 'HBF',
     iconSize:     [40, 40], // size of the icon
 });
 

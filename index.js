@@ -22,7 +22,7 @@ app.get('/departues/:station/:vehicle', async function (req, res) {
     const departues = await mvgApi.getDepartures(station, options)
     res.send(departues)
     }catch(err){
-        console.log(err)
     } 
+    res.send(null)
  });
 app.listen(8080);

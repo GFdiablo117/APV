@@ -1,9 +1,66 @@
+
+let disableSingleMapEvent = false;
+let focusedLine;
+
+
+function pathDistanceBetweenTwoPoints(path, x1, x2) {
+    var pathLength = path.getTotalLength();
+    var distance = 0, distance1;
+    while (distance < pathLength && x1 > path.getPointAtLength(distance))
+        distance1 = distance++;
+    while (distance < pathLength && x2 > path.getPointAtLength(distance))
+        distance++;
+    return distance - distance1;
+}
+
 function combineRoutes(route1, route2) {
     for (let i = 0; i < route2.features.length; i++) {
         route1.features.push(route2.features[i])
     }
     return route1
 }
+
+function focusLine(line, lineData){
+    if(focusedLine){
+        unfocusLine()
+    }
+    d3.select(line)
+    .attr("stroke", lineData.properties.color)
+    .attr("stroke-width", 6)
+    focusedLine=line;
+    disableSingleMapEvent=true
+}
+function unfocusLine(){
+    d3.select(focusedLine)
+    .attr("stroke", "gray")
+    .attr("stroke-width", 3)
+}
+
+//usingJquery to update the board
+function updateBoard(departues){
+
+   elements= [{line: '.cls-3', departues: ".cls-6[x='28']"}, {line: '.cls-8', departues: '.cls-8 .cls-6'} ,{line: '.cls-9', departues: '.cls-9 .cls-6'} ,{line: '.cls-12', departues: '.cls-12 .cls-6'}, {line: '.cls-25', departues: '.value'}] 
+   elements.forEach((element)=> {
+    d3.select('#bahnen').select(element.departues).text('test')
+   })
+   
+   
+   //d3.select('#bahnen').select('.cls-6').text("New");
+       
+    
+}
+
+d3.select('#map').on("click", function(){
+    if(disableSingleMapEvent){
+        disableSingleMapEvent=false;
+    }
+    else if(focusedLine){
+        unfocusLine();
+    } 
+    updateBoard()  
+}) 
+
+
 
 d3.json("/routes/UBahnRoutes.json")
     .then(function (ubahn) {
@@ -30,11 +87,12 @@ d3.json("/routes/UBahnRoutes.json")
                     .enter()
                     .append("path")
                     .attr("class", "lineConnect")
-                    .on("click", function(d){
-                        alert('fdggdfh')
-                        d3.select(this).attr("fill", "red")
+                    .attr("stroke", "gray")
+                    .attr("stroke-width", 3)
+                    .on("click", function(lineData){
+                        focusLine(this, lineData)    
                     }) 
-            
+
 
 
 
@@ -81,11 +139,18 @@ d3.json("/routes/UBahnRoutes.json")
                 });
   
 
-                let uBahnDepartues = await fetch('/departues/Hauptbahnhof/u')
+                let uBahnDepartues = await fetch('/departues/Flughafen/u')
                     .then(function (res) {
+                        try{
                         return res.json()
+                        }catch(err){
+                            return null
+                        }
                     })
                     .then(function (data) {
+                        if(data.length==0){
+                            data=[{lineNumber: 1, departue: 1}, {lineNumber: 2, departue: 4}, {lineNumber: 4, departue: 6}, {lineNumber:5}]
+                        }
                         let departues = []
                         for (let i = 0; i < data.length; i++) {
                             if (keys.includes("U" + data[i].lineNumber))
@@ -97,7 +162,7 @@ d3.json("/routes/UBahnRoutes.json")
                         // If there is any error you will catch them here
                     });
 
-                let tramDepartues = await fetch('/departues/Hauptbahnhof/t')
+                let tramDepartues = await fetch('/departues/Flughafen/t')
                     .then(function (res) {
                         return res.json()
                     })
@@ -112,10 +177,7 @@ d3.json("/routes/UBahnRoutes.json")
                     .catch(function (error) {
                         // If there is any error you will catch them here
                     });
-                let testPath = d3.selectAll('.lineConnect')._groups[0][0]
-                let testPath2 = d3.selectAll('.lineConnect')._groups[0][1]
-                let testPath3 = d3.selectAll('.lineConnect')._groups[0][2]
-                //generate circles for amount of Lines
+
                 let circleRadii = []
                 let circleID = []
                 for (let i = 0; i < (tramDepartues.length + uBahnDepartues.length); i++) {
@@ -137,7 +199,9 @@ d3.json("/routes/UBahnRoutes.json")
                         .attr("xlink:href", `/svg/${keys[i]}.svg`)
                         .attr("width", 30)
                         .attr("height", 30)
+
                 }
+
 
                 let count = 1
                 let copyOfUbahn = JSON.parse(JSON.stringify(uBahnDepartues))
@@ -188,7 +252,7 @@ d3.json("/routes/UBahnRoutes.json")
                             return "translate(" + [(p.x + -topLeft[0] - 15), (p.y + -topLeft[1] - 15)] + ")";
                         }
                     });
-                    //For late point event acess with jquery
+                    //For late point eventacess with jquery
                    /* $( "#U1Route" ).click(function() {
                         alert( "Handler for .click() called." );
                       });*/

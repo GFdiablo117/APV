@@ -3,17 +3,18 @@ body {
 
 .lineConnect {
   fill: none;
-  stroke: grey;
-  stroke-width: 3;
   opacity: 1;
 
 }
 
 .lineConnect:hover {
-  stroke-width: 5;
+  stroke-width: 6;
 }
 
-path:hover {
+path{
+}
+
+#map > path:hover {
   stroke-width: 20;
   fill-opacity: .7;
 }
@@ -31,9 +32,9 @@ svg {
 }
 #infocard {
   position: absolute;
-  z-index: 2;
-  left: 770px;
-  bottom: 100px;
+  z-index: 1;
+  left: 500px;
+  bottom: 90px;
   opacity: 0.8;
 }
 /* Here’s the CSS for masking */
