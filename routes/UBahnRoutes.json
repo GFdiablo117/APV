@@ -191,7 +191,7 @@
             "properties": {
                 "Name": "U1",
                 "Start_long": 11.531043,
-                "color": "#427f2a",
+                "color": "#52822E",
                 "Descriptio": "WF-OEZ",
                 "color3": null,
                 "color2": null,
@@ -556,7 +556,7 @@
             "properties": {
                 "Name": "U2",
                 "Start_long": 11.539393,
-                "color": "#c41036",
+                "color": "#C1092F",
                 "Descriptio": "SPL-FMO",
                 "color3": null,
                 "color2": null,
@@ -729,7 +729,7 @@
                 "color": "#33b887",
                 "Descriptio": "MWP - WES",
                 "color3": null,
-                "color2": "#b66a0b",
+                "color2": "#02A983",
                 "Start_lat": 48.134732,
                 "Start_Name": "U4",
                 "before_HBF": "Westendstraße Heimeranplatz",
@@ -935,7 +935,7 @@
             "properties": {
                 "Name": "U5",
                 "Start_long": 11.501169,
-                "color": "#b66a0b",
+                "color": "#BB7A00",
                 "Descriptio": "LP-WST",
                 "color3": null,
                 "color2": null,

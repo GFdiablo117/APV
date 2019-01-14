@@ -617,7 +617,7 @@
             "properties": {
                 "Name": "16, 17",
                 "Start_long": 11.511426,
-                "color": "#ed1c24",
+                "color": "#006CB2",
                 "Descriptio": "Roman-Hbf",
                 "color2": null,
                 "Start_lat": 48.155088,
@@ -1197,7 +1197,7 @@
             "properties": {
                 "Name": "17",
                 "Start_long": 11.493377,
-                "color": "#ed1c24",
+                "color": "#855946",
                 "Descriptio": "Amalienburg-Romanplatz",
                 "color2": null,
                 "Start_lat": 48.165682,
@@ -1849,7 +1849,7 @@
             "properties": {
                 "Name": "19",
                 "Start_long": 11.461092,
-                "color": "#ed1c24",
+                "color": "#EC1B23",
                 "Descriptio": "Pasing-Lautensack",
                 "color2": null,
                 "Start_lat": 48.148738,
@@ -2110,7 +2110,7 @@
             "properties": {
                 "Name": "20",
                 "Start_long": 11.506967,
-                "color": "#ed1c24",
+                "color": "#00BFE7",
                 "Descriptio": "Moosach-Westfriedhof",
                 "color2": null,
                 "Start_lat": 48.180061,
