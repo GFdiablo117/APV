@@ -1,7 +1,8 @@
  // load a tile layer
  let map = new L.map('map', {
      center: [48.1403114185532, 11.5611056053238], // Location munich hbf
-     zoom: 16,
+     zoom: 15,
+     minZoom: 13,
      doubleClickZoom:false,
      scrollWheelZoom: 'center'
 
@@ -76,7 +77,7 @@ var staatssammlungIcon = L.icon({
 let staatsmarker =L.marker([48.147613888889, 11.563833333333], {icon: staatssammlungIcon}).bindPopup(staatssammlungContent).openPopup()
 staatsmarker.addTo(map)
 
-let eisbachwelleContent = "Der Eisbach gehört zum Verbund der Münchner Stadtbäche, die sämtlich aus der Isar gespeist werden und größtenteils unterirdisch die Münchner Altstadt und das Lehel durchfließen. Im Englischen Garten ist er Teil eines Bachsystems, zu dem auch der Schwabinger Bach und der Oberstjägermeisterbach gehören, die beide länger als der Eisbach sind. Dieser entsteht durch die Zusammenführung des Stadtmühlbaches und des Stadtsägmühlbaches an der Eisbachbrücke und tritt am südlichen Rand des Englischen Gartens in unmittelbarer Nähe des Hauses der Kunst zutage. Gut zwei Kilometer weit fließt er im Osten der Parkanlage parallel zur Isar und mündet etwa 500 Meter unterhalb der John-F.-Kennedy-Brücke in den Fluss (Lage)"
+let eisbachwelleContent = "Der Eisbach gehört zum Verbund der Münchner Stadtbäche, die sämtlich aus der Isar gespeist werden und größtenteils unterirdisch die Münchner Altstadt und das Lehel durchfließen. Im Englischen Garten ist er Teil eines Bachsystems, zu dem auch der Schwabinger Bach und der Oberstjägermeisterbach gehören, die beide länger als der Eisbach sind. Dieser entsteht durch die Zusammenführung des Stadtmühlbaches und des Stadtsägmühlbaches an der Eisbachbrücke und tritt am südlichen Rand des Englischen Gartens in unmittelbarer Nähe des Hauses der Kunst zutage."
 
 var eisbachwelleIcon = L.icon({
     iconUrl: '/svg/eisbachwelle.svg',
