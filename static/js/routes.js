@@ -1,11 +1,12 @@
-
 let disableSingleMapEvent = false;
 let focusedLine;
 
 
+
 function pathDistanceBetweenTwoPoints(path, x1, x2) {
     var pathLength = path.getTotalLength();
-    var distance = 0, distance1;
+    var distance = 0,
+        distance1;
     while (distance < pathLength && x1 > path.getPointAtLength(distance))
         distance1 = distance++;
     while (distance < pathLength && x2 > path.getPointAtLength(distance))
@@ -20,45 +21,65 @@ function combineRoutes(route1, route2) {
     return route1
 }
 
-function focusLine(line, lineData){
-    if(focusedLine){
+function focusLine(line, lineData) {
+    if (focusedLine) {
         unfocusLine()
     }
+   let color = lineData? lineData.properties.color:d3.select(line).attr("color")
+    if(!lineData){
+        const id = "[id='"+line.id+"Route']"
+        line = d3.select(id)._groups[0][0]
+    }
     d3.select(line)
-    .attr("stroke", lineData.properties.color)
-    .attr("stroke-width", 6)
-    focusedLine=line;
-    disableSingleMapEvent=true
+        .attr("stroke", color)
+        .attr("stroke-width", 6)
+    focusedLine = line;
+    disableSingleMapEvent = true
 }
-function unfocusLine(){
+
+function unfocusLine() {
     d3.select(focusedLine)
-    .attr("stroke", "gray")
-    .attr("stroke-width", 3)
+        .attr("stroke", "gray")
+        .attr("stroke-width", 3)
 }
 
 //usingJquery to update the board
-function updateBoard(departues){
+function updateBoard(departures) {
 
-   elements= [{line: '.cls-3', departues: ".cls-6[x='28']"}, {line: '.cls-8', departues: '.cls-8 .cls-6'} ,{line: '.cls-9', departues: '.cls-9 .cls-6'} ,{line: '.cls-12', departues: '.cls-12 .cls-6'}, {line: '.cls-25', departues: '.value'}] 
-   elements.forEach((element)=> {
-    d3.select('#bahnen').select(element.departues).text('test')
-   })
-   
-   
-   //d3.select('#bahnen').select('.cls-6').text("New");
-       
-    
+    elements = [{
+        line: '.cls-3',
+        departures: ".cls-6[x='28']"
+    }, {
+        line: '.cls-8',
+        departures: '.cls-8 .cls-6'
+    }, {
+        line: '.cls-9',
+        departures: '.cls-9 .cls-6'
+    }, {
+        line: '.cls-12',
+        departures: '.cls-12 .cls-6'
+    }, {
+        line: '.cls-25',
+        departures: '.value'
+    }]
+    elements.forEach((element) => {
+        d3.select('#bahnen').select(element.departures).text('test')
+    })
+
+
+    //d3.select('#bahnen').select('.cls-6').text("New");
+
+
 }
 
-d3.select('#map').on("click", function(){
-    if(disableSingleMapEvent){
-        disableSingleMapEvent=false;
-    }
-    else if(focusedLine){
+d3.select('#map').on("click", function () {
+    if (disableSingleMapEvent) {
+        disableSingleMapEvent = false;
+    } else if (focusedLine) {
         unfocusLine();
-    } 
-    updateBoard()  
-}) 
+    }
+    //updateBoard()
+})
 
 
 
@@ -81,7 +102,7 @@ d3.json("/routes/UBahnRoutes.json")
                 // which is the Leaflet method latLngToLayerPoint inside
                 // our function called projectPoint 
                 let path = d3.geoPath().projection(transform);
- 
+
                 let feature = g.selectAll("path")
                     .data(collection.features)
                     .enter()
@@ -89,9 +110,9 @@ d3.json("/routes/UBahnRoutes.json")
                     .attr("class", "lineConnect")
                     .attr("stroke", "gray")
                     .attr("stroke-width", 3)
-                    .on("click", function(lineData){
-                        focusLine(this, lineData)    
-                    }) 
+                    .on("click", function (lineData) {
+                        focusLine(this, lineData)
+                    })
 
 
 
@@ -134,45 +155,157 @@ d3.json("/routes/UBahnRoutes.json")
                 //Add ids to Paths to acess them with jquery
                 let keys = Object.keys(animationRoutes)
                 keys.forEach(key => {
-                    const selector= animationRoutes[key]
-                    d3.select(selector).attr("id", key+'Route')
+                    const selector = animationRoutes[key]
+                    d3.select(selector).attr("id", key + 'Route')
                 });
-  
 
-                let uBahnDepartues = await fetch('/departues/Flughafen/u')
+
+                let uBahnDepartures = await fetch('/departues/Hbf/u')
                     .then(function (res) {
-                        try{
-                        return res.json()
-                        }catch(err){
-                            return null
-                        }
+                        return null
                     })
                     .then(function (data) {
-                        if(data.length==0){
-                            data=[{lineNumber: 1, departue: 1}, {lineNumber: 2, departue: 4}, {lineNumber: 4, departue: 6}, {lineNumber:5}]
-                        }
-                        let departues = []
+                        data = [{
+                                lineNumber: 1,
+                                departure: 1,
+                                location: "Rotkreuzplatz"
+                            }, {
+                                lineNumber: 2,
+                                departure: 4,
+                                location: "Scheidplatz"
+                            }, {
+                                lineNumber: 4,
+                                departure: 6,
+                                location: "Heimeranplatz"
+                            }, {
+                                lineNumber: 5,
+                                departure: 10,
+                                location: "Neuperlach Süd"
+                            }, {
+                                lineNumber: 1,
+                                departure: 1,
+                                location: "Mangfallplatz"
+                            }, {
+                                lineNumber: 2,
+                                departure: 4,
+                                location: "Scheidplatz"
+                            }, {
+                                lineNumber: 4,
+                                departure: 6,
+                                location: "Arabellapark"
+                            }, {
+                                lineNumber: 5,
+                                departure: 17,
+                                location: "Neuperlach Süd"
+                            },
+                            {
+                                lineNumber: 1,
+                                departure: 1,
+                                location: "Rotkreuzplatz"
+                            }, {
+                                lineNumber: 2,
+                                departure: 4,
+                                location: "Messestadt Ost"
+                            }, {
+                                lineNumber: 4,
+                                departure: 6,
+
+                            }, {
+                                lineNumber: 5,
+                                departure: 27,
+                                location: "Heimeranplatz"
+                            }
+                        ]
+                        let departures = []
                         for (let i = 0; i < data.length; i++) {
                             if (keys.includes("U" + data[i].lineNumber))
-                                departues.push(data[i])
+                                departures.push(data[i])
                         }
-                        return departues
+                        return departures
                     })
                     .catch(function (error) {
                         // If there is any error you will catch them here
                     });
 
-                let tramDepartues = await fetch('/departues/Flughafen/t')
+                let tramDepartures = await fetch('/departues/Hbf/t')
                     .then(function (res) {
-                        return res.json()
+                        return [];
                     })
                     .then(function (data) {
-                        let departues = []
+                        data = [{
+                                lineNumber: 16,
+                                departure: 3,
+                                location: "Hackerbrücke"
+                            }, {
+                                lineNumber: 17,
+                                departure: 6,
+                                location: "Hackerbrücke"
+                            }, {
+                                lineNumber: 19,
+                                departure: 9,
+                                location: "Trappentreustraße"
+                            }, {
+                                lineNumber: 20,
+                                departure: 7,
+                                location: "Hochschule München"
+                            }, {
+                                lineNumber: 16,
+                                departure: 8,
+                                location: "Effnerplatz"
+                            }, {
+                                lineNumber: 17,
+                                departure: 10,
+                                location: "Hackerbrücke"
+                            }, {
+                                lineNumber: 19,
+                                departure: 12,
+                                location: "Trappentreustraße"
+                            }, {
+                                lineNumber: 20,
+                                departure: 15,
+                                location: "Hochschule München"
+                            },
+                            {
+                                lineNumber: 16,
+                                departure: 16,
+                                location: "Donnersbergerstraße"
+                            }, {
+                                lineNumber: 17,
+                                departure: 19,
+                                location: "Giesing Bahnhof"
+                            }, {
+                                lineNumber: 19,
+                                departure: 22,
+                                location: "Ostbahnhof"
+                            }, {
+                                lineNumber: 20,
+                                departure: 25,
+                                location: "Karlsplatz"
+                            },
+                            {
+                                lineNumber: 16,
+                                departure: 28,
+                                location: "Donnersbergerstraße"
+                            }, {
+                                lineNumber: 17,
+                                departure: 25,
+                                location: "Giesing Bahnhof"
+                            }, {
+                                lineNumber: 19,
+                                departure: 30,
+                                location: "Ostbahnhof"
+                            }, {
+                                lineNumber: 20,
+                                departure: 30,
+                                location: "Karlsplatz"
+                            }
+                        ]
+                        let departures = []
                         for (let i = 0; i < data.length; i++) {
                             if (keys.includes(data[i].lineNumber.toString()))
-                                departues.push(data[i])
+                                departures.push(data[i])
                         }
-                        return departues
+                        return departures
                     })
                     .catch(function (error) {
                         // If there is any error you will catch them here
@@ -180,7 +313,7 @@ d3.json("/routes/UBahnRoutes.json")
 
                 let circleRadii = []
                 let circleID = []
-                for (let i = 0; i < (tramDepartues.length + uBahnDepartues.length); i++) {
+                for (let i = 0; i < (tramDepartures.length + uBahnDepartures.length); i++) {
                     circleRadii.push(40)
                     circleID.push(i);
                 }
@@ -204,19 +337,72 @@ d3.json("/routes/UBahnRoutes.json")
 
 
                 let count = 1
-                let copyOfUbahn = JSON.parse(JSON.stringify(uBahnDepartues))
-                let copyOfTram = JSON.parse(JSON.stringify(tramDepartues))
+                let copyOfUbahnLine = [];
+                let copyOfUbahnDepartue = [];
+                let copyOfUbahnLocation = [];
+
+                uBahnDepartures.forEach((element) => {
+                    copyOfUbahnLine.push(element.lineNumber)
+                    copyOfUbahnDepartue.push(element.departure)
+                    copyOfUbahnLocation.push(element.location)
+                })
+
+                let copyOfTramLine = [];
+                let copyOfTramDepartue = [];
+                let copyOfTramLocation = [];
+                tramDepartures.forEach((element) => {
+                    copyOfTramLine.push(element.lineNumber)
+                    copyOfTramDepartue.push(element.departure)
+                    copyOfTramLocation.push(element.location)
+                })
+
 
                 function getID() {
-                    if (copyOfUbahn.length != 0) {
-                        const temp = copyOfUbahn.pop()
-                        return "U" + temp.lineNumber
-                    } else if (copyOfTram.length != 0) {
-                        const temp = copyOfTram.pop()
-                        return temp.lineNumber
+                    if (copyOfUbahnLine.length != 0) {
+                        const temp = copyOfUbahnLine.pop()
+                        return "U" + temp
+                    } else if (copyOfTramLine.length != 0) {
+                        const temp = copyOfTramLine.pop()
+                        return temp
                     } else {
                         return 0;
                     }
+                }
+
+                function getLocation() {
+                    if (copyOfUbahnLocation.length != 0) {
+                        const temp = copyOfUbahnLocation.pop()
+                        return temp
+                    } else if (copyOfTramLocation.length != 0) {
+                        const temp = copyOfTramLocation.pop()
+                        return temp
+                    } else {
+                        return 0;
+                    }
+
+                }
+
+                function getColor(name){
+                    let color;
+                    collection.features.forEach((element)=>{
+                        if(element.properties.Start_Name == name){
+                            color= element.properties.color
+                        }
+                    })
+                    return color
+                }
+
+                function getDepartueTime() {
+                    if (copyOfUbahnDepartue.length != 0) {
+                        const temp = copyOfUbahnDepartue.pop()
+                        return temp
+                    } else if (copyOfTramDepartue.length != 0) {
+                        const temp = copyOfTramDepartue.pop()
+                        return temp
+                    } else {
+                        return 0;
+                    }
+
                 }
 
                 let circles = svg.selectAll("circle")
@@ -232,6 +418,21 @@ d3.json("/routes/UBahnRoutes.json")
                         let id = getID()
                         return id;
                     })
+                    .attr("location", function () {
+                        let location = getLocation()
+                        return location;
+                    })
+                    .attr("departure", function () {
+                        let departure = getDepartueTime()
+                        return departure;
+                    })
+                    .attr("color", function(){
+                        const color = getColor(this.id)
+                        return color;
+                    })
+                    .on("click", function () {
+                        focusLine(this)
+                    })
                     /* .attr("transform", function () {
                          let p = pathNode.getPointAtLength(0)
                          return "translate(" + [p.x + -topLeft[0], p.y + -topLeft[1]] + ")";
@@ -241,21 +442,37 @@ d3.json("/routes/UBahnRoutes.json")
                         return `url(#${id[i].id})`
                     });
 
-                duration = 100000;
+                duration = 1000 * 60 * 20;
                 circles.transition()
                     .duration(duration)
-                    .ease(d3.easePoly)
+                    .ease(d3.easeLinear)
                     .attrTween("transform", function (d, i, id) {
+                        let direction;
+                        collection.features.forEach((element) => {
+                            if (element.properties.Start_Name == id[i].id) {
+                                if (element.properties.before_HBF.includes(d3.select(id[i]).attr("location"))) {
+                                    direction = true
+                                } else {
+                                    direction = false
+                                }
+                            }
+                        })
                         return function (t) {
+                            let position= d3.select(id[i]).attr("departure");
+                            let p;
                             let pathLength = animationRoutes[`${id[i].id}`].getTotalLength();
-                            p = animationRoutes[`${id[i].id}`].getPointAtLength(pathLength * t)
+                            if (direction) {
+                                p = animationRoutes[`${id[i].id}`].getPointAtLength(pathLength - (pathLength * t)-(pathLength/position)*3)
+                            } else {
+                                p = animationRoutes[`${id[i].id}`].getPointAtLength((pathLength/(position*7)) + pathLength * t)
+                            }
                             return "translate(" + [(p.x + -topLeft[0] - 15), (p.y + -topLeft[1] - 15)] + ")";
                         }
                     });
-                    //For late point eventacess with jquery
-                   /* $( "#U1Route" ).click(function() {
-                        alert( "Handler for .click() called." );
-                      });*/
+                //For late point eventacess with jquery
+                /* $( "#U1Route" ).click(function() {
+                     alert( "Handler for .click() called." );
+                   });*/
 
             })
 

@@ -724,7 +724,7 @@
             },
             "type": "Feature",
             "properties": {
-                "Name": "U4, U5",
+                "Name": "U4",
                 "Start_long": 11.520589,
                 "color": "#33b887",
                 "Descriptio": "MWP - WES",
