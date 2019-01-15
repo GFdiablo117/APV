@@ -11,15 +11,10 @@ body {
   stroke-width: 6;
 }
 
-path{
-}
 
 #map > path:hover {
   stroke-width: 20;
   fill-opacity: .7;
-}
-svg {
-  z-index: 1
 }
 
 .leaflet-overlay-pane svg path{
@@ -32,16 +27,18 @@ svg {
 }
 #infocard {
   position: absolute;
-  z-index: 1;
-  left: 500px;
-  bottom: 90px;
+  z-index: 500;
+  left: 35%;
+  bottom: 10%;
   opacity: 0.8;
+  transform: scale(0.8)
+
 }
 
 /* Here’s the CSS for masking */
 
 #map {
   clip-path: circle(100px, 100px, 100px);
-  clip-path: circle(420px at center);
+  clip-path: circle(350px at center);
   
   }

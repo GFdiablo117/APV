@@ -1,7 +1,10 @@
  // load a tile layer
  let map = new L.map('map', {
      center: [48.1403114185532, 11.5611056053238], // Location munich hbf
-     zoom: 16
+     zoom: 16,
+     doubleClickZoom:false,
+     scrollWheelZoom: 'center'
+
  });
 
  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
@@ -112,14 +115,14 @@ nsdocumentsMarker.addTo(map)
  })
 
 
- d3.json("/stations/mergedStations.json").then(function (test) {
+ /*d3.json("/stations/mergedStations.json").then(function (test) {
 
     L.geoJson(test, {
         pointToLayer: function (feature, latlng) {
             return L.circleMarker(latlng, {radius: 2, color: "grey"});
         }
     }).addTo(map);
-}) 
+}) */
 
 /*d3.json("/stations/ubahnStations.json").then(function (test) {
 

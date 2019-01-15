@@ -22,30 +22,32 @@ function combineRoutes(route1, route2) {
     return route1
 }
 
-function focusCircles(line){
+function focusCircles(line) {
     console.log(line)
-    const id = "[id='"+line+"']"
+    const id = "[id='" + line + "']"
     console.log(d3.selectAll(id).style("fill", `url(#${line}big)`)
-    .attr("r", 80))
-    focusedCircle=id;
+        .attr("r", 80))
+    focusedCircle = id;
 
 }
-function unfocusCircles(){
+
+function unfocusCircles() {
     const id = focusedCircle.split("'")[1]
     d3.selectAll(focusedCircle).style("fill", `url(#${id})`)
-    .attr("r", 40)
+        .attr("r", 40)
 }
+
 function focusLine(line, lineData) {
     if (focusedLine) {
         unfocusLine()
     }
-    if(focusedCircle){
+    if (focusedCircle) {
         unfocusCircles()
     }
-    let circleID = lineData? lineData.properties.Name:line.id 
-   let color = lineData? lineData.properties.color:d3.select(line).attr("color") 
-    if(!lineData){
-        const id = "[id='"+line.id+"Route']"
+    let circleID = lineData ? lineData.properties.Name : line.id
+    let color = lineData ? lineData.properties.color : d3.select(line).attr("color")
+    if (!lineData) {
+        const id = "[id='" + line.id + "Route']"
         line = d3.select(id)._groups[0][0]
     }
     d3.select(line)
@@ -182,40 +184,68 @@ d3.json("/routes/UBahnRoutes.json")
 
                 let uBahnDepartures = await fetch('/departues/Hbf/u')
                     .then(function (res) {
-                        return null
+                        return [];
                     })
                     .then(function (data) {
                         data = [{
-                                lineNumber: 1,
-                                departure: 1,
-                                location: "Rotkreuzplatz"
-                            }, {
-                                lineNumber: 2,
-                                departure: 4,
-                                location: "Scheidplatz"
-                            }, {
+                            lineNumber: 1,
+                            departure: 1,
+                            location: "Rotkreuzplatz"
+                        },{
+                            lineNumber: 1,
+                            departure: 22,
+                            location: "Rotkreuzplatz"
+                        },{
+                            lineNumber: 1,
+                            departure: 60,
+                            location: "Mangfallplatz"
+                        }, {
+                            lineNumber: 2,
+                            departure: 4,
+                            location: "Scheidplatz"
+                        },{
+                            lineNumber: 2,
+                            departure: 15,
+                            location: "Messestadt Ost"
+                        },{
+                            lineNumber: 2,
+                            departure: 30,
+                            location: "Messestadt Ost"
+                        },{
+                            lineNumber: 2,
+                            departure: 19,
+                            location: "Scheidplatz"
+                        }, {
                                 lineNumber: 4,
-                                departure: 6,
+                                departure: 5,
                                 location: "Heimeranplatz"
                             }, {
                                 lineNumber: 5,
-                                departure: 10,
+                                departure: 50,
                                 location: "Neuperlach Süd"
+                            },{
+                                lineNumber: 5,
+                                departure: 34,
+                                location: "Heimeranplatz"
                             }, {
                                 lineNumber: 1,
                                 departure: 1,
                                 location: "Mangfallplatz"
                             }, {
                                 lineNumber: 2,
-                                departure: 4,
+                                departure: 15,
                                 location: "Scheidplatz"
                             }, {
                                 lineNumber: 4,
                                 departure: 6,
                                 location: "Arabellapark"
+                            },{
+                                lineNumber: 4,
+                                departure: 28,
+                                location: "Arabellapark"
                             }, {
                                 lineNumber: 5,
-                                departure: 17,
+                                departure: 25,
                                 location: "Neuperlach Süd"
                             },
                             {
@@ -224,7 +254,7 @@ d3.json("/routes/UBahnRoutes.json")
                                 location: "Rotkreuzplatz"
                             }, {
                                 lineNumber: 2,
-                                departure: 4,
+                                departure: 17,
                                 location: "Messestadt Ost"
                             }, {
                                 lineNumber: 4,
@@ -232,7 +262,7 @@ d3.json("/routes/UBahnRoutes.json")
 
                             }, {
                                 lineNumber: 5,
-                                departure: 27,
+                                departure: 7,
                                 location: "Heimeranplatz"
                             }
                         ]
@@ -262,7 +292,23 @@ d3.json("/routes/UBahnRoutes.json")
                                 location: "Hackerbrücke"
                             }, {
                                 lineNumber: 19,
-                                departure: 9,
+                                departure: 10,
+                                location: "Trappentreustraße"
+                            }, {
+                                lineNumber: 20,
+                                departure: 15,
+                                location: "Hochschule München"
+                            }, {
+                                lineNumber: 16,
+                                departure: 3,
+                                location: "Hackerbrücke"
+                            }, {
+                                lineNumber: 17,
+                                departure: 6,
+                                location: "Hochschule München"
+                            }, {
+                                lineNumber: 19,
+                                departure: 30,
                                 location: "Trappentreustraße"
                             }, {
                                 lineNumber: 20,
@@ -270,19 +316,15 @@ d3.json("/routes/UBahnRoutes.json")
                                 location: "Hochschule München"
                             }, {
                                 lineNumber: 16,
-                                departure: 8,
+                                departure: 25,
                                 location: "Effnerplatz"
                             }, {
                                 lineNumber: 17,
-                                departure: 10,
+                                departure: 40,
                                 location: "Hackerbrücke"
                             }, {
-                                lineNumber: 19,
-                                departure: 12,
-                                location: "Trappentreustraße"
-                            }, {
                                 lineNumber: 20,
-                                departure: 15,
+                                departure: 35,
                                 location: "Hochschule München"
                             },
                             {
@@ -291,15 +333,21 @@ d3.json("/routes/UBahnRoutes.json")
                                 location: "Donnersbergerstraße"
                             }, {
                                 lineNumber: 17,
-                                departure: 19,
+                                departure: 10,
                                 location: "Giesing Bahnhof"
                             }, {
                                 lineNumber: 19,
-                                departure: 22,
+                                departure: 12,
                                 location: "Ostbahnhof"
-                            }, {
+                            },
+                            {
+                                lineNumber: 19,
+                                departure: 70,
+                                location: "Ostbahnhof"
+                            },
+                            {
                                 lineNumber: 20,
-                                departure: 25,
+                                departure: 13,
                                 location: "Karlsplatz"
                             },
                             {
@@ -411,11 +459,11 @@ d3.json("/routes/UBahnRoutes.json")
 
                 }
 
-                function getColor(name){
+                function getColor(name) {
                     let color;
-                    collection.features.forEach((element)=>{
-                        if(element.properties.Start_Name == name){
-                            color= element.properties.color
+                    collection.features.forEach((element) => {
+                        if (element.properties.Start_Name == name) {
+                            color = element.properties.color
                         }
                     })
                     return color
@@ -455,7 +503,7 @@ d3.json("/routes/UBahnRoutes.json")
                         let departure = getDepartueTime()
                         return departure;
                     })
-                    .attr("color", function(){
+                    .attr("color", function () {
                         const color = getColor(this.id)
                         return color;
                     })
@@ -487,19 +535,19 @@ d3.json("/routes/UBahnRoutes.json")
                             }
                         })
                         return function (t) {
-                            let position= d3.select(id[i]).attr("departure");
+                            let position = d3.select(id[i]).attr("departure");
                             let radius = d3.select(id[i]).attr("r")
                             let p;
                             let pathLength = animationRoutes[`${id[i].id}`].getTotalLength();
                             if (direction) {
-                                p = animationRoutes[`${id[i].id}`].getPointAtLength(pathLength - (pathLength * t)-(pathLength/position)*3)
+                                p = animationRoutes[`${id[i].id}`].getPointAtLength(pathLength - (pathLength * t) - (pathLength / position) * 3)
                             } else {
-                                p = animationRoutes[`${id[i].id}`].getPointAtLength((pathLength/(position*7)) + pathLength * t)
-                            }   if(radius==80){
-                            return "translate(" + [(p.x + -topLeft[0]-30), (p.y + -topLeft[1]-30)] + ")";
+                                p = animationRoutes[`${id[i].id}`].getPointAtLength((pathLength / (position) * 7) + pathLength * t)
                             }
-                            else {
-                                return "translate(" + [(p.x + -topLeft[0]-15), (p.y + -topLeft[1]-15)] + ")";
+                            if (radius == 80) {
+                                return "translate(" + [(p.x + -topLeft[0] - 30), (p.y + -topLeft[1] - 30)] + ")";
+                            } else {
+                                return "translate(" + [(p.x + -topLeft[0] - 15), (p.y + -topLeft[1] - 15)] + ")";
 
                             }
                         }
