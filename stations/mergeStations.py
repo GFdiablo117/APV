@@ -18,11 +18,11 @@ mergedStations = stationList1
 #author: Hanh Pham
 def appendUniqueStation(stationToCheck):
     notTwin=True
-    for station in mergedStations['features']:
-        if stationToCheck['properties']['locationName']==station['properties']['locationName']:
+    for oldstation in mergedStations['features']:
+        if stationToCheck['properties']['locationName']==oldstation['properties']['locationName']:
+            print('hier')
             notTwin=False
-            break
-    if notTwin:
+    if notTwin==False:
         mergedStations['features'].append(station)
 
 

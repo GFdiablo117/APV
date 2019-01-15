@@ -84,28 +84,7 @@
             "bahn": false,
             "aliases": "Ostbhf M\u00fcnchen Ost Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U5 OB Meridian"
         }
-    }, {
-        "geometry": {
-            "type": "Point",
-            "coordinates": [11.56115306879084, 48.14035619237534, 0.0]
-        },
-        "type": "Feature",
-        "properties": {
-            "sbahn": true,
-            "tram": true,
-            "bus": true,
-            "liveDataAvailable": true,
-            "boot": false,
-            "longitude": 11.5611056053238,
-            "locationName": "Hauptbahnhof",
-            "place": "M\u00fcnchen",
-            "ubahn": true,
-            "latitude": 48.1403114185532,
-            "locationID": 6,
-            "bahn": false,
-            "aliases": "Hbf M\u00fcnchen main station central station  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U1 U2 U4 U5 U7 U8 HU BOB Meridian ALEX"
-        }
-    }, {
+    },{
         "geometry": {
             "type": "Point",
             "coordinates": [11.54864290412811, 48.14356642765898, 0.0]

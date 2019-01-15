@@ -34,6 +34,7 @@ filteredData = {
     }]
 }
 for element in data['features']:
+    
     if vehicle in element['properties']['Name']:
             if element['properties']['Start_lat']is None:
                 print('isnone')

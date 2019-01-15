@@ -1,5 +1,6 @@
 let disableSingleMapEvent = false;
 let focusedLine;
+let focusedCircle;
 
 
 
@@ -21,11 +22,28 @@ function combineRoutes(route1, route2) {
     return route1
 }
 
+function focusCircles(line){
+    console.log(line)
+    const id = "[id='"+line+"']"
+    console.log(d3.selectAll(id).style("fill", `url(#${line}big)`)
+    .attr("r", 80))
+    focusedCircle=id;
+
+}
+function unfocusCircles(){
+    const id = focusedCircle.split("'")[1]
+    d3.selectAll(focusedCircle).style("fill", `url(#${id})`)
+    .attr("r", 40)
+}
 function focusLine(line, lineData) {
     if (focusedLine) {
         unfocusLine()
     }
-   let color = lineData? lineData.properties.color:d3.select(line).attr("color")
+    if(focusedCircle){
+        unfocusCircles()
+    }
+    let circleID = lineData? lineData.properties.Name:line.id 
+   let color = lineData? lineData.properties.color:d3.select(line).attr("color") 
     if(!lineData){
         const id = "[id='"+line.id+"Route']"
         line = d3.select(id)._groups[0][0]
@@ -35,9 +53,11 @@ function focusLine(line, lineData) {
         .attr("stroke-width", 6)
     focusedLine = line;
     disableSingleMapEvent = true
+    focusCircles(circleID)
 }
 
 function unfocusLine() {
+    unfocusCircles()
     d3.select(focusedLine)
         .attr("stroke", "gray")
         .attr("stroke-width", 3)
@@ -333,6 +353,15 @@ d3.json("/routes/UBahnRoutes.json")
                         .attr("width", 30)
                         .attr("height", 30)
 
+                    defs.append("svg:pattern")
+                        .attr("id", `${keys[i]}big`)
+                        .attr("width", 200)
+                        .attr("height", 200)
+                        .attr("patternUnits", "userSpaceOnUse")
+                        .append("svg:image")
+                        .attr("xlink:href", `/svg/${keys[i]}big.svg`)
+                        .attr("width", 60)
+                        .attr("height", 60)
                 }
 
 
@@ -459,14 +488,20 @@ d3.json("/routes/UBahnRoutes.json")
                         })
                         return function (t) {
                             let position= d3.select(id[i]).attr("departure");
+                            let radius = d3.select(id[i]).attr("r")
                             let p;
                             let pathLength = animationRoutes[`${id[i].id}`].getTotalLength();
                             if (direction) {
                                 p = animationRoutes[`${id[i].id}`].getPointAtLength(pathLength - (pathLength * t)-(pathLength/position)*3)
                             } else {
                                 p = animationRoutes[`${id[i].id}`].getPointAtLength((pathLength/(position*7)) + pathLength * t)
+                            }   if(radius==80){
+                            return "translate(" + [(p.x + -topLeft[0]-30), (p.y + -topLeft[1]-30)] + ")";
                             }
-                            return "translate(" + [(p.x + -topLeft[0] - 15), (p.y + -topLeft[1] - 15)] + ")";
+                            else {
+                                return "translate(" + [(p.x + -topLeft[0]-15), (p.y + -topLeft[1]-15)] + ")";
+
+                            }
                         }
                     });
                 //For late point eventacess with jquery
