@@ -29,7 +29,7 @@ We set a specific icon for each landmark to differentiate between them on the ma
 #### Colors
 We applied the same colors to our icons as the actual colors of the transportation lines to make it easy to find your usual train or bus by the color. In order to not clash these colors we decided to only use different shades of grey. 
  
-<!-- [mehr Produktbeschreibung] -->
+ [mehr Produktbeschreibung]
  
 ### Design Process
 
@@ -48,7 +48,8 @@ We asked ourselves questions and tried to collect answers to see our possibiliti
 We tried to depict first solutions, usually everyone sat down and worked on his or her own for a limited time and then we got together to discuss them. We quickly decided that we want to redefine the touchpoints between the commuter and the public transportation at the bus stop to provide relevant information for that location to have a stressless ride. The regular display panel at the stops does not transport enough information - there is a lot more we can show besides the incoming trains and heavy incidents. Most important is the location of the incoming trains but also the ones that recently drove off. This helps the user a lot to gain an overview of the situation he/she is in. Besides that, we want them to see the filling level of the train to provide them the opportunity to decide whether to take the full train or wait for the next one. 
 
 ### Code
-@Dario
+<!-- @Dario -->
+
 
 ### Vision
 We want to make our Glücksrad accessible from the mobile phone where commuters can see where their bus is while they are still at home. 
