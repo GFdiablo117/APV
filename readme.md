@@ -1,4 +1,4 @@
-![Titelbild](https://github.com/GFdiablo117/APV/blob/master/Images/headerPicture.png)
+![Titelbild](./Images/headerPicture.png)
 
 Daria Babco, Dario Capuana, Fabian Kargl, Katja Lüttig, Teresa Herzog
 # Glücksrad
@@ -10,6 +10,9 @@ Being daily commuters ourselves we targeted our biggest problems with public tra
  
 ### Product
 The “Glücksrad”  is a circular display with 90cm in diameter. The commuters position is centered on the display. You can see the public transport around you in three different zoom steps. 
+
+![Zoombilder](./Images/allzooms.png)
+
 [picture of zoom 1] Detailed zoom with a diameter of 300 meters
 [picture of zoom 2] Standard zoom with a diameter of 700 meters
 [picture of zoom 3] Overall zoom with a diameter of 1.4 kilometer
