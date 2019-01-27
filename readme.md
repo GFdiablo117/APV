@@ -5,7 +5,7 @@ Daria Babco, Dario Capuana, Fabian Kargl, Katja Lüttig, Teresa Herzog
 ## Better commuting through livedata visualization
 
 Imagine not wasting your time with waiting. Our product is an interactive display that lets commuters explore public transportation in Munich at first sight. It is located at several train stations showing live data. 
- 
+
 Being daily commuters ourselves we targeted our biggest problems with public transport: being uninformed while waiting for a train or bus. We challenged ourselves to generate real benefit from all the data that can be collected concerning public transport. Always with our proposal in mind: “waiting brings happiness.”
  
 ### Product
@@ -18,7 +18,10 @@ The third image displays a detailed zoom with a diameter of 1.4 kilometers.*
 
 
 [noch 2 sätze dazu dass du andere sachen siehst in anderen zoomstufen]
-[picture/gif of ring]We used the round shape to display the name and the final station of the transportation lines in the outer ring.
+[picture/gif of ring]
+![RingGif](./Images/ring.gif)
+
+We used the round shape to display the name and the final station of the transportation lines in the outer ring.
  
 #### Icons
 [pic of icons]
