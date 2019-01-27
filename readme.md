@@ -24,10 +24,12 @@ The third image displays a detailed zoom with a diameter of 1.4 kilometers.*
 We used the round shape to display the name and the final station of the transportation lines in the outer ring.
  
 #### Icons
-![RingGif](./Images/gefaese.png)
+![Gefaese](./Images/gefaese.png)
 
 The means of transport are presented as a circle displaying the coherent number of the train or bus. The ring indicates the number of passengers in each transport containers. Because this is a new form of displaying information we want to make the filling level feel intuitive like water pouring into the container. [was zu den ausgefahrenen großen icons]
- 
+
+![Marker](./Images/markers.png)
+
 We set a specific icon for each landmark to differentiate between them on the map. We depict them in grey map markers instead of hiding them behind regular map markers.
  
 #### Colors
