@@ -24,7 +24,8 @@ The third image displays a detailed zoom with a diameter of 1.4 kilometers.*
 We used the round shape to display the name and the final station of the transportation lines in the outer ring.
  
 #### Icons
-[pic of icons]
+![RingGif](./Images/gefaese.png)
+
 The means of transport are presented as a circle displaying the coherent number of the train or bus. The ring indicates the number of passengers in each transport containers. Because this is a new form of displaying information we want to make the filling level feel intuitive like water pouring into the container. [was zu den ausgefahrenen großen icons]
  
 We set a specific icon for each landmark to differentiate between them on the map. We depict them in grey map markers instead of hiding them behind regular map markers.
@@ -46,7 +47,8 @@ As a tourist I want to see at first glance how to find my way around Munich and 
 
 We asked ourselves questions and tried to collect answers to see our possibilities and our limits: What is the data we will receive, what can we measure? Then we also gathered: What makes the commuter happy, what are his pain points, which interactions are possible and what can we do with that now?
 
-[Photo of first drafts]
+
+![Skizzen](./Images/skizzen.png)
 
 We tried to depict first solutions, usually everyone sat down and worked on his or her own for a limited time and then we got together to discuss them. We quickly decided that we want to redefine the touchpoints between the commuter and the public transportation at the bus stop to provide relevant information for that location to have a stressless ride. The regular display panel at the stops does not transport enough information - there is a lot more we can show besides the incoming trains and heavy incidents. Most important is the location of the incoming trains but also the ones that recently drove off. This helps the user a lot to gain an overview of the situation he/she is in. Besides that, we want them to see the filling level of the train to provide them the opportunity to decide whether to take the full train or wait for the next one. 
 
