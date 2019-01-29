@@ -17,8 +17,14 @@ The second image displays a detailed zoom with a diameter of 700 meters.
 The third image displays a detailed zoom with a diameter of 1.4 kilometers.*
 
 
-[noch 2 sätze dazu dass du andere sachen siehst in anderen zoomstufen]
-[picture/gif of ring]
+The image on the left depicts zoom 1 which is zoomed in the most of the three zoom steps. It shows your direct surroundings with a diameter of about 300 meters. This relates to the distance in which you perceive your surroundings. The transportation containers are displayed with the actual amount of carts.
+
+Zoom 2 is displayed in the middle picture. We chose to set this one as our standard view which can be seen when the display is unused. Its diameter is about 700 meters and includes landmarks and train or bus stations. The individual transportation containers are illustrated as circles.
+
+Zoom 1 and 2 show the name of the container number in the outer ring which will expand to the final station of the route when selected. Zoom 3, however, displays all the final stations at all times to give a better overview. It has a diameter of 1.4 kilometers and therefore gives you a good feeling of where you are in the city.
+
+Each transportation container, train station and route can be clicked on. The landmarks and stations provide a box with specific topic related information. When a route is selected it gets highlighted so you can see immediately where you are going.
+
 ![RingGif](./Images/ring.gif)
 
 We used the round shape to display the name and the final station of the transportation lines in the outer ring.
