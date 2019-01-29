@@ -37,6 +37,10 @@ The means of transport are presented as a circle displaying the coherent number 
 ![Marker](./Images/markers.png)
 
 We set a specific icon for each landmark to differentiate between them on the map. We depict them in grey map markers instead of hiding them behind regular map markers.
+
+![Infocard](./Images/infocard.svg)
+
+[Here some text about the Infocard]
  
 #### Colors
 We applied the same colors to our icons as the actual colors of the transportation lines to make it easy to find your usual train or bus by the color. In order to not clash these colors we decided to only use different shades of grey. 
