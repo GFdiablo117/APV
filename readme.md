@@ -38,7 +38,11 @@ The means of transport are presented as a circle displaying the coherent number 
 
 We set a specific icon for each landmark to differentiate between them on the map. We depict them in grey map markers instead of hiding them behind regular map markers.
 
-![Infocard](./Images/infocard.svg)
+
+<p align="center">
+  <img src="./Images/infocard.png">
+</p>
+
 
 [Here some text about the Infocard]
  
@@ -62,8 +66,9 @@ As a tourist I want to see at first glance how to find my way around Munich and 
 
 We asked ourselves questions and tried to collect answers to see our possibilities and our limits: What is the data we will receive, what can we measure? Then we also gathered: What makes the commuter happy, what are his pain points, which interactions are possible and what can we do with that now?
 
-
-![Skizzen](./Images/skizzen.png)
+<p align="center">
+  <img src="./Images/skizzen.png">
+</p>
 
 We tried to depict first solutions, usually everyone sat down and worked on his or her own for a limited time and then we got together to discuss them. We quickly decided that we want to redefine the touchpoints between the commuter and the public transportation at the bus stop to provide relevant information for that location to have a stressless ride. The regular display panel at the stops does not transport enough information - there is a lot more we can show besides the incoming trains and heavy incidents. Most important is the location of the incoming trains but also the ones that recently drove off. This helps the user a lot to gain an overview of the situation he/she is in. Besides that, we want them to see the filling level of the train to provide them the opportunity to decide whether to take the full train or wait for the next one. 
 
@@ -80,3 +85,10 @@ For more infotainment at the bus stop we want to provide more visualized data ab
 Our Glückrad provides new and important information to different kinds of commuters according to their needs. It brings more transparency to public transportation which results in more trust in MVG. Our display also  shapes the city scape and transports a modern image of MVG.
 
 This interdisciplinary project was realized by computer science and design students of the University of Applied Sciences Mannheim, in cooperation with the Münchner Verkehrsbetriebe (MVG). Supervision by Prof. Dr. Till Nagel and Christian Schäfer.
+
+
+<style>
+.center {
+    text-align:center;
+}
+</style>
