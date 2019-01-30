@@ -1,6 +1,6 @@
 ![Titelbild](./Images/headerPicture.png)
+*Interactive display at tram station*
 
-Daria Babco, Dario Capuana, Fabian Kargl, Katja Lüttig, Teresa Herzog
 # Glücksrad
 ## Better commuting through livedata visualization
 
@@ -85,3 +85,5 @@ For more infotainment at the bus stop we want to provide more visualized data ab
 Our Glückrad provides new and important information to different kinds of commuters according to their needs. It brings more transparency to public transportation which results in more trust in MVG. Our display also  shapes the city scape and transports a modern image of MVG.
 
 This interdisciplinary project was realized by computer science and design students of the University of Applied Sciences Mannheim, in cooperation with the Münchner Verkehrsbetriebe (MVG). Supervision by Prof. Dr. Till Nagel and Christian Schäfer.
+
+Daria Babco, Dario Capuana, Fabian Kargl, Katja Lüttig, Teresa Herzog
