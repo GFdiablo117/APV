@@ -2,11 +2,19 @@
 *Interactive display at tram station*
 
 # Glücksrad
-## Better commuting through livedata visualization
+## Better commuting through live data visualization
 
-Imagine not wasting your time with waiting. Our product is an interactive display that lets commuters explore public transportation in Munich at first sight. It is located at several train stations showing live data. 
+Imagine not wasting your time while waiting. Our product is an interactive display that lets commuters explore public transportation in Munich at first sight. It is located at several train stations for bus, tram and subway showing live data. 
 
-Being daily commuters ourselves we targeted our biggest problems with public transport: being uninformed while waiting for a train or bus. We challenged ourselves to generate real benefit from all the data that can be collected concerning public transport. Always with our proposal in mind: “waiting brings happiness.”
+Being daily commuters ourselves we targeted our biggest problems with public transport: being uninformed while waiting for a train or bus. We challenged ourselves to generate real benefit for the customer from all the data that can be collected concerning public transport.
+
+With our display we want to help the commuter...
+
+...to find incredible fast the best train for his individual needs.
+...to travel more relaxed and comfortable.
+...to sweeten the wait by infotaiment.
+
+Always with our goal in mind: “waiting brings happiness.”
  
 ### Product
 The “Glücksrad”  is a circular display with 90cm in diameter. The commuters position is centered on the display. You can see the public transport around you in three different zoom steps. 
