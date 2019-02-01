@@ -1,4 +1,5 @@
 ![Titelbild](./Images/headerPicture.png)
+
 *Interactive display at tram station*
 
 # Glücksrad
@@ -126,7 +127,7 @@ The landmarks are clickable and showing informations about the clicked landmark.
 
 You can see the prototype in action by watching this [video](https://vimeo.com/314707640).
 
-You can also host the prototype on your own environment following this [readme](https://vimeo.com/314707640).
+You can also host the prototype on your own environment following this [readme](./Prototyp/readme.md).
 
 ### Vision
 We want to make our Glücksrad accessible from the mobile phone where commuters can see where their bus is while they are still at home. 
