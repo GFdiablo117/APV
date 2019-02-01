@@ -10,7 +10,7 @@ Being daily commuters ourselves we targeted our biggest problems with public tra
 
 With our display we want to help the commuter...
 
-...to find incredible fast the best train for his individual needs.  
+...to find incredibly fast the best train for his individual needs.  
 ...to travel more relaxed and comfortable.  
 ...to sweeten the wait by infotaiment.  
 
@@ -129,7 +129,7 @@ The landmarks are clickable and showing informations about the clicked landmark.
 #### Full Prototype
 
 You can see the prototype in action by watching this [video](https://vimeo.com/314707640).  
-You can also host the prototype on your own environment following this [readme](./Prototyp/readme.md).
+You can also host the prototype on your own environment following this [readme](https://github.com/GFdiablo117/APV/blob/master/Prototyp/readme.md).
 
 ### Vision
 We want to make our Glücksrad accessible from the mobile phone where commuters can see where their bus is while they are still at home. 
