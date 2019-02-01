@@ -1,4 +1,4 @@
-![Titelbild](./Images/headerPicture.png)         
+![Titelbild](./Images/headerPicture.png)   
 *Interactive display at tram station*
 
 # Glücksrad
@@ -124,8 +124,7 @@ The landmarks are clickable and showing informations about the clicked landmark.
 
 #### Full Prototype
 
-You can see the prototype in action by watching this [video](https://vimeo.com/314707640).
-
+You can see the prototype in action by watching this [video](https://vimeo.com/314707640).  
 You can also host the prototype on your own environment following this [readme](./Prototyp/readme.md).
 
 ### Vision
