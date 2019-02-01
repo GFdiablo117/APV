@@ -87,9 +87,9 @@ To ensure the prototype was close to the result of our design process, we early 
 #### Technologies
 The Prototype is a web application running on a NodeJS express server. The server is used to provide static data like svgs and get live data from the mvg api. The vehicle animations and visual effects like resizing were realized with the D3.js libary on a SVG layer. Leaflet was used to display the map, markers and routes. Python was used for data processing, like mapping the train stations to the route and filter single routes for every line as well as align the Coordinates into the correct order.
 
-##### Features
+#### Features
 
-###### Animations
+##### Animations
 
 <p align="center">
   <img src="./Images/animation.gif">
@@ -98,7 +98,7 @@ The Prototype is a web application running on a NodeJS express server. The serve
 Every vehicle drives along its real daily route with its own speed. Live Data was included here so there was one symbol for every real vehicle driving at the moment in the real direction using an average driving time and a time based starting point. 
 (This feature was/is implemented but the @lynbarry/mvg-api module doesn't work anymore so it's currently running with mocked data as the mvg-api doesn't work anymore)
 
-###### Hover and Click
+##### Hover and Click
 
 <p align="center">
   <img src="./Images/clickAndHover.gif">
@@ -106,21 +106,27 @@ Every vehicle drives along its real daily route with its own speed. Live Data wa
 
 The single routes are clickable and have a hover effect on it. The user is able to click on the route or on the vehicle so the route and all vehicles using it will be highlighted. Additionally the vehicle symbols of the line will be switched out to a more detailed symbol and the route changes its color to its actual line color. 
 
-###### Zoom
+##### Zoom
 
 <p align="center">
   <img src="./Images/zoom.gif">
 </p>
 
-Its possible to zoom in and out of the application keeping the main station centered and every element on its position
+Its possible to zoom in and out of the application keeping the main station centered and every element on its position.
 
-###### Markers
+##### Markers
 
 <p align="center">
   <img src="./Images/markers.gif">
 </p>
 
 The landmarks are clickable and showing informations about the clicked landmark.
+
+#### Full Prototype
+
+You can see the prototype in action by watching this [video](https://vimeo.com/314707640).
+
+You can also host the prototype on your own environment following this [readme](https://vimeo.com/314707640).
 
 ### Vision
 We want to make our Glücksrad accessible from the mobile phone where commuters can see where their bus is while they are still at home. 
