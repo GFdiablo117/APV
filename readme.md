@@ -79,9 +79,48 @@ We asked ourselves questions and tried to collect answers to see our possibiliti
 
 We tried to depict first solutions, usually everyone sat down and worked on his or her own for a limited time and then we got together to discuss them. We quickly decided that we want to redefine the touchpoints between the commuter and the public transportation at the bus stop to provide relevant information for that location to have a stressless ride. The regular display panel at the stops does not transport enough information - there is a lot more we can show besides the incoming trains and heavy incidents. Most important is the location of the incoming trains but also the ones that recently drove off. This helps the user a lot to gain an overview of the situation he/she is in. Besides that, we want them to see the filling level of the train to provide them the opportunity to decide whether to take the full train or wait for the next one. 
 
-### Code
+### Prototype
 <!-- @Dario -->
+#### Design Arrangement
+To ensure the prototype was close to the result of our design process, we early decided us for the main concept. As a conclusion we were able to implement the main functions of the product only using placeholder symbols (circle = train.. etc.). As the symbols could easily be replaced with svgs, we arranged us to use adobe illustrator to realize our scribbles, as it's simple to export the results as svgs. In addition the meeting time was mostly used to define what should happen on which interaction so the features were exactly described after each meeting. On the other hand we used the time to decide which features are must-have, so the implementation was more focused. Each result was communicated at these meetings and if there were any problems we arranged together how we could handle it.
 
+#### Technologies
+The Prototype is a web application running on a NodeJS express server. The server is used to provide static data like svgs and get live data from the mvg api. The vehicle animations and visual effects like resizing were realized with the D3.js libary on a SVG layer. Leaflet was used to display the map, markers and routes. Python was used for data processing, like mapping the train stations to the route and filter single routes for every line as well as align the Coordinates into the correct order.
+
+##### Features
+
+###### Animations
+
+<p align="center">
+  <img src="./Images/animation.gif">
+</p>
+
+Every vehicle drives along its real daily route with its own speed. Live Data was included here so there was one symbol for every real vehicle driving at the moment in the real direction using an average driving time and a time based starting point. 
+(This feature was/is implemented but the @lynbarry/mvg-api module doesn't work anymore so it's currently running with mocked data as the mvg-api doesn't work anymore)
+
+###### Hover and Click
+
+<p align="center">
+  <img src="./Images/clickAndHover.gif">
+</p>
+
+The single routes are clickable and have a hover effect on it. The user is able to click on the route or on the vehicle so the route and all vehicles using it will be highlighted. Additionally the vehicle symbols of the line will be switched out to a more detailed symbol and the route changes its color to its actual line color. 
+
+###### Zoom
+
+<p align="center">
+  <img src="./Images/clickAndHover.gif">
+</p>
+
+Its possible to zoom in and out of the application keeping the main station centered and every element on its position
+
+###### Markers
+
+<p align="center">
+  <img src="./Images/markers.gif">
+</p>
+
+The landmarks are clickable and showing informations about the clicked landmark.
 
 ### Vision
 We want to make our Glücksrad accessible from the mobile phone where commuters can see where their bus is while they are still at home. 
