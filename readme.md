@@ -109,7 +109,7 @@ The single routes are clickable and have a hover effect on it. The user is able 
 ###### Zoom
 
 <p align="center">
-  <img src="./Images/clickAndHover.gif">
+  <img src="./Images/zoom.gif">
 </p>
 
 Its possible to zoom in and out of the application keeping the main station centered and every element on its position
