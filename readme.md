@@ -1,5 +1,4 @@
-![Titelbild](./Images/headerPicture.png)
-
+![Titelbild](./Images/headerPicture.png)         
 *Interactive display at tram station*
 
 # Glücksrad
