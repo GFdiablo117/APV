@@ -10,9 +10,9 @@ Being daily commuters ourselves we targeted our biggest problems with public tra
 
 With our display we want to help the commuter...
 
-...to find incredible fast the best train for his individual needs.
-...to travel more relaxed and comfortable.
-...to sweeten the wait by infotaiment.
+...to find incredible fast the best train for his individual needs.  
+...to travel more relaxed and comfortable.  
+...to sweeten the wait by infotaiment.  
 
 Always with our goal in mind: “waiting brings happiness.”
  
@@ -40,7 +40,11 @@ We used the round shape to display the name and the final station of the transpo
 #### Icons
 ![Gefaese](./Images/gefaese.png)
 
-The means of transport are presented as a circle displaying the coherent number of the train or bus. The ring indicates the number of passengers in each transport containers. Because this is a new form of displaying information we want to make the filling level feel intuitive like water pouring into the container. [was zu den ausgefahrenen großen icons]
+The means of transport are presented as a circle displaying the coherent number of the train or bus. When a line is selected all icons of this line get bigger and the corresponding symbol for subway, tram or bus is displayed.
+
+The ring around the icon indicates the number of passengers in each transport container and thus allows a forecast of the likelihood for a seat. As this is a new form of displaying information it was important for us to make the filling level feel intuitive like water pouring into the container.
+
+The most accurate view of the filling level we provide in zoom 1: here the transportation containers are displayed with the actual amount of carts and for every single cart the ring displays the specific filling level.
 
 ![Marker](./Images/markers.png)
 
@@ -51,7 +55,7 @@ We set a specific icon for each landmark to differentiate between them on the ma
   <img src="./Images/infobox.png">
 </p>
 
-[Maybe some text about that markers]
+By tapping a landmark a pop-up window with a brief description of the attraction appears. We show the distance to the landmark and the lines to get there. In the background the commuter can still see the overview of all lines driving in real time on our display. At a glance the customer can identify which line is currently the fastest to get to the landmark. We use the same principle when a specific stopping point is selected.
  
 #### Colors
 We applied the same colors to our icons as the actual colors of the transportation lines to make it easy to find your usual train or bus by the color. In order to not clash these colors we decided to only use different shades of grey. 
@@ -82,7 +86,7 @@ We tried to depict first solutions, usually everyone sat down and worked on his 
 ### Prototype
 <!-- @Dario -->
 #### Design Arrangement
-To ensure the prototype was close to the result of our design process, we early decided us for the main concept. As a conclusion we were able to implement the main functions of the product only using placeholder symbols (circle = train.. etc.). As the symbols could easily be replaced with svgs, we arranged us to use adobe illustrator to realize our scribbles, as it's simple to export the results as svgs. In addition the meeting time was mostly used to define what should happen on which interaction so the features were exactly described after each meeting. On the other hand we used the time to decide which features are must-have, so the implementation was more focused. Each result was communicated at these meetings and if there were any problems we arranged together how we could handle it.
+To ensure the prototype was close to the result of our design process, we early decided us for the main concept. As a conclusion we were able to implement the main functions of the product using placeholders (e.g. circle = train). As the symbols could easily be replaced with svgs, we arranged us to use adobe illustrator to realize our scribbles, as it's simple to export the results as svgs. In addition the meeting time was mostly used to define what should happen on which interaction so the features were exactly described after each meeting. On the other hand we used the time to decide which features are must-have, so the implementation was more focused. Each result was communicated at these meetings and if there were any problems we arranged together how we could handle it.
 
 #### Technologies
 The Prototype is a web application running on a NodeJS express server. The server is used to provide static data like svgs and get live data from the mvg api. The vehicle animations and visual effects like resizing were realized with the D3.js libary on a SVG layer. Leaflet was used to display the map, markers and routes. Python was used for data processing, like mapping the train stations to the route and filter single routes for every line as well as align the Coordinates into the correct order.
@@ -96,7 +100,7 @@ The Prototype is a web application running on a NodeJS express server. The serve
 </p>
 
 Every vehicle drives along its real daily route with its own speed. Live Data was included here so there was one symbol for every real vehicle driving at the moment in the real direction using an average driving time and a time based starting point. 
-(This feature was/is implemented but the @lynbarry/mvg-api module doesn't work anymore so it's currently running with mocked data as the mvg-api doesn't work anymore)
+(This feature was/is implemented but the @lynbarry/mvg-api module is currently broken so the application is running with mocked data as the module doesn't provide live data anymore.
 
 ##### Hover and Click
 
@@ -104,7 +108,7 @@ Every vehicle drives along its real daily route with its own speed. Live Data wa
   <img src="./Images/clickAndHover.gif">
 </p>
 
-The single routes are clickable and have a hover effect on it. The user is able to click on the route or on the vehicle so the route and all vehicles using it will be highlighted. Additionally the vehicle symbols of the line will be switched out to a more detailed symbol and the route changes its color to its actual line color. 
+The single routes are clickable and have a hover effect on it. The user is able to click on the route or on the vehicle so the route and all vehicles using them will be highlighted. Additionally the vehicle symbols of the line will be switched out to a more detailed symbol and the route changes its color to its actual line color. 
 
 ##### Zoom
 
