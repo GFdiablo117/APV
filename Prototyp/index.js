@@ -25,4 +25,4 @@ app.get('/departues/:station/:vehicle', async function (req, res) {
     } 
     res.send(null)
  });
-app.listen(8090);
+app.listen(8090, ()=> {console.log('app is listening on http://localhost:8090')});
